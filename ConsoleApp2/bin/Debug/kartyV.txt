@@ -1,0 +1,2889 @@
+Abandoned Sarcophagus;hou
+Abbot of Keral Keep;ori
+Abstruse Interference;ogw
+Abundance;znc
+Abzan Falconer;znc
+Abzan Guide;ktk
+Academy Drake;dom
+Academy Journeymage;dom
+Accumulated Knowledge;a25
+Acidic Slime;cm2
+Acquisitions Expert;znr
+Act of Heroism;a25
+Act of Treason;m20
+Adamant Will;dom
+Admonition Angel;znc
+Adventure Awaits;znr
+Adventurous Impulse;dom
+Adverse Conditions;bfz
+Aegis Automaton;aer
+Aegis Turtle;iko
+Aerial Guide;hou
+Aerial Maneuver;gtc
+Aerial Predation;ima
+Aeromunculus;rna
+Aesthir Glider;dom
+Aether Chaser;aer
+Aether Herder;aer
+Aether Inspector;aer
+Aether Poisoner;aer
+Aether Swooper;aer
+Aetherflux Reservoir;mb1
+Aetherize;ima
+Aethersphere Harvester;aer
+Aetherstream Leopard;aer
+Aggressive Urge;mb1
+Agonizing Remorse;thb
+Agonizing Syphon;jmp
+Ahn-Crop Champion;akh
+Ahn-Crop Crasher;akh
+Ahn-Crop Invader;war
+Aid from the Cowl;aer
+Aid the Fallen;war
+Aim High;soi
+Air Elemental;xln
+Airdrop Aeronauts;aer
+Ajani's Aid;aer
+Ajani's Chosen;c18
+Ajani's Comrade;aer
+Ajani's Presence;jou
+Ajani's Pridemate;war
+Ajani's Sunstriker;m13
+Ajani, the Greathearted;war
+Ajani, Valiant Protector;aer
+Akiri, Fearless Voyager;znr
+Akoum Hellhound;znr
+Akoum Hellkite;bfz
+Akoum Warrior;znr
+Akroma's Vengeance;c20
+Alena, Kessig Trapper;cmr
+Alert Heedbonder;iko
+All Is Dust;mm2
+All That Glitters;eld
+Alley Strangler;aer
+Allied Assault;znr
+Alpha Authority;gtc
+Alpine Watchdog;m21
+Altar of the Pantheon;thb
+Amaranthine Wall;dom
+Amareth, the Lustrous;cmr
+Ambassador Oak;a25
+Ambitious Aetherborn;kld
+Ambuscade;hou
+Amorphous Axe;cmr
+Amphin Pathmage;mb1
+Ancestral Blade;cmr
+Ancestral Mask;ema
+Ancient Brontodon;xln
+Ancient Crab;akh
+Ancient Stirrings;2xm
+Angel of Renewal;mb1
+Angel of the Dawn;cmr
+Angel of Vitality;m20
+Angelheart Protector;znr
+Angelic Armaments;cmr
+Angelic Exaltation;rna
+Angelic Gift;bfz
+Angelic Purge;mb1
+Angelsong;mb1
+Angler Drake;akh
+Angrath's Ambusher;rix
+Angrath's Fury;rix
+Angrath's Marauders;xln
+Angrath's Rampage;war
+Angrath, Minotaur Pirate;rix
+Anguished Unmaking;soi
+Anointer of Valor;cmr
+Anointer Priest;akh
+Anowon, the Ruin Sage;c17
+Anowon, the Ruin Thief;znc
+Anticipate;m19
+Anticognition;znr
+Anurid Swarmsnapper;jud
+Anvilwrought Raptor;ths
+Appeal;hou
+Applied Biomancy;rna
+Aquatic Incursion;rix
+Arboreal Grazer;war
+Arboretum Elemental;grn
+Arcane Adaptation;pxln
+Arcane Encyclopedia;jmp
+Arcane Signet;cmr
+Arcane Teachings;jud
+Archetype of Aggression;bng
+Archetype of Courage;bng
+Archon of Emeria;znr
+Archon of Sun's Grace;thb
+Archpriest of Iona;znr
+Archway Angel;rna
+Archweaver;rtr
+Ardent Electromancer;znr
+Ardenvale Tactician;eld
+Arena Athlete;ths
+Arena Trickster;thb
+Argivian Restoration;2xm
+Arguel's Blood Fast;xln
+Arlinn's Wolf;war
+Arlinn, Voice of the Pack;war
+Armorcraft Judge;kld
+Armored Transport;gtc
+Arterial Flow;rix
+Artificer's Assistant;dom
+Artificer's Epiphany;ori
+Ash Barrens;c16
+Ashes of the Abhorrent;pxln
+Ashiok's Forerunner;thb
+Ashiok's Skulker;war
+Ashiok, Sculptor of Fears;thb
+Aspect of Manticore;thb
+Asphyxiate;bng
+Atemsis, All-Seeing;pm20
+Attended Healer;znr
+Atzocan Archer;xln
+Atzocan Seer;rix
+Audacious Infiltrator;aer
+Audacious Thief;m20
+Augmenting Automaton;aer
+Augur of Bolas;war
+Auramancer;a25
+Auratouched Mage;pca
+Aurora Phoenix;cmr
+Auspicious Starrix;iko
+Avarax;ema
+Aven Eternal;war
+Aven Initiate;akh
+Aven of Enduring Hope;hou
+Aven Reedstalker;hou
+Aven Wind Mage;m19
+Avenging Arrow;rtr
+Averna, the Chaos Bloom;cmr
+Avian Oddity;iko
+Aviary Mechanic;kld
+Avid Reclaimer;hou
+Axebane Beast;rna
+Axebane Stag;rtr
+Azorius Chancery;gk2
+Azorius Cluestone;dgm
+Azorius Guildgate;rna
+Azorius Locket;rna
+Azra Smokeshaper;mh1
+Azure Fleet Admiral;cmr
+Baffling End;rix
+Bala Ged Recovery;znr
+Baleful Ammit;akh
+Baloth Gorger;dom
+Baloth Null;ogw
+Balthor the Defiled;jud
+Balustrade Spy;ima
+Band Together;war
+Bane Alley Broker;gtc
+Banishing Light;znc
+Barbarian Bully;jud
+Barging Sergeant;grn
+Barkhide Troll;m20
+Barrier Breach;iko
+Barrier of Bones;grn
+Barrin, Tolarian Archmage;m21
+Base Camp;znr
+Basilica Bell-Haunt;rna
+Basilica Guards;gtc
+Basilica Screecher;gtc
+Bastion Enforcer;aer
+Bastion Inventor;aer
+Bastion Mastodon;kld
+Battalion Foot Soldier;m20
+Batterhorn;rtr
+Battering Krasis;dgm
+Battle at the Bridge;aer
+Battle Mastery;bbd
+Battle Screech;mh1
+Battle-Rattle Shaman;ima
+Battlefield Promotion;war
+Bazaar Trademage;mh1
+Beacon Bolt;grn
+Beanstalk Giant;znc
+Beckon Apparition;gtc
+Befuddle;dom
+Behemoth Sledge;arb
+Belfry Spirit;plist
+Belle of the Brawl;eld
+Belligerent Brontodon;xln
+Bellowing Aegisaur;xln
+Bellows Lizard;ori
+Benalish Honor Guard;dom
+Beneath the Sands;hou
+Benevolent Blessing;cmr
+Benthic Giant;ths
+Beyeen Veil;znr
+Bioessence Hydra;war
+Biogenic Upgrade;rna
+Bishop of Rebirth;xln
+Bishop of the Bloodstained;xln
+Bishop's Soldier;xln
+Biting Rain;soi
+Bitterbow Sharpshooters;hou
+Black Market;mb1
+Blackblade Reforged;dom
+Blackbloom Rogue;znr
+Blade Instructor;grn
+Blade Juggler;rna
+Bladeback Sliver;mh1
+Bladebrand;cmr
+Blanchwood Armor;m19
+Blast of Genius;dgm
+Blast Zone;war
+Blazing Hope;rix
+Blazing Volley;iko
+Bleeding Edge;war
+Blessed Light;dom
+Blessing of Belzenlok;dom
+Blight Herder;bfz
+Blight Keeper;xln
+Blightbeetle;m20
+Blighted Agent;nph
+Blighted Woodland;c18
+Blindblast;war
+Blinding Flare;jou
+Blinding Fog;xln
+Blinding Souleater;mm2
+Blink of an Eye;dom
+Blisterspit Gremlin;iko
+Blitz Leech;iko
+Blood Beckoning;znr
+Blood Burglar;m20
+Blood Curdle;iko
+Blood Divination;m19
+Blood for Bones;m20
+Blood Host;jmp
+Blood Operative;grn
+Blood Price;znr
+Blood Tribute;zen
+Bloodbond Vampire;bfz
+Bloodbriar;2xm
+Bloodchief's Thirst;znr
+Bloodcrazed Paladin;xln
+Bloodfell Caves;m20
+Bloodlord of Vaasgoth;c17
+Bloodlust Inciter;akh
+Bloodmad Vampire;soi
+Bloodshot Trainee;2xm
+Bloodsoaked Altar;m20
+Bloodstone Goblin;dom
+Bloodthirsty Aerialist;m20
+Bloodthirsty Blade;c19
+Bloom Hulk;war
+Blossom Dryad;xln
+Blossoming Sands;c19
+Blow Your House Down;eld
+Blur of Blades;hou
+Board the Weatherlight;dom
+Boarding Party;cmr
+Bog Naughty;eld
+Boggart Brute;m19
+Bolrac-Clan Crusher;rna
+Bolt Bend;war
+Bomat Courier;kld
+Bombard;gnt
+Bond of Discipline;war
+Bond of Flourishing;war
+Bond of Insight;war
+Bond of Passion;war
+Bond of Revival;war
+Bonded Horncrest;xln
+Bonders' Enclave;iko
+Bone Pit Brute;m21
+Bone Saw;mb1
+Bone Splinters;m20
+Bone to Ash;m20
+Boneclad Necromancer;m20
+Bonehoard;znc
+Boot Nipper;iko
+Boreal Elemental;m20
+Boros Charm;cmr
+Boros Garrison;ima
+Boros Guildgate;c19
+Boros Locket;grn
+Boros Mastiff;dgm
+Boros Reckoner;gtc
+Borrowed Hostility;emn
+Boulder Salvo;ogw
+Bounty Agent;grn
+Bounty of the Luxa;akh
+Brainstorm;mb1
+Brambleweft Behemoth;hou
+Branchloft Pathway;znr
+Brawl-Bash Ogre;m19
+Brazen Freebooter;rix
+Brazen Wolves;emn
+Breakneck Rider;soi
+Briarblade Adept;cmr
+Briarknit Kami;sok
+Brightclimb Pathway;znr
+Brighthearth Banneret;mor
+Brightwood Tracker;m20
+Brimstone Volley;2xm
+Brinelin, the Moon Kraken;cmr
+Bristling Boar;mb1
+Broken Bond;dom
+Broken Wings;znr
+Brood Keeper;m15
+Brushfire Elemental;znr
+Brute Strength;akh
+Buccaneer's Bravado;rix
+Built to Last;kld
+Built to Smash;kld
+Bulwark Giant;war
+Burglar Rat;grn
+Burning Anger;m15
+Burning Prophet;war
+Burning-Tree Vandal;rna
+Burst of Strength;gtc
+Bushmeat Poacher;iko
+Butcher of Malakir;ddp
+Byway Courier;soi
+Cabal Evangel;dom
+Cabal Paladin;dom
+Cabal Stronghold;dom
+Cabal Therapy;ema
+Cacophodon;rix
+Caligo Skin-Witch;dom
+Call for Unity;aer
+Call of the Death-Dweller;iko
+Call of the Nightwing;mb1
+Call the Cavalry;dom
+Callous Dismissal;war
+Canal Monitor;rix
+Cancel;xln
+Candlelight Vigil;mb1
+Canopy Baloth;znr
+Canopy Stalker;m21
+Canyon Jerboa;znr
+Canyon Minotaur;m13
+Captain Vargus Wrath;cmr
+Captain's Call;cmr
+Captivating Unicorn;thb
+Capture Sphere;mb1
+Careless Celebrant;thb
+Carnage Tyrant;xln
+Carrier Thrall;bfz
+Carrion Imp;rna
+Carrion Screecher;hou
+Cartel Aristocrat;gtc
+Cartouche of Ambition;akh
+Cartouche of Strength;akh
+Cartouche of Zeal;akh
+Cascade Seer;znr
+Cascading Cataracts;akh
+Cast Down;dom
+Castaway's Despair;xln
+Catalog;soi
+Cathartic Reunion;iko
+Cathodion;cm2
+Caught in the Brights;aer
+Cauldron Familiar;jmp
+Cavalier of Flame;m20
+Cavalier of Night;m20
+Cavern Lampad;ths
+Celestial Archon;c15
+Celestial Flare;ori
+Celestial Force;cmd
+Centaur Courser;m10
+Centaur Healer;rtr
+Centaur Peacemaker;grn
+Center Soul;dtk
+Cerulean Drake;m20
+Challenger Troll;war
+Champion of the Flame;cmr
+Chandra's Defeat;hou
+Chandra's Embercat;m20
+Chandra's Fury;ori
+Chandra's Pyrohelix;war
+Chandra's Revolution;aer
+Chandra's Spitfire;m20
+Chandra's Triumph;war
+Chandra, Fire Artisan;war
+Chandra, Novice Pyromancer;m20
+Changeling Outcast;znc
+Channeler Initiate;akh
+Chaos Warp;c17
+Chaplain's Blessing;soi
+Charcoal Diamond;cmr
+Charge;dom
+Charging Monstrosaur;xln
+Charging Tuskodon;rix
+Charity Extractor;war
+Charmed Stray;war
+Chart a Course;mb1
+Checkpoint Officer;iko
+Cherished Hatchling;rix
+Child of Night;grn
+Chillbringer;rna
+Chilling Trap;znr
+Choked Estuary;soi
+Choking Restraints;emn
+Choking Tethers;mh1
+Chorus of Might;rtr
+Chorus of the Tides;bng
+Chromatic Lantern;mb1
+Cinder Barrens;rix
+Cinder Storm;a25
+Cinderclasm;znr
+Circu, Dimir Lobotomist;gk1
+Circuitous Route;znc
+Civic Stalwart;rna
+Clan Guildmage;rna
+Claustrophobia;ima
+Cleansing Ray;rix
+Cleansing Wildfire;znr
+Clear the Stage;rna
+Clearwater Pathway;znr
+Cleaving Sliver;mh1
+Cleric of Chill Depths;znr
+Cleric of Life's Bond;znr
+Cleric of the Forward Order;ori
+Cliffhaven Kitesail;znr
+Cliffhaven Sell-Sword;znr
+Cliffhaven Vampire;ogw
+Clinging Anemones;gtc
+Clip Wings;soi
+Clockwork Servant;eld
+Cloudfin Raptor;gtc
+Cloudkin Seer;m20
+Cloudpiercer;iko
+Cobblebrute;mb1
+Cobbled Wings;xln
+Codex Shredder;fmb1
+Cogwork Assembler;2xm
+Cold-Water Snapper;dom
+Collar the Culprit;grn
+Collective Blessing;rtr
+Colossal Dreadmaw;m19
+Colossal Majesty;m19
+Colossus Hammer;m20
+Combo Attack;bbd
+Command the Dreadhorde;war
+Command Tower;znc
+Commander's Sphere;znc
+Commune with Dinosaurs;xln
+Compulsory Rest;akh
+Concerted Defense;znr
+Conclave Cavalier;grn
+Conclave Guildmage;grn
+Conclave Naturalists;2xm
+Conclave Tribunal;grn
+Concordia Pegasus;rna
+Condemn;znc
+Confirm Suspicions;soi
+Confront the Unknown;soi
+Consign;hou
+Consign to Dust;jou
+Consign to the Pit;rna
+Consulate Skygate;bbd
+Consulate Turret;aer
+Consuming Aberration;znc
+Consuming Sinkhole;ogw
+Contaminated Ground;gtc
+Contentious Plan;war
+Contract Killing;xln
+Convicted Killer;soi
+Conviction;aer
+Convolute;iko
+Coordinated Assault;e01
+Coordinated Charge;iko
+Coralhelm Chronicler;znr
+Cordial Vampire;mh1
+Corpse Blockade;gtc
+Corpse Churn;ogw
+Corpse Knight;m20
+Corrosive Ooze;dom
+Corrupted Grafstone;soi
+Costly Plunder;xln
+Countervailing Winds;hou
+Countless Gears Renegade;aer
+Courage in Crisis;war
+Court Street Denizen;cmr
+Crackdown Construct;aer
+Cradle of the Accursed;akh
+Cragcrown Pathway;znr
+Cragganwick Cremator;mb1
+Cragplate Baloth;znr
+Cranial Plating;c16
+Crash the Ramparts;xln
+Crash Through;hou
+Crashing Drawbridge;eld
+Crashing Tide;mb1
+Crawling Barrens;znr
+Crawling Sensation;soi
+Creeping Trailblazer;m20
+Cremate;rtr
+Crested Herdcaller;rix
+Crimson Fleet Commodore;cmr
+Crimson Muckwader;m13
+Crocodile of the Crossing;akh
+Crop Rotation;c20
+Crow of Dark Tidings;cmr
+Crowned Ceratok;ddl
+Crucible of Fire;ima
+Cruel Celebrant;war
+Cruel Finality;aer
+Crush Contraband;grn
+Crush Dissent;war
+Crushing Canopy;xln
+Cry of the Carnarium;rna
+Cryptic Caves;znc
+Cryptic Serpent;akh
+Crystacean;iko
+Crystal Slipper;eld
+Crystalline Giant;iko
+Cult of the Waxing Moon;soi
+Cultist's Staff;emn
+Cunning Geysermage;znr
+Cunning Nightbonder;iko
+Curio Vendor;kld
+Curious Obsession;jmp
+Curse of Vitality;c17
+Cursed Minotaur;akh
+Curtain of Light;sok
+Cyclops Electromancer;war
+D'Avenant Trapper;dom
+Daggerback Basilisk;m19
+Damping Sphere;dom
+Danitha Capashen, Paragon;dom
+Daredevil Dragster;aer
+Daring Archaeologist;dom
+Daring Buccaneer;rix
+Daring Demolition;aer
+Daring Skyjek;gtc
+Dark Bargain;iko
+Dark Favor;m13
+Dark Impostor;avr
+Dark Inquiry;rix
+Dark Nourishment;xln
+Dark Revenant;rtr
+Darkblade Agent;grn
+Darksteel Axe;2xm
+Darksteel Garrison;mb1
+Dauntless Aven;hou
+Dauntless Cathar;soi
+Dauntless Survivor;znr
+Dauntless Unity;znr
+Davriel's Shadowfugue;war
+Davriel, Rogue Shadowmage;war
+Dawn Evangel;thb
+Dawnfeather Eagle;aer
+Dawning Angel;m20
+Daybreak Chaplain;m20
+Daybreak Chimera;thb
+Daysquad Marshal;iko
+Dead Man's Chest;rix
+Dead Weight;grn
+Deadeye Brawler;rix
+Deadeye Harpooner;aer
+Deadeye Plunderers;xln
+Deadeye Quartermaster;xln
+Deadeye Rig-Hauler;rix
+Deadeye Tormentor;xln
+Deadly Alliance;znr
+Death's Approach;jmp
+Deathbloom Thallid;dom
+Deathcult Rogue;gtc
+Deathpact Angel;gtc
+Debtors' Knell;mb1
+Debtors' Transport;rna
+Declare Dominance;m19
+Decommission;aer
+Deem Worthy;akh
+Deep Freeze;dom
+Deeproot Champion;xln
+Deeproot Warrior;xln
+Deface;rna
+Defend the Hearth;ths
+Defiant Greatmaw;akh
+Defiant Khenra;hou
+Defiant Salvager;aer
+Defiant Strike;war
+Deft Dismissal;aer
+Defy Gravity;jud
+Deliberate;znr
+Demolish;war
+Demon's Disciple;znr
+Demonic Vigor;dom
+Demonlord Belzenlok;dom
+Demystify;xln
+Deny Existence;soi
+Depths of Desire;xln
+Desert of the Fervent;hou
+Desert of the Glorified;hou
+Desert of the Indomitable;hou
+Desert of the True;hou
+Desert's Hold;hou
+Desperate Lunge;war
+Desperate Sentry;mb1
+Destructive Digger;m20
+Destructive Revelry;ths
+Destructive Tampering;gn2
+Deviant Glee;rtr
+Devils' Playground;soi
+Devourer of Memory;thb
+Devouring Hellion;war
+Dhund Operative;cmr
+Diabolic Edict;mh1
+Diamond Knight;m20
+Dimir Aqueduct;c20
+Dimir Charm;gk1
+Dimir Doppelganger;gk1
+Dimir Guildgate;znc
+Dimir Guildmage;gk1
+Dimir Informant;grn
+Dimir Keyrune;znc
+Dimir Locket;znc
+Dimir Signet;znc
+Dimir Spybug;grn
+Dinosaur Hunter;rix
+Dinosaur Stampede;xln
+Dinrova Horror;gk1
+Dire Fleet Captain;xln
+Dire Fleet Hoarder;xln
+Dire Fleet Interloper;xln
+Dire Fleet Neckbreaker;rix
+Dire Fleet Poisoner;rix
+Direct Current;mb1
+Disallow;aer
+Discordant Piper;thb
+Discovery;grn
+Disdainful Stroke;grn
+Disenchant;mb1
+Disfigure;m20
+Dismal Backwater;m20
+Dispel;bfz
+Dispersal Technician;aer
+Disperse;m19
+Disposal Mummy;hou
+Dissenter's Deliverance;akh
+Distant Melody;znc
+District Guide;grn
+Dive Down;xln
+Divination;dom
+Divine Verdict;rix
+Diviner's Lockbox;m20
+Djeru's Renunciation;hou
+Djeru, With Eyes Open;hou
+Doom Foretold;eld
+Doomed Dissenter;akh
+Doomgape;mb1
+Douser of Lights;grn
+Dovin, Hand of Control;war
+Dowsing Dagger;xln
+Draconic Disciple;m19
+Dragon Egg;cmr
+Dragon's Eye Sentry;mb1
+Drakuseth, Maw of Flames;m20
+Drana's Emissary;bfz
+Drana's Silencer;znr
+Drana, Liberator of Malakir;bfz
+Drana, the Last Bloodchief;znr
+Drannith Stinger;iko
+Dreadbringer Lampads;mb1
+Dreadful Apathy;thb
+Dreadhorde Arcanist;war
+Dreadhorde Butcher;war
+Dreadhorde Invasion;war
+Dreadmalkin;war
+Dreadship Reef;cm2
+Dreadwurm;znr
+Dreamcaller Siren;xln
+Dreamtail Heron;iko
+Drill Bit;rna
+Driver of the Dead;2xm
+Drown in Filth;dgm
+Drown in the Loch;eld
+Drownyard Explorers;soi
+Drowsing Tyrannodon;m21
+Drudge Beetle;rtr
+Druid of the Cowl;aer
+Dual Shot;mb1
+Dub;m21
+Dune Beetle;akh
+Duress;m20
+Durkwood Baloth;ima
+Dusk Charger;rix
+Dusk Legion Dreadnought;xln
+Dusk Legion Zealot;mb1
+Duskborne Skymarcher;xln
+Duskmantle Operative;war
+Dutiful Thrull;gtc
+Eager Construct;kld
+Eagle of the Watch;jou
+Earsplitting Rats;jud
+Earthshaker Khenra;hou
+Easy Prey;iko
+Edifice of Authority;akh
+Eel Umbra;roe
+Efficient Construction;aer
+Eidolon of Blossoms;jou
+Eidolon of Philosophy;thb
+Elaborate Firecannon;xln
+Elder Gargaroth;m21
+Eldrazi Devastator;bfz
+Eldrazi Skyspawner;bfz
+Eldritch Evolution;emn
+Electrickery;gk1
+Electrodominance;rna
+Elfhame Druid;dom
+Elite Guardmage;war
+Elite Instructor;thb
+Elite Scaleguard;znc
+Elvish Aberration;2xm
+Elvish Clancaller;m19
+Elvish Doomsayer;cmr
+Elvish Fury;mh1
+Elvish Rejuvenator;znc
+Ember-Eye Wolf;soi
+Embereth Paladin;eld
+Embodiment of Insight;znc
+Embraal Gear-Smasher;aer
+Emergence Zone;war
+Emeria Angel;znc
+Emeria Shepherd;znc
+Empyrean Eagle;m20
+Emrakul's Influence;emn
+Encampment Keeper;xln
+Endless Obedience;znc
+Enduring Sliver;mh1
+Enduring Victory;mb1
+Enforcer Griffin;war
+Engineered Might;kld
+Enigma Thief;znc
+Enlightened Ascetic;ori
+Enraged Ceratok;rna
+Enraged Giant;aer
+Enter the God-Eternals;war
+Enthralling Hold;m21
+Entourage of Trest;cmr
+Ephemerate;mh1
+Epicure of Blood;m19
+Epitaph Golem;soi
+Erratic Explosion;mb1
+Erratic Visionary;war
+Erstwhile Trooper;grn
+Escape Protocol;iko
+Escape to the Wilds;eld
+Essence Flux;soi
+Essence Scatter;akh
+Essence Symbiote;iko
+Eternal Skylord;war
+Eternal Taskmaster;war
+Eternal Thirst;jmp
+Ethereal Guidance;soi
+Etrata, the Silencer;gk1
+Ever After;soi
+Everflowing Chalice;2xm
+Evermind;plist
+Eviscerate;dom
+Evolution Sage;war
+Evolving Wilds;akh
+Evra, Halcyon Witness;mb1
+Excavation Elephant;dom
+Excoriate;e01
+Executioner's Swing;gtc
+Expedition Champion;znr
+Expedition Diviner;znr
+Expedition Healer;znr
+Expedition Raptor;mb1
+Expedition Skulker;znr
+Expel from Orazca;rix
+Explosive Apparatus;m19
+Expose Evil;mb1
+Exquisite Huntmaster;cmr
+Extract from Darkness;znc
+Exuberant Wolfbear;iko
+Exultant Cultist;emn
+Exultant Skymarcher;rix
+Eyeblight Assassin;ori
+Eyeblight Massacre;cmr
+Eyeless Watcher;bfz
+Eyes Everywhere;rna
+Face of Divinity;mh1
+Fact or Fiction;znc
+Faerie Duelist;rna
+Faerie Miscreant;m20
+Faerie Vandal;znc
+Failed Inspection;kld
+Falkenrath Aristocrat;2xm
+Falkenrath Noble;c17
+Fall from Favor;cmr
+Fall of the Hammer;bng
+Fan Bearer;akh
+Fanatical Firebrand;rix
+Far Wanderings;c16
+Farbog Revenant;soi
+Farfinder;iko
+Farm;hou
+Farsight Adept;znr
+Fated Return;znc
+Fateful End;thb
+Fateful Showdown;kld
+Fathom Fleet Boarder;rix
+Fathom Fleet Captain;xln
+Fathom Fleet Cutthroat;xln
+Fathom Fleet Firebrand;xln
+Favorable Winds;xln
+Fearless Fledgling;znr
+Feast of Dreams;jou
+Feather, the Redeemed;war
+Feed the Swarm;znr
+Felhide Brawler;bng
+Felidar Cub;bfz
+Felidar Sovereign;mb1
+Fen Hauler;aer
+Fencing Ace;m20
+Feral Abomination;dom
+Feral Invocation;m20
+Feral Maaka;rna
+Feral Prowler;hou
+Ferocious Tigorilla;iko
+Fertilid;bbd
+Fervent Champion;eld
+Fervent Strike;dom
+Festering Newt;ima
+Field Creeper;emn
+Field of the Dead;m20
+Field Research;znr
+Fierce Empath;ddu
+Fiery Cannonade;cmr
+Fiery Impulse;ori
+Fiery Intervention;dom
+Fiery Temper;mb1
+Filigree Crawler;aer
+Fin-Clade Fugitives;cmr
+Final Death;thb
+Final Flare;thb
+Final Payment;rna
+Finale of Eternity;war
+Fire Elemental;dom
+Fire Prophecy;iko
+Fire Shrine Keeper;xln
+Fire Urchin;grn
+Fireblade Charger;znr
+Firebolt;mh1
+Firecannon Blast;xln
+Firemind Vessel;war
+First-Sphere Gargantua;mh1
+Fissure Wizard;znr
+Flame Spill;iko
+Flayer Husk;2xm
+Fledgling Mawcor;jvc
+Fleet Swallower;xln
+Fleeting Memories;soi
+Fleetwheel Cruiser;kld
+Flicker of Fate;thb
+Flickerwisp;2xm
+Fling;akh
+Flood of Recollection;rix
+Flood of Tears;m20
+Flower;grn
+Flummoxed Cyclops;thb
+Fluxcharger;dgm
+Flycatcher Giraffid;iko
+Folk Medicine;jud
+Font of Agonies;rna
+Font of Fertility;jou
+Footfall Crater;iko
+Forbidden Friendship;iko
+Forbidding Spirit;rna
+Forced Adaptation;gtc
+Forced Landing;war
+Forceful Denial;cmr
+Forebear's Blade;dom
+Foreboding Fruit;eld
+Forerunner of the Coalition;rix
+Forerunner of the Empire;rix
+Forerunner of the Heralds;rix
+Forerunner of the Legion;rix
+Forever Young;eld
+Forgotten Ancient;c16
+Forgotten Cave;cmr
+Fork in the Road;soi
+Form of the Dinosaur;rix
+Forsaken Sanctuary;rix
+Fortified Rampart;bfz
+Fortress Crab;m20
+Fortuitous Find;kld
+Fortune's Favor;emn
+Foul-Tongue Invocation;ima
+Foundry Assembler;aer
+Foundry Hornet;aer
+Foundry Screecher;kld
+Fountain of Ichor;mh1
+Fourth Bridge Prowler;aer
+Fragmentize;kld
+Freed from the Real;a25
+Frenzied Rage;dom
+Frenzied Raptor;xln
+Frenzied Saddlebrute;cmr
+Fresh-Faced Recruit;grn
+Frilled Deathspitter;rix
+Frilled Sandwalla;hou
+Frilled Sea Serpent;m20
+Frogify;2xm
+Frogtosser Banneret;znc
+From Beyond;bfz
+Frontline Devastator;hou
+Frost Breath;m21
+Frost Lynx;iko
+Frostveil Ambush;iko
+Fry;m20
+Fully Grown;iko
+Funeral Rites;thb
+Fungal Infection;dom
+Fungal Reaches;tsp
+Furious Reprisal;kld
+Furious Resistance;gtc
+Furious Rise;thb
+Fury Charm;mb1
+Gadrak, the Crown-Scourge;m21
+Gaea's Revenge;ori
+Gallant Cavalry;m19
+Galloping Lizrog;rna
+Garenbrig Paladin;eld
+Gargos, Vicious Watcher;m20
+Gargoyle Sentinel;m19
+Garrison Cat;iko
+Garrison Sergeant;grn
+Garruk's Gorehorn;m21
+Garruk's Uprising;m21
+Gate to the Afterlife;akh
+Gateway Plaza;war
+Gearseeker Serpent;kld
+Gearsmith Prodigy;m19
+Geistblast;soi
+Gelectrode;gk1
+Genesis Ultimatum;iko
+Geode Rager;znc
+Ghalta, Primal Hunger;rix
+Ghastly Gloomhunter;znr
+Ghirapur Guide;jmp
+Ghitu Chronicler;dom
+Ghitu Journeymage;dom
+Ghitu Lavarunner;dom
+Ghitu War Cry;mb1
+Ghor-Clan Wrecker;rna
+Ghostform;avr
+Ghostly Sentinel;bfz
+Ghostly Wings;soi
+Giant Growth;war
+Giant Mantis;bfz
+Giant Scorpion;m13
+Giant Spider;akh
+Giant's Skewer;eld
+Gideon Blackblade;pwar
+Gideon's Battle Cry;war
+Gideon's Company;war
+Gideon's Defeat;hou
+Gideon's Reproach;dom
+Gideon's Sacrifice;war
+Gideon's Triumph;war
+Gideon, the Oathsworn;war
+Gift of Growth;dom
+Gift of Immortality;ths
+Gift of Orzhova;mm3
+Gift of Paradise;m20
+Gift of Strength;thb
+Gifted Aetherborn;jmp
+Gilded Cerodon;hou
+Gilded Light;mh1
+Gilded Lotus;dom
+Gilded Sentinel;xln
+Giltgrove Stalker;rix
+Gingerbread Cabin;eld
+Gisa's Bidding;soi
+Gishath, Sun's Avatar;xln
+Glaive of the Guildpact;grn
+Glaring Aegis;m20
+Glass of the Guildpact;rna
+Glaze Fiend;2xm
+Gleam of Resistance;mb1
+Gleaming Barrier;rix
+Gleaming Overseer;war
+Gleeful Sabotage;fmb1
+Glimmerbell;iko
+Glimpse of Freedom;thb
+Glimpse the Unthinkable;gk1
+Gloom Sower;m21
+Glorifier of Dusk;xln
+Glorious End;akh
+Glorybringer;akh
+Gluttonous Slug;mh1
+Go for Blood;iko
+Goblin Assailant;m20
+Goblin Assault Team;war
+Goblin Chainwhirler;dom
+Goblin Electromancer;ddj
+Goblin Freerunner;ogw
+Goblin Guide;2xm
+Goblin Locksmith;mb1
+Goblin Motivator;m19
+Goblin Ringleader;m20
+Goblin Smuggler;m20
+Goblin Trailblazer;rix
+God-Eternal Bontu;war
+God-Eternal Oketra;war
+God-Pharaoh's Faithful;hou
+God-Pharaoh's Gift;hou
+Godo, Bandit Warlord;2xm
+Gods Willing;uma
+Gold-Forged Sentinel;bbd
+Golden Guardian;rix
+Golem Artisan;cmr
+Golem-Skin Gauntlets;2xm
+Golgari Guildgate;grn
+Golgari Rot Farm;gk1
+Golos, Tireless Pilgrim;m20
+Goma Fada Vanguard;znr
+Gonti's Machinations;aer
+Gonti, Lord of Luxury;znc
+Gorging Vulture;m20
+Goring Ceratops;xln
+Graf Mole;soi
+Graf Rats;emn
+Grakmaw, Skyclave Ravager;znr
+Granitic Titan;hou
+Grappling Hook;c17
+Grasp of the Hieromancer;mb1
+Grasping Current;xln
+Grasping Scoundrel;rix
+Grasping Thrull;rna
+Grateful Apparition;war
+Grave Birthing;bfz
+Gravebreaker Lamia;thb
+Gravedigger;akh
+Gravel-Hide Goblin;rna
+Graven Abomination;hou
+Graverobber Spider;bng
+Gravitic Punch;mb1
+Gravity Negator;ogw
+Grazing Whiptail;xln
+Greater Sandwurm;iko
+Greenwood Sentinel;m20
+Griffin Dreamfinder;bng
+Griffin Protector;m20
+Griffin Sentinel;m20
+Grim Captain's Call;xln
+Grim Initiate;war
+Grim Physician;thb
+Grisly Salvage;rtr
+Grisly Survivor;hou
+Grotag Bug-Catcher;znr
+Grotag Night-Runner;znr
+Grotesque Mutation;bbd
+Ground Assault;gtc
+Grove of the Burnwillows;zne
+Grove Rumbler;bfz
+Grow from the Ashes;dom
+Growth Cycle;m20
+Gruesome Fate;rix
+Grumgully, the Generous;eld
+Grunn, the Lonely King;dom
+Gruul Guildgate;rna
+Gruul Locket;rna
+Gruul Turf;gk2
+Gryff's Boon;soi
+Guardian Idol;ima
+Guardians of Koilos;dom
+Guardians of Meletis;ths
+Guild Globe;war
+Guildmages' Forum;grn
+Guildscorn Ward;gtc
+Gust of Wind;iko
+Guul Draz Mucklord;znr
+Gyruda, Doom of Depths;iko
+Haakon, Stromgald Scourge;mb1
+Haazda Marshal;grn
+Haazda Officer;rna
+Hadana's Climb;rix
+Hagra Constrictor;znr
+Hagra Mauling;znr
+Haldan, Avid Arcanist;c20
+Hammer of Purphoros;ths
+Hammerhand;ima
+Hampering Snare;iko
+Hands of Binding;gtc
+Hapless Researcher;jud
+Hard Cover;m20
+Hardy Veteran;rix
+Harmonize;znc
+Harrier Naga;hou
+Harrow;cma
+Harvester Troll;ogw
+Hashep Oasis;hou
+Hatchery Spider;grn
+Haunted Cloak;soi
+Haunted Fengraf;c18
+Haunting Hymn;ima
+Havengul Vampire;cn2
+Havoc Devils;m19
+Hazardous Conditions;kld
+Haze of Pollen;akh
+Headless Specter;mh1
+Headstrong Brute;xln
+Headwater Sentries;xln
+Healer of the Glade;m20
+Healing Grace;dom
+Heartbeat of Spring;2xm
+Heartfire;war
+Heartless Act;iko
+Heat Ray;ima
+Heavenly Blademaster;c18
+Heightened Reflexes;iko
+Heir of Falkenrath;soi
+Heirloom Blade;c20
+Helica Glider;iko
+Hellkite Whelp;grn
+Hellraiser Goblin;gtc
+Henge Walker;eld
+Herald of Secret Streams;xln
+Herald of the Dreadhorde;war
+Hermit of the Natterknolls;soi
+Hero of Precinct One;prna
+Hero of the Games;thb
+Hero of the Pride;thb
+Hero of the Winds;thb
+Heroes of the Revel;thb
+Hieroglyphic Illumination;akh
+Hierophant's Chalice;xln
+High Alert;rna
+High Priest of Penance;c18
+Highborn Vampire;znr
+Highland Game;ktk
+Highland Lake;rix
+Hijack;xln
+Hinterland Drake;aer
+Hired Torturer;dgm
+Hitchclaw Recluse;grn
+Holy Mantle;gtc
+Homarid Explorer;dom
+Honed Khopesh;akh
+Honey Mammoth;iko
+Honor the God-Pharaoh;war
+Honored Crop-Captain;akh
+Hooded Brawler;akh
+Hope Against Hope;soi
+Horde of Notions;mm2
+Horror of the Broken Lands;akh
+Horror of the Dim;gtc
+Hostage Taker;xln
+Hour of Glory;hou
+Hour of Revelation;znc
+Hover Barrier;rtr
+Howlpack Resurgence;soi
+Howlpack Wolf;soi
+Huatli's Raptor;war
+Huatli, Radiant Champion;rix
+Hubris;jou
+Hulking Devil;mb1
+Humble Defector;cmr
+Humbler of Mortals;jou
+Hunt the Weak;mb1
+Hurricane;10e
+Hydra's Growth;thb
+Hydroform;gtc
+Hyena Pack;akh
+Hypothesizzle;mb1
+Hyrax Tower Scout;thb
+Ice Over;aer
+Ichor Wellspring;2xm
+Ichthyomorphosis;thb
+Icon of Ancestry;m20
+Idyllic Grange;eld
+Igneous Cur;m21
+Igneous Elemental;mh1
+Ill-Gotten Inheritance;rna
+Illusory Wrappings;akh
+Immobilizer Eldrazi;ogw
+Imoti, Celebrant of Bounty;cmr
+Impale;rix
+Impassioned Orator;rna
+Impeccable Timing;akh
+Impending Doom;thb
+Imperious Oligarch;rna
+Implement of Combustion;aer
+Implement of Examination;aer
+Implement of Ferocity;aer
+Implement of Improvement;aer
+Implement of Malice;aer
+Imposing Vantasaur;iko
+Impostor of the Sixth Pride;mh1
+Impulsive Pilferer;cmr
+In Bolas's Clutches;dom
+In Garruk's Wake;znc
+In Oketra's Name;akh
+Inaction Injunction;rtr
+Incandescent Soulstoke;lrw
+Incubation;rna
+Indatha Crystal;iko
+Induced Amnesia;rix
+Indulgent Aristocrat;soi
+Inevitable End;thb
+Infectious Horror;m19
+Infuriate;m20
+Initiate's Companion;akh
+Inner Calm, Outer Strength;sok
+Inordinate Rage;znr
+Inquisitor's Ox;soi
+Insatiable Harpy;ths
+Insatiable Hemophage;iko
+Inscription of Insight;znr
+Inscription of Ruin;znr
+Inspire Awe;thb
+Inspired Charge;m20
+Inspiring Call;znc
+Inspiring Captain;m20
+Inspiring Roar;cmr
+Inspiring Unicorn;grn
+Inspiring Veteran;eld
+Intangible Virtue;cmr
+Interplanar Beacon;war
+Interpret the Signs;cmr
+Into the Fray;sok
+Into the Roil;znr
+Intrepid Provisioner;soi
+Intrusive Packbeast;mb1
+Invade the City;war
+Invading Manticore;war
+Invasive Surgery;soi
+Inventor's Apprentice;kld
+Invert;grn
+Invisible Stalker;znc
+Invoke the Divine;dom
+Iona's Judgment;ima
+Ipnu Rivulet;hou
+Iridescent Hornbeetle;znr
+Iroas's Blessing;thb
+Iron Bully;war
+Iron Myr;fmb1
+Ironclad Krovod;war
+Ironclad Revolutionary;aer
+Ironroot Warlord;jmp
+Irontread Crusher;aer
+Ironwright's Cleansing;emn
+Irregular Cohort;mh1
+Isolate;m19
+Isolation Zone;mb1
+Ivy Elemental;iko
+Ixalan's Binding;xln
+Ixalli's Diviner;xln
+Ixalli's Keeper;xln
+Izzet Boilerworks;gk1
+Izzet Charm;rtr
+Izzet Cluestone;dgm
+Izzet Locket;c19
+Jace's Sentinel;xln
+Jace's Triumph;war
+Jace, Ingenious Mind-Mage;xln
+Jade Bearer;rix
+Jade Guardian;xln
+Jadecraft Artisan;rix
+Jadelight Ranger;rix
+Jaya's Greeting;war
+Jaya, Venerated Firemage;war
+Jeskai Sage;frf
+Jhoira's Familiar;dom
+Jiang Yanggu, Wildcrafter;war
+Join Shields;grn
+Joraga Auxiliary;ogw
+Joraga Visionary;znr
+Journey to Eternity;rix
+Journey to Oblivion;znr
+Joust;eld
+Jousting Dummy;eld
+Judge's Familiar;rtr
+Juggernaut;dom
+Jungle Creeper;rix
+Jungle Delver;xln
+Jungle Hollow;iko
+Jungle Shrine;znc
+Jungleborn Pioneer;rix
+Junktroller;rna
+Just the Wind;soi
+Justiciar's Portal;rna
+Jwar Isle Refuge;znc
+Jwari Disruption;znr
+Kaalia, Zenith Seeker;m20
+Kabira Outrider;znr
+Kabira Takedown;znr
+Kalastria Healer;bfz
+Kalastria Nightwatch;bfz
+Kamahl's Druidic Vow;dom
+Karametra's Blessing;thb
+Kari Zev's Expertise;aer
+Kari Zev, Skyship Raider;aer
+Karn's Bastion;war
+Karrthus, Tyrant of Jund;2xm
+Kasmina's Transmutation;war
+Kasmina, Enigmatic Mentor;war
+Kaya's Ghostform;war
+Kaya, Bane of the Dead;war
+Kaya, Orzhov Usurper;rna
+Kazandu Nectarpot;znr
+Kazandu Stomper;znr
+Kazuul's Fury;znr
+Keensight Mentor;iko
+Keep Safe;iko
+Keeper of Fables;znc
+Kefnet's Monument;akh
+Keldon Overseer;dom
+Keldon Raider;dom
+Keldon Warcaller;dom
+Kemba, Kha Regent;2xm
+Keruga, the Macrosage;iko
+Keskit, the Flesh Sculptor;cmr
+Kess, Dissident Mage;mh1
+Kessig Dire Swine;soi
+Kessig Forgemaster;soi
+Ketria Crystal;iko
+Keymaster Rogue;gtc
+Khalni Ambush;znr
+Khalni Heart Expedition;zen
+Khenra Scrapper;hou
+Kiln Fiend;cn2
+Kindled Fury;hou
+Kindred Boon;c17
+Kingpin's Pet;plist
+Kinjalli's Caller;xln
+Kiora's Dambreaker;war
+Kiora, Behemoth Beckoner;war
+Kitesail Cleric;znr
+Kitesail Corsair;rix
+Kitesail Freebooter;xln
+Kitsune Dawnblade;sok
+Klothys's Design;thb
+Knight of New Benalia;dom
+Knight of Sorrows;rna
+Knight of the Keep;eld
+Knight of the Stampede;rix
+Knight of the Tusk;mb1
+Kodama's Reach;znc
+Kogla, the Titan Ape;iko
+Kopala, Warden of Waves;xln
+Kor Blademaster;znr
+Kor Bladewhirl;bfz
+Kor Cartographer;znc
+Kor Castigator;bfz
+Kor Celebrant;znr
+Kor Scythemaster;ogw
+Kozilek's Pathfinder;ogw
+Kozilek's Sentinel;bfz
+Kozilek's Translator;ogw
+Kraul Foragers;mb1
+Kraul Stinger;war
+Kraul Swarm;grn
+Kronch Wrangler;war
+Krosan Tusker;mh1
+Krosan Verge;c19
+Krosan Wayfarer;jud
+Kumena's Awakening;rix
+Kumena's Speaker;xln
+Kumena, Tyrant of Orazca;rix
+Kwende, Pride of Femeref;dom
+Labyrinth Guardian;akh
+Lagonna-Band Storyteller;thb
+Lagonna-Band Trailblazer;jou
+Lampad of Death's Vigil;thb
+Lamplighter of Selhoff;soi
+Lantern of Insight;fmb1
+Larger Than Life;kld
+Lash of the Whip;ths
+Lash of Thorns;eld
+Last Breath;ths
+Last Gasp;jmp
+Latchkey Faerie;znc
+Lathnu Sailback;aer
+Lava Dart;mh1
+Lava Serpent;iko
+Law-Rune Enforcer;war
+Lawmage's Binding;jmp
+Lazav, Dimir Mastermind;znc
+Lazotep Plating;war
+Lazotep Reaver;war
+Lead by Example;ogw
+Leafkin Druid;m20
+Leapfrog;mb1
+Leave in the Dust;aer
+Ledev Champion;grn
+Ledev Guardian;grn
+Legion Conquistador;rix
+Legion Lieutenant;rix
+Legion's Judgment;xln
+Leonin Shikari;c17
+Leonin Vanguard;m19
+Lethal Sting;hou
+Leyline of the Void;m20
+Leyline Phantom;gtc
+Leyline Prowler;war
+Leyline Tyrant;znr
+Liberated Dwarf;jud
+Licia, Sanguine Tribune;c17
+Liege of the Tangle;2xm
+Life Goes On;hou
+Lifecraft Awakening;aer
+Lifecraft Cavalry;aer
+Lifecrafter's Gift;aer
+Light of Promise;m21
+Lightning Axe;2xm
+Lightning Javelin;mb1
+Lightning Stormkin;m20
+Lightning Strike;xln
+Lightning Visionary;jmp
+Liliana's Defeat;hou
+Liliana's Steward;m21
+Liliana's Triumph;war
+Limits of Solidarity;akh
+Linden, the Steadfast Queen;eld
+Lingering Phantom;dom
+Linvala, Shield of Sea Gate;znr
+Lithoform Blight;znr
+Live Fast;kld
+Living Tempest;znr
+Living Twister;znc
+Livio, Oathsworn Sentinel;cmr
+Llanowar Elves;gnt
+Llanowar Envoy;dom
+Llanowar Tribe;mh1
+Loam Dryad;soi
+Loam Larva;ogw
+Loathsome Chimera;thb
+Locthwain Gargoyle;eld
+Lone Missionary;ddn
+Lookout's Dispersal;xln
+Looming Spires;bfz
+Lotus Cobra;znr
+Lovestruck Beast;eld
+Loxodon Restorer;grn
+Loxodon Sergeant;war
+Loxodon Warhammer;c17
+Lucky Clover;eld
+Lullmage's Domination;znr
+Lullmage's Familiar;znr
+Luminarch Aspirant;znr
+Luminous Bonds;rix
+Lunarch Mantle;a25
+Lurching Rotbeast;hou
+Lutri, the Spellchaser;iko
+Luxa River Shrine;akh
+Maalfeld Twins;cmr
+Macabre Waltz;soi
+Mad Prophet;soi
+Mad Ratter;eld
+Maddening Cacophony;znr
+Maelstrom Colossus;cmr
+Mage-Ring Network;uma
+Magistrate's Scepter;m19
+Magma Jet;jmp
+Magma Spray;akh
+Magmatic Channeler;znr
+Magmatic Chasm;soi
+Magus of the Moon;ima
+Majestic Auricorn;iko
+Make a Stand;cmr
+Makeshift Battalion;war
+Makeshift Munitions;cmr
+Makindi Aeronaut;ogw
+Makindi Ox;znr
+Makindi Stampede;znr
+Malakir Blood-Priest;znr
+Malefic Scythe;m21
+Malevolent Noble;eld
+Mammoth Spider;dom
+Man-o'-War;mh1
+Mana Geode;war
+Mana Leak;ima
+Manalith;hou
+Manamorphose;2xm
+Maned Serval;iko
+Manglehorn;akh
+Manic Scribe;soi
+Manticore of the Gauntlet;akh
+Maraleaf Rider;eld
+Marang River Prowler;znc
+Marauder's Axe;m19
+Marauding Blight-Priest;znr
+Marauding Boneslasher;hou
+March of the Drowned;xln
+March of the Returned;ths
+Mardu Warshrieker;ktk
+Mark of Mutiny;m13
+Mark of the Vampire;uma
+Marsh Flitter;znc
+Martyr for the Cause;war
+Martyr of Dusk;rix
+Marwyn, the Nurturer;dom
+Mask of Immolation;m20
+Masked Blackguard;m21
+Massacre Girl;war
+Master of Etherium;2xm
+Master Thief;znc
+Masterful Replication;m20
+Mathas, Fiend Seeker;c17
+Maul of the Skyclaves;znr
+Maulfist Doorbuster;kld
+Maulfist Revolutionary;aer
+Mausoleum Harpy;rix
+Mausoleum Turnkey;rav
+Maw of Kozilek;ogw
+Maximize Velocity;grn
+Mayhem Devil;war
+Maze Abomination;dgm
+Maze Glider;dgm
+Maze Rusher;dgm
+Maze Sentinel;dgm
+Mazirek, Kraul Death Priest;2xm
+Meandering River;ogw
+Memorial to War;cmr
+Memory Leak;iko
+Memory Theft;eld
+Mephitic Vapors;mb1
+Merchant of the Vale;eld
+Merchant Raiders;cmr
+Merciless Javelineer;akh
+Merciless Resolve;soi
+Merfolk Branchwalker;xln
+Merfolk Falconer;znr
+Merfolk Looter;mb1
+Merfolk Mistbinder;plist
+Merfolk of the Depths;gtc
+Merfolk Skydiver;war
+Merfolk Windrobber;znr
+Mesa Lynx;znr
+Mesa Unicorn;dom
+Mesmerizing Benthid;rna
+Messenger's Speed;ths
+Metallic Rebuke;aer
+Metalspinner's Puzzleknot;kld
+Metamorphic Alteration;m19
+Meteoric Mace;cmr
+Metropolis Sprite;m20
+Miara, Thorn of the Glade;cmr
+Midnight Entourage;aer
+Might Beyond Reason;soi
+Might of Murasa;znr
+Might of the Masses;m20
+Mighty Leap;akh
+Migration Path;iko
+Migratory Greathorn;iko
+Militant Inquisitor;soi
+Military Intelligence;znc
+Militia Bugler;m19
+Miming Slime;gk2
+Mina and Denn, Wildborn;znc
+Mind Carver;znr
+Mind Rake;mh1
+Mind Rot;m20
+Mind Stone;znc
+Mindcrank;ima
+Mindstatic;dgm
+Mindwrack Harpy;thb
+Minion's Return;thb
+Ministrant of Obligation;rna
+Mire's Grasp;thb
+Mirko Vosk, Mind Drinker;dgm
+Mirrodin's Core;fmb1
+Mischievous Quanar;scg
+Mission Briefing;grn
+Mist-Cloaked Herald;rix
+Mistford River Turtle;eld
+Mistveil Plains;uma
+Mizzium Mortars;rtr
+Mizzium Tank;pwar
+Moaning Wall;hou
+Moat Piranhas;m20
+Mobile Garrison;aer
+Mobilized District;war
+Mogis's Favor;thb
+Molder Beast;som
+Moldgraf Scavenger;soi
+Molimo, Maro-Sorcerer;10e
+Molten Blast;znr
+Molten Rain;mm3
+Molten Slagheap;cma
+Moment of Craving;rix
+Moment of Triumph;rix
+Monstrous Onslaught;cmr
+Moonglove Extract;mb1
+Moonlit Scavengers;eld
+Moorland Inquisitor;m20
+Morgue Burst;dgm
+Morkrut Necropod;soi
+Moroii;gk1
+Mortify;rna
+Mortuary Mire;c19
+Moss-Pit Skeleton;znr
+Mosscoat Goriak;iko
+Mosswort Bridge;c18
+Mournwillow;emn
+Mugging;jmp
+Multani, Yavimaya's Avatar;znc
+Mummy Paramount;hou
+Murasa Behemoth;mh1
+Murasa Rootgrazer;znr
+Murasa Sproutling;znr
+Murder;m20
+Murderer's Axe;soi
+Murderous Rider;eld
+Muse Drake;grn
+Mutiny;rix
+Mutual Destruction;iko
+Myriad Landscape;znc
+Mysterious Egg;iko
+Mysterious Pathlighter;eld
+Mystic Forge;m20
+Mystic Monastery;c16
+Mystic Sanctuary;eld
+Mythos of Nethroi;iko
+Nadir Kraken;thb
+Naga Eternal;war
+Naga Vitalist;akh
+Nagging Thoughts;soi
+Nahiri's Binding;znr
+Nahiri's Stoneblades;war
+Nahiri, Storm of Stone;war
+Nantuko Shaman;ima
+Nantuko Tracer;jud
+Narnam Renegade;aer
+Narset, Parter of Veils;war
+Natural Connection;mb1
+Natural Obsolescence;aer
+Natural State;ogw
+Naturalize;ktk
+Nature's Chant;mh1
+Nature's Spiral;dom
+Nature's Way;jmp
+Navigator's Compass;dom
+Naya Charm;znc
+Naya Panorama;znc
+Necromantic Selection;znc
+Necromantic Summons;ori
+Necropanther;iko
+Needle Spires;znc
+Needletooth Raptor;rix
+Nef-Crop Entangler;akh
+Negate;znr
+Neglected Heirloom;soi
+Nest Robber;xln
+Netcaster Spider;cn2
+Netherborn Phalanx;gk1
+New Horizons;mb1
+Nezahal, Primal Tide;rix
+Niambi, Faithful Healer;dom
+Niblis of Dusk;soi
+Nicol Bolas, Dragon-God;war
+Night Market Guard;bbd
+Nighthawk Scavenger;znr
+Nighthowler;znc
+Nightmare Shepherd;thb
+Nightmare's Thirst;m19
+Nightmarish End;jou
+Nightshade Harvester;cmr
+Nightsquad Commando;iko
+Nightveil Predator;grn
+Nightveil Specter;gtc
+Nightveil Sprite;znc
+Nimana Skitter-Sneak;znr
+Nimana Skydancer;znr
+Nimble Trapfinder;znr
+Nimbus Naiad;ths
+Nimbus Swimmer;gk2
+Ninja of the Deep Hours;c18
+Nissa of Shadowed Boughs;znr
+Nissa's Encouragement;hou
+Nissa's Renewal;bfz
+Nissa's Zendikon;znr
+Nissa, Genesis Mage;hou
+Nivix Cyclops;dgm
+No Escape;war
+Nocturnal Feeder;jmp
+Noggle Bandit;fmb1
+Nomad Outpost;ktk
+Not Forgotten;soi
+Notion Rain;grn
+Notion Thief;znc
+Notorious Throng;znc
+Noxious Groodion;rna
+Numa, Joraga Chieftain;cmr
+Nylea's Huntmaster;thb
+Nymris, Oona's Trickster;cmr
+Nyx Infusion;jou
+Nyx Lotus;thb
+Nyxborn Colossus;thb
+Nyxborn Shieldmate;bng
+O-Naginata;2xm
+Oakhame Adversary;eld
+Oakhame Ranger;eld
+Oashra Cultivator;akh
+Oasis Ritualist;hou
+Oath of Gideon;ogw
+Oath of Kaya;war
+Oath of Teferi;dom
+Oathsworn Knight;eld
+Oathsworn Vampire;rix
+Ob Nixilis's Cruelty;war
+Obelisk of Urd;znc
+Obelisk Spider;hou
+Oblivion Stone;ima
+Oblivion's Hunger;znr
+Obuun, Mul Daya Ancestor;znc
+Octoprophet;m20
+Of One Mind;iko
+Ogre Errant;eld
+Ogre Slumlord;gtc
+Oketra's Attendant;akh
+Oketra's Avenger;hou
+Old-Growth Dryads;xln
+Olivia's Dragoon;emn
+Omen of the Dead;thb
+Omen of the Forge;thb
+Omen of the Hunt;thb
+Omenspeaker;m19
+Omnath, Locus of Rage;plist
+Omnath, Locus of the Roil;m20
+On Serra's Wings;dom
+On Thin Ice;mh1
+Onakke Ogre;m19
+One With the Wind;xln
+Onward;akh
+Oona's Blackguard;znc
+Oona, Queen of the Fae;znc
+Opal Palace;c17
+Open Fire;hou
+Open into Wonder;znc
+Open the Armory;soi
+Open the Gates;rna
+Opposition Agent;cmr
+Opt;dom
+Oracle of Nectars;mb1
+Orah, Skyclave Hierophant;znr
+Orazca Frillback;rix
+Orazca Raptor;rix
+Orazca Relic;rix
+Orcish Vandal;dom
+Ordeal of Purphoros;ddl
+Oreskos Swiftclaw;m19
+Ornamental Courage;kld
+Ornery Dilophosaur;m21
+Ornery Kudu;akh
+Ornitharch;bng
+Orzhov Basilica;gk2
+Orzhov Guildgate;war
+Orzhov Keyrune;gtc
+Orzhov Locket;rna
+Orzhov Racketeers;rna
+Otepec Huntmaster;xln
+Outflank;eld
+Outland Boar;aer
+Outmuscle;eld
+Overcome;hou
+Overgrown Armasaur;rix
+Overgrowth Elemental;m20
+Overwhelming Denial;ogw
+Pacifism;a25
+Pack Guardian;soi
+Pack Mastiff;m20
+Pack's Favor;grn
+Painful Lesson;akh
+Painted Bluffs;akh
+Paired Tactician;znr
+Pako, Arcane Retriever;c20
+Palace Sentinels;cmr
+Paladin of the Bloodstained;xln
+Pale Rider of Trostad;soi
+Palladia-Mors, the Ruiner;m19
+Paradise Druid;war
+Paranoid Parish-Blade;soi
+Parasitic Impetus;c20
+Parasitic Strix;2xm
+Parhelion Patrol;grn
+Path of Peace;a25
+Pegasus Courser;m19
+Pelakka Predation;znr
+Pelt Collector;grn
+Pentad Prism;2xm
+Perilous Myr;cmr
+Perimeter Sergeant;iko
+Persistent Petitioners;rna
+Phantom Monster;ima
+Phantom Ninja;mh1
+Pharika's Cure;ths
+Pharika's Disciple;ori
+Pharika's Libation;thb
+Pharika's Spawn;thb
+Pheres-Band Tromper;bng
+Pia's Revolution;aer
+Pieces of the Puzzle;soi
+Pierce the Sky;dom
+Pilfered Plans;dgm
+Pilfering Imp;grn
+Pious Evangel;soi
+Pious Interdiction;xln
+Pirate's Cutlass;xln
+Pirate's Pillage;rix
+Pirate's Prize;xln
+Piston-Fist Cyclops;grn
+Pit Fight;gk2
+Pitiless Gorgon;grn
+Pitiless Plunderer;rix
+Pitiless Pontiff;rna
+Plague Wight;mb1
+Plaguecrafter;mb1
+Planar Outburst;znc
+Planebound Accomplice;mh1
+Plated Crusher;bfz
+Plea for Guidance;bng
+Pledge of Unity;war
+Plummet;iko
+Pollenbright Druid;war
+Pollywog Symbiote;iko
+Pondering Mage;mh1
+Portcullis Vine;grn
+Portent of Betrayal;thb
+Pounce;xln
+Pouncing Cheetah;akh
+Pouncing Lynx;war
+Powerstone Shard;dom
+Practiced Tactics;znr
+Precise Strike;aer
+Precognition Field;dom
+Predator's Rapport;gtc
+Predatory Impetus;c20
+Preordain;cmr
+Pressure Point;znr
+Prey Upon;mb1
+Prey's Vengeance;mb1
+Price of Betrayal;war
+Price of Fame;grn
+Prickly Marmoset;iko
+Pride of Conquerors;rix
+Pride Sovereign;hou
+Primal Empathy;iko
+Primordial Wurm;dom
+Prismatic Geoscope;c16
+Prismite;war
+Prison Realm;war
+Prizefighter Construct;aer
+Profane Procession;rix
+Prohibit;mh1
+Promise of Tomorrow;cmr
+Promised Kannushi;sok
+Propeller Pioneer;kld
+Prophetic Prism;mb1
+Prosperous Pirates;xln
+Protean Raider;rix
+Protean Thaumaturge;thb
+Protection of the Hekma;akh
+Proven Combatant;hou
+Prowling Caracal;mb1
+Prowling Felidar;znr
+Prying Blade;xln
+Psychic Impetus;c20
+Pteramander;rna
+Pterodon Knight;xln
+Pursue Glory;akh
+Pyre Hound;soi
+Pyrite Spellbomb;2xm
+Pyroceratops;iko
+Pyroclastic Hellion;znr
+Pyromancer's Assault;ogw
+Quarry Beetle;hou
+Queen of Ice;eld
+Queen's Bay Soldier;xln
+Queen's Commission;xln
+Quench;rna
+Quest for the Gravelord;bbd
+Questing Beast;eld
+Quietus Spike;c17
+Rabid Bite;znr
+Rabid Bloodsucker;ori
+Rafter Demon;rna
+Rage of Purphoros;ths
+Rage-Scarred Berserker;thb
+Raging Kronch;war
+Raging Swordtooth;xln
+Rakdos Carnarium;c17
+Rakdos Cluestone;dgm
+Rakdos Guildgate;rna
+Rakdos Keyrune;rtr
+Rakdos Locket;rna
+Rakdos Roustabout;rna
+Rakdos, the Showstopper;rna
+Rakish Heir;c17
+Ral's Outburst;war
+Rally of Wings;war
+Rally to Battle;rna
+Rampaging Baloths;znc
+Rampaging Cyclops;dom
+Rampaging Hippo;hou
+Rampaging Rendhorn;rna
+Ramunap Excavator;hou
+Rancid Rats;soi
+Ranger's Guile;isd
+Ranging Raptors;xln
+Rank Officer;mh1
+Rapacious Dragon;m20
+Raptor Companion;xln
+Raptor Hatchling;xln
+Rat Colony;dom
+Raugrin Crystal;iko
+Ravager's Mace;znr
+Ravenous Chupacabra;mb1
+Ravenous Harpy;m19
+Raving Oni-Slave;sok
+Razaketh's Rite;hou
+Razortip Whip;gtc
+Read the Bones;c14
+Read the Tides;m21
+Ready;dgm
+Reaper of Flight Moonsilver;soi
+Reaper of Night;eld
+Reason;hou
+Reave Soul;eld
+Reaver Ambush;rix
+Reckless Charge;mh1
+Reckless Racer;aer
+Reckless Rage;rix
+Reckless Wurm;uma
+Reclaim the Wastes;znr
+Reclaiming Vines;bfz
+Reclusive Artificer;ori
+Reconnaissance Mission;iko
+Recover;rix
+Redcap Melee;eld
+Redcap Raiders;eld
+Reduce to Ashes;soi
+Reflector Mage;mb1
+Refocus;mb1
+Regal Leosaur;iko
+Regisaur Alpha;xln
+Regrowth;a25
+Reins of the Vinesteed;mor
+Release the Gremlins;aer
+Relentless Advance;war
+Relentless Pursuit;thb
+Relentless Raptor;rix
+Relentless Rats;plist
+Relic Amulet;znr
+Relic Axe;znr
+Relic Golem;znr
+Relic Robber;znr
+Relic Runner;dom
+Relic Seeker;ori
+Relic Vial;znr
+Remorseful Cleric;m19
+Renegade Map;aer
+Renegade Tactics;cmr
+Renegade's Getaway;aer
+Renowned Weaponsmith;frf
+Repeal;ima
+Repeating Barrage;xln
+Rescue;dom
+Reservoir Walker;aer
+Resolute Strike;znr
+Resourceful Return;aer
+Resplendent Griffin;rix
+Response;grn
+Restoration Gearsmith;kld
+Retreat to Emeria;znc
+Retreat to Hagra;bfz
+Retreat to Kazandu;bfz
+Return from Extinction;mh1
+Return of the Wildspeaker;eld
+Return to Nature;thb
+Returned Phalanx;a25
+Reverence;sok
+Revoke Existence;thb
+Rhizome Lurcher;grn
+Rhonas's Monument;gnt
+Rhox Oracle;m19
+Rhythm of the Wild;rna
+Ribbons of Night;gk1
+Riddlesmith;2xm
+Ridgescale Tusker;aer
+Rift Bolt;ima
+Rigging Runner;xln
+Righteous Blow;grn
+Riku of Two Reflections;2xm
+Rile;xln
+Ring of Kalonia;m13
+Riot Gear;gtc
+Riot Piker;dgm
+Riparian Tiger;kld
+Ripscale Predator;m20
+Riptide Turtle;thb
+Rise Again;m21
+Rise from the Grave;emn
+Risen Reef;m20
+Risen Riptide;znr
+Risen Sanctuary;rtr
+Rising Populace;war
+Rites of Flourishing;znc
+Ritual of Rejuvenation;xln
+Ritual of Soot;grn
+River Darter;mb1
+River Heralds' Boon;xln
+River Hoopoe;hou
+River Serpent;akh
+Riverwise Augur;rix
+Roalesk, Apex Hybrid;war
+Roaming Ghostlight;m21
+Rockslide Sorcerer;znr
+Rogue Refiner;aer
+Rogue's Passage;znc
+Roil Eruption;znr
+Roiling Regrowth;znr
+Role Reversal;war
+Rolling Thunder;mb1
+Rona, Disciple of Gix;dom
+Rookie Mistake;m21
+Roost of Drakes;znr
+Root Out;mb1
+Root Snare;m19
+Rootborn Defenses;mm3
+Rootbound Crag;xln
+Rosemane Centaur;mb1
+Rosethorn Acolyte;eld
+Rosethorn Halberd;eld
+Rotfeaster Maggot;ima
+Rottenheart Ghoul;soi
+Rotwidow Pack;mh1
+Rubble Reading;rna
+Rubble Slinger;rna
+Rubblebelt Boar;grn
+Rubblehulk;c18
+Rugged Highlands;ema
+Ruin Crab;znr
+Ruin in Their Wake;ogw
+Ruin Processor;bfz
+Ruin Rat;hou
+Ruinous Ultimatum;iko
+Rule of Law;m20
+Rumbling Rockslide;iko
+Rumbling Ruin;rna
+Rummaging Goblin;xln
+Runeclaw Bear;dpa
+Rush of Vitality;kld
+Rust Scarab;gtc
+Sacred Cat;akh
+Saddled Rimestag;mh1
+Sadistic Skymarcher;rix
+Sage of Mysteries;thb
+Sage of the Falls;eld
+Sage's Reverie;c18
+Sage's Row Denizen;m20
+Sage's Row Savant;jmp
+Sagittars' Volley;rna
+Saheeli's Silverwing;war
+Sailor of Means;jmp
+Salivating Gremlins;kld
+Saltcrusted Steppe;c13
+Salvage Drone;bfz
+Salvage Scuttler;aer
+Salvager of Ruin;m20
+Salvager of Secrets;m19
+Samut's Sprint;war
+Samut, Tyrant Smasher;war
+Samut, Voice of Dissent;akh
+Sanctuary Blade;c20
+Sanctum Gargoyle;mb1
+Sanctum Seeker;xln
+Sanctum Spirit;dom
+Sand Strangler;hou
+Sandblast;hou
+Sandstone Bridge;bfz
+Sandstone Oracle;znc
+Sanguine Bond;m14
+Sanguine Glorifier;rix
+Sanguine Indulgence;m21
+Sanguine Sacrament;xln
+Sanitarium Skeleton;soi
+Sapphire Drake;gtc
+Saproling Migration;dom
+Sarkhan's Catharsis;war
+Saruli Caretaker;rna
+Satyr Enchanter;m19
+Satyr Hedonist;ths
+Satyr Wayfinder;cma
+Satyr's Cunning;thb
+Sauroform Hybrid;rna
+Savage Gorger;m20
+Savage Smash;rna
+Savage Stomp;jmp
+Savai Crystal;iko
+Savai Sabertooth;iko
+Saving Grace;hou
+Savvy Hunter;eld
+Scab-Clan Charger;gtc
+Scab-Clan Giant;dgm
+Scalding Cauldron;eld
+Scale the Heights;znr
+Scaretiller;znc
+Scavenged Blade;znr
+Scavenging Harpy;thb
+Scheming Symmetry;m20
+Scion of the Swarm;znr
+Scion Summoner;ogw
+Scorch Rider;znr
+Scorch Spitter;m20
+Scorchmark;rna
+Scour All Possibilities;mh1
+Scoured Barrens;m20
+Scourge of Fleets;znc
+Scourge of the Nobilis;eve
+Scourge of the Skyclaves;znr
+Scouring Sands;bng
+Scrabbling Claws;rna
+Scrapyard Recombiner;mh1
+Screeching Skaab;ori
+Scrounger of Souls;hou
+Scute Swarm;znr
+Scuttlegator;rna
+Scuttlemutt;jmp
+Scuttling Sliver;mh1
+Scytheclaw;znc
+Sea Gate Banneret;znr
+Sea Gate Colossus;znr
+Sea Gate Restoration;znr
+Sea Gate Wreckage;ogw
+Sea Legs;rix
+Sea-Dasher Octopus;iko
+Seafloor Stalker;znr
+Seagraf Skaab;soi
+Seal Away;dom
+Seaside Citadel;mm3
+Season of Growth;m20
+Seasons Past;soi
+Secret Salvage;aer
+Secrets of the Golden City;mb1
+See Red;rix
+Seed Guardian;ogw
+Seer of the Last Tomorrow;hou
+Seer's Lantern;ogw
+Seer's Sundial;znc
+Segovian Angel;mh1
+Seismic Shift;dom
+Sejiri Shelter;znr
+Select for Inspection;kld
+Selesnya Guildgate;grn
+Selesnya Locket;grn
+Selesnya Sanctuary;gk1
+Senate Courier;rna
+Senate Griffin;rna
+Sengir Vampire;w17
+Senseless Rage;soi
+Sentinel Totem;xln
+Sephara, Sky's Blade;m20
+Sepulchral Primordial;znc
+Sequestered Stash;kld
+Seraph of the Suns;akh
+Sergeant-at-Arms;dom
+Serra Angel;m15
+Serrated Scorpion;iko
+Servo Schematic;aer
+Setessan Griffin;ths
+Setessan Petitioner;thb
+Setessan Training;thb
+Settle the Score;dom
+Severed Strands;grn
+Shadow Slice;gtc
+Shadow Stinger;znr
+Shadowmage Infiltrator;a25
+Shadowspear;thb
+Shadowstorm Vizier;akh
+Shake the Foundations;rix
+Shamble Back;soi
+Shambleshark;gtc
+Shanna, Sisay's Legacy;dom
+Shaper Apprentice;xln
+Shapers of Nature;xln
+Shark Typhoon;iko
+Shatter;rix
+Shatter Assumptions;mh1
+Shattering Blow;gtc
+Shatterskull Charger;znr
+Shatterskull Minotaur;znr
+Shatterskull Recruit;bfz
+Shell Shield;znr
+Shelter;mh1
+Sheltered Thicket;akh
+Sheltering Light;xln
+Shepherd of Heroes;znr
+Shepherd of the Flock;eld
+Shield Mare;m19
+Shielded Aether Thief;aer
+Shielded Passage;gtc
+Shimmer of Possibility;rna
+Shimmering Grotto;m14
+Shinen of Fear's Chill;sok
+Shinen of Flight's Wings;sok
+Shining Aerosaur;xln
+Shiny Impetus;c20
+Shipwreck Looter;xln
+Shipwreck Moray;aer
+Shivan Fire;dom
+Shock;aer
+Short Sword;dom
+Shoulder to Shoulder;mb1
+Shredded Sails;iko
+Shriekdiver;war
+Sidewinder Naga;hou
+Siege Modification;aer
+Siege Striker;m21
+Siege Wurm;grn
+Siege-Gang Commander;dom
+Sift;2xm
+Sifter Wurm;hou
+Sigil of the Empty Throne;c15
+Sigil of Valor;ori
+Sigiled Skink;jou
+Sigiled Sword of Valeron;m19
+Signpost Scarecrow;jmp
+Silburlind Snapper;soi
+Silent Dart;grn
+Silent Observer;mb1
+Silkweaver Elite;aer
+Silumgar's Command;znc
+Silundi Vision;znr
+Silverback Shaman;m20
+Silverclad Ferocidons;rix
+Silverflame Ritual;eld
+Silverflame Squire;eld
+Silvergill Adept;mb1
+Silversmote Ghoul;m21
+Silverstrike;soi
+Simic Charm;cmr
+Simic Cluestone;dgm
+Simic Growth Chamber;gk2
+Simic Locket;rna
+Sin Collector;mm3
+Sinister Possession;dgm
+Sinister Sabotage;grn
+Sinuous Striker;hou
+Sixth Sense;akh
+Skaab Goliath;isd
+Skatewing Spy;rna
+Skewer the Critics;rna
+Skin Invasion;soi
+Skinbrand Goblin;gtc
+Skirk Commando;a25
+Skirk Prospector;dom
+Skittering Heartstopper;xln
+Skittering Surveyor;dom
+Skola Grovedancer;thb
+Skull Collector;sok
+Skull Rend;rtr
+Skullcrack;gtc
+Sky Skiff;kld
+Sky Terror;xln
+Sky Tether;jmp
+Sky Theater Strix;war
+Skyblade of the Legion;xln
+Skyclave Apparition;znr
+Skyclave Geopede;znr
+Skyclave Pick-Axe;znr
+Skyclave Plunder;znr
+Skyclave Sentinel;znr
+Skyclave Shade;znr
+Skyclave Shadowcat;znr
+Skyclave Squid;znr
+Skyknight Vanguard;m20
+Skyline Cascade;bfz
+Skyline Scout;grn
+Skymarch Bloodletter;xln
+Skymarcher Aspirant;rix
+Skyship Plunderer;aer
+Skyway Sniper;m21
+Slaughter Drone;ogw
+Slaughterhorn;gtc
+Slaying Fire;eld
+Sleep of the Dead;thb
+Sleep Paralysis;m20
+Sleeper Dart;iko
+Slice in Twain;xln
+Slimebind;rna
+Slimefoot, the Stowaway;dom
+Slippery Scoundrel;rix
+Slither Blade;znc
+Sludge Crawler;bfz
+Smash to Smithereens;ori
+Smelt-Ward Ignus;rna
+Smelt-Ward Minotaur;grn
+Smite the Monstrous;bfz
+Smoldering Spires;e01
+Smothering Abomination;bfz
+Smothering Tithe;rna
+Snapping Drake;m19
+Snare Tactician;iko
+Snarespinner;war
+Sneaking Guide;znr
+Snubhorn Sentry;rix
+Soaring Thought-Thief;znr
+Sol Ring;cmr
+Solar Blaze;war
+Solemn Recruit;aer
+Solid Footing;iko
+Solitary Camel;hou
+Solitary Hunter;soi
+Sonic Assault;grn
+Sorcerer of the Fang;m20
+Sorcerer's Broom;eld
+Sorcerer's Wand;dom
+Sorcerous Spyglass;xln
+Sorin's Thirst;war
+Sorin, Vengeful Bloodlord;war
+Soul Diviner;pwar
+Soul Manipulation;znc
+Soul of the Rapids;rix
+Soul Salvage;dom
+Soul Sear;m21
+Soul Shatter;znr
+Soul Tithe;rtr
+Soul's Might;ala
+Soul-Guide Lantern;thb
+Soul-Strike Technique;mh1
+Soulmender;m20
+Soulstinger;akh
+Sovereign's Bite;m19
+Spare Supplies;znr
+Spark Harvest;war
+Spark of Creativity;kld
+Spark Reaper;war
+Sparkmage's Gambit;ogw
+Sparktongue Dragon;mb1
+Sparring Construct;dom
+Sparring Mummy;akh
+Spectral Sailor;m20
+Spell Pierce;xln
+Spelleater Wolverine;iko
+Spellgorger Weird;war
+Spellkeeper Weird;war
+Spellweaver Eternal;hou
+Sphinx of the Guildpact;2xm
+Sphinx of the Second Sun;cmr
+Sphinx of Uthuun;m13
+Sphinx's Tutelage;mb1
+Spike Jester;dgm
+Spikefield Hazard;znr
+Spinal Embrace;znc
+Spined Megalodon;m21
+Spinehorn Minotaur;mh1
+Spiraling Embers;sok
+Spire Mangler;rna
+Spire Patrol;aer
+Spire Winder;rix
+Spireside Infiltrator;kld
+Spirit Cairn;jud
+Spitfire Lagac;znr
+Splendid Agony;akh
+Spoils of Adventure;znr
+Spontaneous Flight;iko
+Spore Frog;mh1
+Sporemound;znc
+Spreading Rot;xln
+Spring;akh
+Springbloom Druid;znc
+Springjaw Trap;iko
+Springmantle Cleric;znr
+Sprite Dragon;iko
+Spurnmage Advocate;jud
+Squad Captain;cmr
+Squire's Devotion;rix
+Sram's Expertise;aer
+Stab Wound;m15
+Staff of Domination;cmr
+Staggering Insight;thb
+Stalking Drone;ogw
+Stampeding Horncrest;rix
+Starfall;jou
+Starlit Mantle;thb
+Startled Awake;soi
+Startling Development;iko
+Staunch Shieldmate;m21
+Staunch Throneguard;cmr
+Stave Off;ddn
+Steadfast Sentinel;hou
+Steady Aim;war
+Stealth Mission;war
+Steel Leaf Champion;dom
+Steelgaze Griffin;eld
+Steeple Creeper;rna
+Stensia Banquet;emn
+Stigma Lasher;fmb1
+Stinging Shot;akh
+Stinkdrinker Bandit;znc
+Stir the Sands;akh
+Stirring Address;mh1
+Stitched Mangler;soi
+Stoic Builder;soi
+Stolen Identity;gk1
+Stone Golem;bbd
+Stone Quarry;m19
+Stoneforge Masterwork;ogw
+Stonework Packbeast;znr
+Storm Fleet Arsonist;xln
+Storm Fleet Pyromancer;xln
+Storm Fleet Sprinter;rix
+Storm Fleet Spy;xln
+Storm Fleet Swashbuckler;rix
+Storm Sculptor;mb1
+Storm Strike;rna
+Storm the Citadel;war
+Storm the Vault;rix
+Strategic Planning;hou
+Stream of Thought;mh1
+Street Riot;grn
+Strength of Arms;2xm
+Strength of Solidarity;znr
+Strength of the Pack;rix
+Strider Harness;rix
+String of Disappearances;mh1
+Strip Bare;shm
+Stromkirk Captain;dka
+Stromkirk Mentor;soi
+Stronghold Confessor;dom
+Structural Distortion;soi
+Struggle;znc
+Student of Ojutai;dtk
+Submerged Boneyard;m19
+Subtle Strike;znr
+Sudden Spinnerets;iko
+Sumala Woodshaper;grn
+Summary Judgment;rna
+Summoner's Pact;a25
+Sun Sentinel;rix
+Sun Titan;znc
+Sun-Collared Raptor;rix
+Sun-Crested Pterodon;rix
+Sunblade Angel;war
+Sunblast Angel;c20
+Sunmane Pegasus;thb
+Sunrise Seeker;xln
+Supernatural Stamina;2xm
+Supply Caravan;akh
+Supreme Will;hou
+Sure Strike;xln
+Sure-Footed Infiltrator;znr
+Surreal Memoir;ima
+Survival Cache;ima
+Survivors' Bond;iko
+Survivors' Encampment;hou
+Sustainer of the Realm;ima
+Swab Goblin;rix
+Swaggering Corsair;rix
+Swathcutter Giant;grn
+Sweatworks Brawler;aer
+Sweep Away;jmp
+Sweltering Suns;akh
+Swift Response;m21
+Swift Warden;rix
+Swimmer in Nightmares;thb
+Swirling Torrent;rna
+Swordwise Centaur;bng
+Sworn Companions;grn
+Sworn Guardian;rix
+Sygg, River Cutthroat;znc
+Sylvan Advocate;ogw
+Sylvan Awakening;dom
+Sylvan Brushstrider;rna
+Sylvan Reclamation;znc
+Synchronized Spellcraft;znr
+Synchronized Strike;akh
+Syncopate;gk1
+Syndicate Enforcer;gtc
+Syndicate Guildmage;rna
+Syndicate Messenger;rna
+Syndicate Trafficker;kld
+Syr Faren, the Hengehammer;eld
+Syr Konrad, the Grim;znc
+Szadek, Lord of Secrets;gk1
+Szat's Will;cmr
+Tah-Crop Elite;akh
+Tah-Crop Skirmisher;akh
+Tajuru Blightblade;znr
+Tajuru Pathwarden;ogw
+Tajuru Snarecaster;znr
+Tajuru Stalwart;bfz
+Take Heart;grn
+Take into Custody;aer
+Talent of the Telepath;ori
+Talisman of Conviction;mh1
+Talisman of Creativity;mh1
+Talisman of Hierarchy;mh1
+Tamiyo's Epiphany;war
+Tangled Florahedron;znr
+Tasseled Dromedary;kld
+Tatyova, Benthic Druid;dom
+Tazeem Raptor;znr
+Tazeem Roilmage;znr
+Tectonic Giant;thb
+Tectonic Rift;m20
+Teeterpeak Ambusher;znr
+Teferi's Sentinel;dom
+Teferi's Time Twist;war
+Teferi, Timebender;dom
+Telling Time;gk1
+Tempest Caller;xln
+Temple Altisaur;rix
+Temple Garden;grn
+Temple of Abandon;thb
+Temple of Malice;thb
+Temple of Silence;ths
+Temple of the False God;mb1
+Temple of Triumph;ths
+Temple Thief;thb
+Temporal Machinations;dom
+Tenacious Hunter;hou
+Tendershoot Dryad;rix
+Tenth District Legionnaire;war
+Tenth District Veteran;rna
+Terrain Elemental;kld
+Terramorphic Expanse;znc
+Territorial Boar;rna
+Territorial Hammerskull;xln
+Territorial Scythecat;znr
+Terrus Wurm;rtr
+Tetsuko Umezawa, Fugitive;dom
+Tetzimoc, Primal Death;rix
+Teyo's Lightshield;war
+Tezzeret's Touch;aer
+Thalia's Lieutenant;soi
+The Birth of Meletis;thb
+The Elderspell;war
+The Eldest Reborn;dom
+The First Iroan Games;thb
+The Gitrog Monster;soi
+The Mending of Dominaria;znc
+The Ozolith;piko
+The Prismatic Piper;cmr
+The Wanderer;war
+Thespian's Stage;gtc
+Thicket Crasher;m20
+Thieves' Guild Enforcer;m21
+Thieving Otter;iko
+Thirst for Knowledge;mma
+Thirst for Meaning;thb
+Thirsting Bloodlord;m20
+Thirsting Shade;rna
+Thopter Engineer;2xm
+Thorn Elemental;dom
+Thornado;mh1
+Thornbow Archer;ori
+Thorned Moloch;hou
+Thornwood Falls;iko
+Those Who Serve;akh
+Thought Distortion;m20
+Thought Scour;jmp
+Thought Vessel;mb1
+Thoughtbound Phantasm;grn
+Thraben Gargoyle;soi
+Thraben Inspector;2xm
+Thran Dynamo;c19
+Thrash of Raptors;xln
+Thrashing Brontodon;rix
+Three Dreams;rav
+Threnody Singer;thb
+Thresher Lizard;a25
+Thrill of Possibility;thb
+Thriving Ibex;kld
+Thriving Moor;jmp
+Thriving Rats;kld
+Throttle;soi
+Thrumming Stone;plist
+Thunder Drake;war
+Thundering Ceratok;war
+Thundering Rebuke;znr
+Thundering Sparkmage;znr
+Thundering Spineback;xln
+Thundermaw Hellkite;ima
+Thwart the Enemy;iko
+Thwart the Grave;znr
+Tiana, Ship's Caretaker;dom
+Tide Skimmer;m21
+Tidy Conclusion;kld
+Tilonalli's Crown;rix
+Tilonalli's Knight;xln
+Timberpack Wolf;a25
+Tireless Tracker;soi
+Tishana's Wayfinder;xln
+Titanic Growth;m20
+Tithe Drinker;dgm
+Tithebearer Giant;war
+Together Forever;znc
+Toil;dgm
+Toll of the Invasion;war
+Tome Anima;m21
+Tome Raider;eld
+Topple the Statue;war
+Torch Gauntlet;kld
+Torii Watchward;sok
+Torment of Hailfire;hou
+Torment of Venom;hou
+Tormenting Voice;m19
+Totally Lost;war
+Towering Thunderfist;gtc
+Towering-Wave Mystic;thb
+Toxin Sliver;mb1
+Tragic Lesson;hou
+Tragic Poet;dom
+Trail of Evidence;mb1
+Trait Doctoring;dgm
+Tranquil Cove;iko
+Tranquil Expanse;aer
+Transcendent Envoy;thb
+Trapped in the Tower;eld
+Traveler's Amulet;rix
+Treacherous Terrain;znc
+Treacherous Werewolf;jud
+Treasure Mage;ddu
+Treasury Thrull;gk2
+Trepanation Blade;isd
+Trespasser's Curse;akh
+Trial of Knowledge;akh
+Triton Fortune Hunter;ths
+Triton Shorestalker;znc
+Triton Waverider;thb
+Triumphant Surge;thb
+Trophy Mage;aer
+Trove Warden;znc
+True Love's Kiss;eld
+Truefire Captain;grn
+Trufflesnout;m21
+Trumpet Blast;m19
+Trumpeting Gnarr;iko
+Trusted Pegasus;war
+Trusty Packbeast;m19
+Turn into a Pumpkin;eld
+Turn to Slag;som
+Turntimber Ascetic;znr
+Turret Ogre;war
+Tuskguard Captain;znc
+Twilight Panther;rna
+Twin-Silk Spider;mh1
+Twins of Maurer Estate;mb1
+Two-Headed Cerberus;ths
+Tymaret, Chosen from Death;thb
+Tymaret, the Murder King;ths
+Tymna the Weaver;cmr
+Tyrant's Scorn;war
+Ubul Sar Gatekeepers;dgm
+Ugin's Conjurant;war
+Ulamog's Nullifier;bfz
+Ulrich's Kindred;soi
+Ulvenwald Hydra;soi
+Ulvenwald Mysteries;plist
+Umara Entangler;ogw
+Umara Mystic;znr
+Umara Wizard;znr
+Unbridled Growth;aer
+Unburden;akh
+Uncomfortable Chill;m19
+Undead Servant;m20
+Undercity Necrolisk;grn
+Undercity Plague;gtc
+Undercity Scavenger;rna
+Undercity Troll;ima
+Undercity's Embrace;mb1
+Underhanded Designs;kld
+Underworld Charger;thb
+Undying Rage;cmr
+Unexplained Disappearance;grn
+Unexplained Vision;eld
+Unflinching Courage;c18
+Unfriendly Fire;xln
+Universal Solvent;mb1
+Unknown Shores;thb
+Unlikely Aid;war
+Unquenchable Thirst;hou
+Unsummon;hou
+Unwavering Initiate;akh
+Unwind;dom
+Urban Utopia;grn
+Urgoros, the Empty One;dom
+Urza's Power Plant;2xm
+Urza's Rage;mh1
+Urza's Ruinous Blast;dom
+Utility Knife;znr
+Valakut Awakening;znr
+Valakut Exploration;znr
+Valakut Predator;mb1
+Valduk, Keeper of the Flame;dom
+Valiant Knight;m19
+Valor in Akros;ori
+Valorous Steed;m21
+Vampire Envoy;mb1
+Vampire Noble;soi
+Vampire of the Dire Moon;m20
+Vampire Opportunist;war
+Vampire Revenant;rix
+Vampire's Zeal;xln
+Vampiric Fury;isd
+Vanquish the Weak;znr
+Vanquisher's Banner;pxln
+Vassal Soul;rtr
+Vastwood Fortification;znr
+Vastwood Surge;znr
+Vedalken Mesmerist;grn
+Venerated Loxodon;grn
+Verdant Automaton;aer
+Verdant Force;c15
+Verdant Haven;gtc
+Vernadi Shieldmate;grn
+Vesperlark;mh1
+Vessel of Ephemera;soi
+Vessel of Malignity;soi
+Vessel of Paramnesia;soi
+Vessel of Volatility;soi
+Vestige of Emrakul;bfz
+Veteran Adventurer;znr
+Veteran Motorist;kld
+Veteran's Sidearm;ori
+Vial of Dragonfire;m20
+Vicious Conquistador;xln
+Vicious Offering;dom
+Vicious Rumors;grn
+Vigor;mb1
+Vindictive Vampire;rna
+Vine Gecko;znr
+Vineshaper Mystic;xln
+Violent Impact;akh
+Virulent Swipe;mb1
+Vish Kal, Blood Arbiter;2xm
+Vito, Thorn of the Dusk Rose;m21
+Vivien's Grizzly;war
+Vizier of the Anointed;hou
+Vizkopa Vampire;rna
+Void Beckoner;iko
+Void Grafter;ogw
+Voidwielder;rtr
+Volatile Claws;mh1
+Volcanic Dragon;mb1
+Volcanic Upheaval;bfz
+Voldaren Duelist;gn2
+Voltaic Servant;dom
+Vona, Butcher of Magan;xln
+Voracious Typhon;thb
+Voracious Vampire;rix
+Vorstclaw;m20
+Vow of Flight;e02
+Vraska's Finisher;war
+Vraska, Swarm's Eminence;war
+Vulshok Gauntlets;2xm
+Wake of Vultures;mb1
+Waker of the Wilds;xln
+Waker of Waves;m21
+Walk the Plank;xln
+Walker of the Grove;uma
+Walking Atlas;wwk
+Wall of Lost Thoughts;rna
+Wall of Mist;grn
+Wall of Runes;war
+Wall of Vines;m19
+Wanderer's Strike;war
+War Screecher;war
+Warden of Geometries;ogw
+Warden of the Chained;thb
+Wardscale Crocodile;war
+Warlord's Fury;dom
+Warped Landscape;c18
+Warped Physique;gk1
+Warping Wail;ogw
+Warrant;rna
+Wary Okapi;grn
+Wasteland Scorpion;akh
+Watcher in the Web;soi
+Watchful Giant;rna
+Watercourser;m13
+Waterknot;rix
+Watertrap Weaver;xln
+Wave-Wing Elemental;mb1
+Wavebreak Hippocamp;thb
+Wavecrash Triton;ths
+Waxing Moon;emn
+Wayfaring Temple;mm3
+Wayward Giant;kld
+Wayward Guide-Beast;znr
+Wayward Swordtooth;rix
+Weapon Rack;eld
+Weaponize the Monsters;iko
+Weaver of Currents;akh
+Welder Automaton;aer
+Weldfast Engineer;aer
+Welkin Tern;gs1
+Well of Ideas;2xm
+Whims of the Fates;bng
+Whirler Rogue;znc
+Whirlwind Denial;thb
+Whisper Squad;iko
+Whisper, Blood Liturgist;dom
+Whispersilk Cloak;mb1
+Whispersteel Dagger;znc
+Wicker Witch;soi
+Wight of Precinct Six;ima
+Wild Celebrants;ths
+Wild Ceratok;grn
+Wild Wanderer;kld
+Wild-Field Scarecrow;soi
+Wildgrowth Walker;xln
+Wildsize;ima
+Wilt;iko
+Wily Goblin;xln
+Wind Drake;m10
+Wind Strider;xln
+Wind-Scarred Crag;c17
+Windcaller Aven;mh1
+Winds of Rebuke;akh
+Winged Words;m20
+Wingfold Pteron;iko
+Wings of Hubris;thb
+Wishcoin Crab;mb1
+Witch's Cauldron;m21
+Witch's Cottage;eld
+Witch's Oven;eld
+Witching Well;eld
+Without Weakness;hou
+Wizard's Lightning;dom
+Wizard's Retort;dom
+Wojek Halberdiers;gtc
+Wolf's Quarry;eld
+Wolfkin Bond;m20
+Wolfrider's Saddle;m20
+Wolfwillow Haven;thb
+Woodland Champion;2xm
+Woodland Stream;xln
+Woodweaver's Puzzleknot;kld
+Workshop Assistant;cmr
+Worldsoul Colossus;grn
+Worn Powerstone;plist
+Wrangle;aer
+Wrecking Beast;rna
+Wretched Camel;hou
+Yarok's Wavecrasher;m20
+Yasharn, Implacable Earth;znr
+Yavimaya Elder;znc
+Yavimaya Sapherd;dom
+Yeva's Forcemage;mb1
+Yoked Ox;m20
+Yore-Tiller Nephilim;fmb1
+Yuriko, the Tiger's Shadow;cmr
+Zacama, Primal Calamity;rix
+Zagoth Crystal;iko
+Zagoth Mamba;iko
+Zagras, Thief of Heartbeats;znr
+Zahid, Djinn of the Lamp;dom
+Zameck Guildmage;gtc
+Zara, Renegade Recruiter;cmr
+Zealous Strike;mb1
+Zendikar's Roil;mb1
+Zephyr Charge;m20
+Zetalpa, Primal Dawn;rix
+Zhur-Taa Swine;gtc
+Zoetic Cavern;a25
+Zof Consumption;znr
+Zombify;a25
+Zulaport Cutthroat;znc
+Zulaport Duelist;znr

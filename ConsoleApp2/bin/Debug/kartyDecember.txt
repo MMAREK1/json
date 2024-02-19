@@ -1,0 +1,30 @@
+Turntimber Symbiosis;znr
+Queen Marchesa;cmr
+Riverglide Pathway;znr
+Terramorphic Expanse;cmr
+Thought Vessel;cmr
+Sakashima's Protege;cmr
+Court of Ambition;cmr
+Slurrk,All-Ingesting;cmr
+Hagra Mauling;znr
+Squad Commander;znr
+Island;znr
+Livio,Oathsworn Sentinel;cmr
+Opal Palace;cmr
+Brushfire Elemental;znr
+Song-Mad Treachery;znr
+Foundry Inspector;cmr
+Radiant,Serra Archangel;cmr
+Ghost of Ramirez DePietro;cmr
+Skyclave Pick-Axe;znr
+Chilling Trap;znr
+Horizon Scholar;cmr
+Living Tempest;znr
+Nimana Skitter-Sneak;znr
+Shepherd of Heroes;znr
+Squad Captain;cmr
+Turntimber Ascetic;znr
+Wildheart Invoker;cmr
+Captain's Call;cmr
+Akoum Hellhound;znr
+Canopy Baloth;znr

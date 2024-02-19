@@ -1,0 +1,3441 @@
+Rejuvenating Springs;CMR;1;Foil;709
+Thrumming Stone;PLIST;1;;275
+Smothering Tithe;RNA;1;;22
+Zacama,Primal Calamity;RIX;1;;174
+Tymna the Weaver;CMR;1;Foil;539
+Field of the Dead;M20;1;;247
+Freed from the Real;SOK;1;Foil;38
+Wayward Swordtooth;RIX;1;Foil;150
+The Ozolith;PIKO;1;Foil;237s
+Esika,God of the Tree // The Prismatic Bridge;KHM;1;Foil;168
+Magus of the Moon;IMA;1;;138
+Goldspan Dragon;KHM;1;;139
+Opposition Agent;CMR;1;;141
+Drana,Liberator of Malakir;BFZ;1;Foil;109
+Elder Gargaroth;M21;1;;179
+Questing Beast;ELD;1;;171
+Omnath,Locus of the Roil;M20;1;;216
+Torment of Hailfire;HOU;1;;77
+Undergrowth Stadium;CMR;1;;714
+Shark Typhoon;IKO;1;;67
+Summoner's Pact;A25;1;;189
+Gishath,Sun's Avatar;XLN;1;;222
+Vanquisher's Banner;XLN;1;;251
+Glimpse the Unthinkable;GK1;1;;15
+Queen Marchesa;CMR;1;Foil;531
+Turntimber Symbiosis // Turntimber,Serpentine Wood;ZNR;1;;364
+Yuriko,the Tiger's Shadow;CMR;1;Foil;542
+Temple Garden;GRN;1;;258
+Nicol Bolas,Dragon-God;WAR;1;;207
+Sol Ring;CMR;1;;700
+Balthor the Defiled;JUD;1;;61
+Carnage Tyrant;XLN;1;;179
+Najeela,the Blade-Blossom;CMR;1;Foil;514
+Scourge of the Skyclaves;ZNR;1;;122
+Aetherflux Reservoir;MB1;1;;1539
+Golos,Tireless Pilgrim;M20;1;;226
+Shadowspear;THB;1;;236
+The World Tree;KHM;1;;373
+Chromatic Lantern;MB1;1;;1559
+Skyclave Apparition;ZNR;2;;39
+Orvar,the All-Form;KHM;1;;305
+God-Eternal Oketra;WAR;1;;16
+Anguished Unmaking;SOI;1;;242
+Tergrid,God of Fright // Tergrid's Lantern;KHM;1;;307
+Tyvar Kell;KHM;1;;198
+Evolution Sage;WAR;1;Foil;159
+All Is Dust;MB1;1;;1
+Sea Gate Restoration // Sea Gate,Reborn;ZNR;1;;76
+Staff of Domination;CMR;1;;701
+Omnath,Locus of Rage;PLIST;1;;224
+Riku of Two Reflections;2XM;1;;214
+Vigor;MB1;1;;1368
+Huatli,Radiant Champion;RIX;1;;159
+Tireless Tracker;SOI;1;;233
+Leonin Shikari;C17;1;;66
+Journey to Eternity // Atzal,Cave of Eternity;RIX;1;;160
+Leyline of the Void;M20;1;;107
+Grove of the Burnwillows;ZNE;1;;25
+Ramunap Excavator;HOU;1;;129
+Hengegate Pathway // Mistgate Pathway;KHM;2;;293
+Gideon Blackblade;PWAR;1;;13p
+Thieves' Guild Enforcer;M21;1;;361
+Barkchannel Pathway // Tidechannel Pathway;KHM;1;;290
+Kumena,Tyrant of Orazca;RIX;1;;162
+Rootbound Crag;XLN;1;Foil;256
+Warping Wail;OGW;1;Foil;12
+Edgar Markov;OC17;1;Foil;36
+Angrath,Minotaur Pirate;RIX;1;Foil;201
+Disallow;AER;1;;31
+The Gitrog Monster;SOI;1;;245
+Mindcrank;IMA;1;;220
+Vona,Butcher of Magan;XLN;1;;231
+Scheming Symmetry;M20;1;;113
+Pitiless Plunderer;RIX;1;;81
+Fabricate;PLIST;1;;58
+Avenger of Zendikar;CMR;1;;422
+Leyline Tyrant;ZNR;1;;348
+Mystic Reflection;KHM;1;;69
+Ulvenwald Hydra;SOI;1;;235
+Tendershoot Dryad;RIX;1;;147
+Black Market;MB1;1;;575
+Thought Vessel;MB1;1;;1639
+Feather,the Redeemed;WAR;1;Foil;197
+Ghalta,Primal Hunger;RIX;2;;130
+Goblin Guide;2XM;1;;127
+Dowsing Dagger // Lost Vale;XLN;1;;235
+Sphinx of the Second Sun;CMR;1;;99
+Search for Glory;KHM;1;Foil;340
+Storm the Vault // Vault of Catlacan;RIX;1;;173
+Cavalier of Night;M20;1;;94
+Riverglide Pathway // Lavaglide Pathway;ZNR;1;;289
+Clearwater Pathway // Murkwater Pathway;ZNR;1;;260
+Gilded Lotus;DOM;2;;215
+Hostage Taker;XLN;1;;223
+Sea-Dasher Octopus;IKO;1;Foil;286
+Eldritch Evolution;EMN;1;;155
+Cascading Cataracts;AKH;1;;240
+Barkchannel Pathway // Tidechannel Pathway;KHM;1;Foil;251
+Thought Vessel;CMR;1;;703
+Cabal Stronghold;DOM;1;;238
+Oblivion Stone;IMA;1;;223
+Kaya,Orzhov Usurper;RNA;1;;186
+Cavalier of Flame;M20;1;;125
+Mathas,Fiend Seeker;C17;1;Foil;42
+Nissa,Genesis Mage;HOU;1;Foil;200
+Mystic Forge;M20;1;;233
+Manamorphose;2XM;1;Foil;208
+Urza's Ruinous Blast;DOM;1;Foil;39
+Thran Dynamo;C19;1;;225
+Tatyova,Benthic Druid;DOM;1;;206
+Thundermaw Hellkite;IMA;1;;149
+Nyx Lotus;THB;1;;235
+Karn's Bastion;WAR;1;;248
+Quietus Spike;C17;1;;220
+Dimir Signet;GK1;2;;22
+Jace,Ingenious Mind-Mage;XLN;1;Foil;280
+Seasons Past;SOI;1;;226
+Vito,Thorn of the Dusk Rose;M21;1;;127
+Arcane Adaptation;PXLN;1;;46p
+Blast Zone;WAR;1;;244
+Brightclimb Pathway // Grimclimb Pathway;ZNR;1;;259
+Samut,Voice of Dissent;AKH;1;;205
+Nissa of Shadowed Boughs;ZNR;1;;283
+Mischievous Quanar;PLIST;1;;66
+Ruinous Ultimatum;IKO;1;;204
+Kindred Boon;C17;1;;5
+Boros Reckoner;GTC;1;Foil;215
+Terramorphic Expanse;CMR;1;Foil;712
+Hadana's Climb // Winged Temple of Orazca;RIX;1;;158
+Sanguine Bond;M14;1;;112
+Drown in the Loch;ELD;1;;188
+Lotus Cobra;ZNR;1;;193
+Arcane Signet;ZNC;2;;106
+Haunting Voyage;KHM;1;Foil;98
+Lotus Cobra;ZNR;1;;307
+Rhythm of the Wild;RNA;3;;201
+Satyr Enchanter;M19;1;Foil;223
+Branchloft Pathway // Boulderloft Pathway;ZNR;1;;284
+Icon of Ancestry;M20;1;;229
+Nezahal,Primal Tide;RIX;1;;45
+Choked Estuary;SOI;1;;270
+God-Eternal Bontu;WAR;1;;92
+Faceless Haven;KHM;1;Foil;371
+Dreadhorde Arcanist;WAR;1;;125
+Heavenly Blademaster;C18;1;;3
+Omnath,Locus of Rage;ZNC;1;;97
+Cragcrown Pathway // Timbercrown Pathway;ZNR;1;;261
+Return of the Wildspeaker;ELD;1;;172
+Forgotten Ancient;C16;1;;150
+Niko Aris;KHM;1;;289
+Ajani,Valiant Protector;AER;1;Foil;185
+Scute Swarm;ZNR;1;;203
+Court of Bounty;CMR;1;;220
+Herald of Secret Streams;XLN;1;;59
+Sol Ring;C19;2;;221
+Thirsting Bloodlord;M20;2;;293
+Sol Ring;ZNC;2;;120
+Elvish Clancaller;M19;1;;179
+Boros Charm;CMR;1;;687
+Jace,Mirror Mage;ZNR;1;Foil;63
+Bala Ged Recovery // Bala Ged Sanctuary;ZNR;3;;180
+Murderous Rider // Swift End;ELD;1;Foil;97
+Sheltered Thicket;AKH;1;;248
+Startled Awake // Persistent Nightmare;SOI;1;;88
+Tyrite Sanctum;KHM;1;Foil;372
+Drakuseth,Maw of Flames;M20;1;;136
+Nighthawk Scavenger;ZNR;2;;115
+In Search of Greatness;KHM;1;;177
+Gift of Immortality;THS;1;;14
+Roalesk,Apex Hybrid;WAR;1;;213
+Cordial Vampire;MH1;2;;83
+Garruk's Uprising;M21;1;;186
+Soul-Guide Lantern;THB;1;;237
+Command the Dreadhorde;WAR;1;Foil;82
+Pride Sovereign;HOU;1;;126
+Talisman of Creativity;MH1;1;;231
+Thespian's Stage;GTC;1;;248
+Fry;M20;1;Foil;140
+Reverence;SOK;1;;26
+Sphinx's Tutelage;ORI;1;;76
+Prismatic Geoscope;C16;1;;55
+Debtors' Knell;MB1;1;;1519
+Drana,the Last Bloodchief;ZNR;1;;98
+Sephara,Sky's Blade;M20;1;;36
+Kaalia,Zenith Seeker;M20;2;;210
+Sanctum Seeker;XLN;1;;120
+Silverclad Ferocidons;RIX;2;;115
+Amareth,the Lustrous;CMR;1;Foil;586
+Chaos Warp;MB1;1;;885
+Electrodominance;RNA;1;;99
+Resplendent Marshal;KHM;1;;22
+Stoneforge Masterwork;OGW;1;;166
+Teferi,Timebender;DOM;1;Foil;270
+Whispersilk Cloak;MB1;4;;1649
+Colossus Hammer;M20;2;;223
+Ashiok,Sculptor of Fears;THB;1;Foil;274
+Court of Ambition;CMR;1;Foil;114
+Three Dreams;RAV;1;;32
+Walking Atlas;WWK;1;;131
+Mazirek,Kraul Death Priest;2XM;1;;209
+Vampire of the Dire Moon;M20;3;;120
+Relentless Rats;PLIST;1;;112
+Sakashima's Protege;CMR;1;;641
+Worn Powerstone;C17;1;;232
+Lazav,Dimir Mastermind;GK1;1;;16
+Marwyn,the Nurturer;DOM;1;;172
+Dimir Signet;ZNC;1;;112
+Heartbeat of Spring;2XM;1;;171
+Arcane Denial;CMR;1;;630
+Felidar Sovereign;MB1;1;;108
+Finale of Eternity;WAR;1;;91
+Incandescent Soulstoke;LRW;1;;178
+Fleshbag Marauder;CMR;1;Foil;648
+Karrthus,Tyrant of Jund;2XM;1;;205
+Angel of Vitality;M20;1;;4
+Rat Colony;DOM;1;;101
+Consuming Aberration;GK1;1;;10
+Trailblazer's Boots;ZEN;1;;208
+Gideon,the Oathsworn;WAR;1;Foil;265
+Sprite Dragon;IKO;1;;211
+Bloodlord of Vaasgoth;PLIST;1;;86
+Hammer of Purphoros;THS;1;;124
+Heartless Act;IKO;1;;91
+Mind Stone;ZNC;1;;114
+Worn Powerstone;PLIST;1;;281
+Kess,Dissident Mage;MH1;1;;206
+Seaside Citadel;MM3;1;;245
+Persistent Petitioners;RNA;1;;44
+Steel Leaf Champion;DOM;1;;182
+From Beyond;BFZ;1;Foil;167
+Talisman of Conviction;MH1;1;;230
+Sorin,Vengeful Bloodlord;WAR;1;;217
+Butcher of Malakir;CM2;1;;60
+Demonlord Belzenlok;DOM;1;;86
+Anowon,the Ruin Sage;C17;1;;96
+Glorybringer;AKH;1;;134
+Pelt Collector;GRN;1;;141
+Slurrk,All-Ingesting;CMR;1;Foil;584
+Bonders' Enclave;IKO;1;;245
+Kodama's Reach;ZNC;1;;73
+Multani,Yavimaya's Avatar;ZNC;1;;75
+Obelisk of Urd;ZNC;1;;115
+Damping Sphere;DOM;1;;213
+Saw It Coming;KHM;1;Foil;76
+Genesis Ultimatum;IKO;1;;189
+Licia,Sanguine Tribune;C17;1;Foil;40
+Crucible of Fire;IMA;1;Foil;122
+Dream Devourer;KHM;2;;90
+Talisman of Hierarchy;MH1;1;;233
+Legion Lieutenant;RIX;2;;163
+Haakon,Stromgald Scourge;MB1;1;;684
+Curious Obsession;RIX;4;;35
+Maddening Cacophony;ZNR;2;;67
+Oath of Teferi;DOM;1;;200
+Sea-Dasher Octopus;IKO;1;;66
+Ajani,the Greathearted;WAR;1;;184
+Cosmos Elixir;KHM;1;Foil;237
+Flood of Tears;M20;1;;59
+Glorious End;AKH;1;;133
+Skullcrack;GTC;1;;106
+Temple of Malice;THB;1;;247
+Gargos,Vicious Watcher;M20;2;;172
+Nightshade Harvester;CMR;1;;650
+Weathered Runestone;KHM;1;Foil;247
+Gideon's Company;WAR;3;;268
+Abbot of Keral Keep;ORI;1;;127
+Open the Armory;SOI;1;;32
+Rakdos,the Showstopper;RNA;1;;199
+Hydra's Growth;THB;4;;172
+Mistveil Plains;UMA;1;;247
+Regisaur Alpha;XLN;1;;227
+Archetype of Courage;BNG;1;;4
+Isolate;M19;1;Foil;17
+Mirko Vosk,Mind Drinker;GK1;1;;17
+Stigma Lasher;FMB1;1;Foil;59
+Angrath's Marauders;XLN;1;;132
+Circu,Dimir Lobotomist;GK1;1;;9
+Nadir Kraken;THB;3;;55
+Otepec Huntmaster;XLN;1;;153
+Temple of Silence;THS;1;;227
+Archon of Sun's Grace;THB;1;;3
+Jadelight Ranger;RIX;1;;136
+Mystic Sanctuary;ELD;1;;247
+Feather,the Redeemed;WAR;1;;197
+Brainstorm;MB1;1;;301
+Fleet Swallower;XLN;1;;57
+Godo,Bandit Warlord;2XM;1;;128
+Woodland Chasm;KHM;1;Foil;274
+Ranging Raptors;XLN;1;;201
+Blood Tribute;ZEN;1;;81
+Anowon,the Ruin Thief;ZNC;1;Foil;1
+Blackblade Reforged;DOM;1;;211
+Archetype of Aggression;BNG;1;;88
+Lovestruck Beast // Heart's Desire;ELD;1;;299
+Sylvan Awakening;DOM;1;;183
+Thalia's Lieutenant;SOI;1;;43
+Admonition Angel;ZNC;1;;10
+Celestial Force;CMD;1;;10
+Dimir Doppelganger;GK1;1;;12
+Egon,God of Death // Throne of Death;KHM;1;;306
+Feed the Swarm;ZNR;2;;102
+Goblin Chainwhirler;DOM;1;;129
+Hagra Mauling // Hagra Broodpit;ZNR;1;Foil;106
+Keleth,Sunmane Familiar;CMR;1;Foil;550
+Keskit,the Flesh Sculptor;CMR;1;Foil;565
+Lantern of Insight;FMB1;1;Foil;104
+Migration Path;IKO;2;;164
+Mission Briefing;GRN;3;;44
+Narset,Parter of Veils;WAR;1;;61
+Notion Thief;ZNC;1;;96
+Oona,Queen of the Fae;ZNC;1;;98
+Palladia-Mors,the Ruiner;M19;1;;219
+Rise of the Dread Marn;KHM;1;;107
+Temple of Abandon;THB;1;;244
+Tetsuko Umezawa,Fugitive;DOM;2;;69
+Toxin Sliver;MB1;1;;798
+Valkyrie Harbinger;KHM;1;;374
+Bell Borca,Spectral Sergeant;CMR;1;Foil;591
+Faceless Haven;KHM;1;Foil;255
+Golden Guardian // Gold-Forge Garrison;RIX;1;;179
+Magmatic Channeler;ZNR;1;;148
+Profane Procession // Tomb of the Dusk Rose;RIX;1;;166
+Temple of Triumph;THS;1;;228
+Trove Warden;ZNC;1;;3
+Captain Vargus Wrath;CMR;1;Foil;593
+Remorseful Cleric;M19;1;;33
+Gifted Aetherborn;JMP;1;;239
+Livio,Oathsworn Sentinel;CMR;2;Foil;551
+Ancestral Mask;MB1;1;;1119
+Everflowing Chalice;2XM;1;Foil;254
+Hagra Mauling // Hagra Broodpit;ZNR;1;;106
+Kogla,the Titan Ape;IKO;1;;162
+Pako,Arcane Retriever;C20;1;Foil;13
+Promise of Tomorrow;CMR;1;Foil;39
+Sweltering Suns;AKH;1;;149
+Urza's Power Plant;2XM;1;;330
+Wolverine Riders;KHC;1;;14
+Dreadhorde Butcher;WAR;2;;194
+Inscription of Insight;ZNR;1;Foil;329
+Oathsworn Knight;ELD;1;;354
+Season of Growth;M20;1;;191
+The Elderspell;WAR;1;;89
+Volatile Fjord;KHM;1;Foil;273
+Boros Garrison;IMA;1;Foil;233
+Etrata,the Silencer;GK1;1;Foil;1
+Inscription of Abundance;ZNR;1;;360
+Mesmerizing Benthid;RNA;2;;43
+Ruin Crab;ZNR;1;;75
+Breakneck Rider // Neck Breaker;SOI;1;Foil;147
+Nightmare Shepherd;THB;1;;108
+Siege-Gang Commander;DOM;1;;143
+Stolen Identity;GK1;1;;2
+Archon of Emeria;ZNR;1;;4
+Haldan,Avid Arcanist;C20;1;Foil;2
+Temple Altisaur;RIX;1;;28
+Call of the Death-Dweller;IKO;2;;78
+Cruel Celebrant;WAR;4;;188
+Blighted Agent;NPH;1;;29
+Calamity Bearer;KHM;1;;356
+Deathpact Angel;GTC;1;;153
+Essence Flux;SOI;2;;61
+Yasharn,Implacable Earth;ZNR;1;Foil;240
+Alpha Authority;GTC;1;;114
+Rift Bolt;IMA;1;;143
+Sun Titan;ZNC;1;;21
+Loxodon Warhammer;MB1;2;;1602
+Luminarch Aspirant;ZNR;2;;24
+Obuun,Mul Daya Ancestor;ZNC;1;;2
+Rhonas's Monument;AKH;2;;236
+Nightveil Specter;GK1;1;;19
+Sigil of the Empty Throne;C15;1;;80
+Zetalpa,Primal Dawn;RIX;1;;30
+Crop Rotation;2XM;2;;161
+Evermind;PLIST;1;;56
+Howlpack Resurgence;SOI;1;;211
+Master of Etherium;2XM;1;;57
+Oathsworn Vampire;RIX;1;Foil;80
+Valakut Exploration;ZNR;1;;175
+Grappling Hook;C17;2;;212
+Guardian Idol;IMA;1;;216
+Ninja of the Deep Hours;MB1;1;;446
+Vish Kal,Blood Arbiter;2XM;1;;226
+Crystalline Giant;IKO;1;;234
+Gleeful Sabotage;FMB1;1;Foil;68
+Plea for Guidance;BNG;1;;24
+Reflector Mage;MB1;1;;1473
+Sygg,River Cutthroat;ZNC;1;;103
+Smothering Abomination;BFZ;1;;99
+Blackblade Reforged;ZNC;2;;107
+Dire Fleet Poisoner;RIX;1;;68
+Alpine Meadow;KHM;2;Foil;248
+Chandra,Fire Artisan;WAR;1;;119
+Command the Dreadhorde;WAR;1;;82
+Glacial Floodplain;KHM;1;Foil;257
+Horde of Notions;MM2;1;;178
+Mina and Denn,Wildborn;ZNC;1;;94
+Mist-Syndicate Naga;MH1;1;;58
+Squad Commander;ZNR;1;Foil;323
+All That Glitters;ELD;1;;2
+Maul of the Skyclaves;ZNR;1;;27
+On Thin Ice;MH1;1;;20
+Whispersteel Dagger;ZNC;1;;5
+Cabal Therapy;MB1;1;;587
+Geode Rager;ZNC;1;;6
+Reconnaissance Mission;IKO;1;;65
+Belfry Spirit;PLIST;1;;9
+Talent of the Telepath;ORI;1;;78
+Distant Melody;ZNC;1;;24
+Faceless Haven;KHM;1;;255
+Lazav,Dimir Mastermind;ZNC;1;;92
+Llanowar Tribe;MH1;1;;170
+Glorious Protector;KHM;1;;12
+Oath of Kaya;WAR;2;;209
+Ravenous Chupacabra;RIX;1;;82
+Ritual of Soot;GRN;1;;84
+Bloodthirsty Aerialist;M20;2;;91
+Evolution Sage;WAR;2;;159
+Gatekeeper of Malakir;PLIST;1;;96
+Spikefield Hazard // Spikefield Cave;ZNR;1;Foil;166
+Aetherize;IMA;1;;40
+Opal Palace;C17;1;;266
+Dark Impostor;AVR;1;;92
+Showdown of the Skalds;KHM;3;;229
+Forerunner of the Empire;RIX;2;;102
+Indulgent Aristocrat;SOI;1;;118
+Unwind;DOM;1;;72
+Reckless Rage;RIX;1;;110
+Liege of the Tangle;2XM;1;;174
+Ring of Kalonia;M13;1;;212
+Risen Reef;M20;1;;217
+Wall of Lost Thoughts;RNA;1;;59
+Biogenic Upgrade;RNA;1;Foil;123
+Eidolon of Blossoms;JOU;1;;122
+Forebear's Blade;DOM;2;;214
+Necromantic Summons;ORI;1;Foil;110
+Notorious Throng;ZNC;1;;33
+Sigiled Sword of Valeron;M19;1;;244
+Brighthearth Banneret;MOR;1;;88
+Gadrak,the Crown-Scourge;M21;1;;146
+God-Pharaoh's Gift;HOU;1;;161
+Kamahl's Druidic Vow;DOM;1;;166
+Simic Charm;GTC;1;;195
+Kopala,Warden of Waves;XLN;1;;61
+Sorcerous Spyglass;XLN;1;;248
+Atemsis,All-Seeing;PM20;1;;46p
+Dreadhorde Invasion;WAR;3;;86
+Gyruda,Doom of Depths;IKO;1;;221
+Sepulchral Primordial;ZNC;1;;54
+Mythos of Nethroi;IKO;1;;97
+Bomat Courier;KLD;1;;199
+Well of Ideas;2XM;1;;75
+Angelic Purge;SOI;1;Foil;3
+Dimir Aqueduct;GK1;8;;23
+Escape to the Wilds;ELD;1;;189
+Collective Blessing;RTR;1;;150
+Mosswort Bridge;C18;1;;267
+Cauldron Familiar;ELD;2;;81
+Hero of Precinct One;RNA;1;;11
+Izzet Charm;RTR;1;;172
+Kumena's Awakening;RIX;1;;42
+Merfolk Mistbinder;RIX;1;;164
+Razaketh's Rite;HOU;1;;74
+Rites of Flourishing;ZNC;1;;80
+Tetzimoc,Primal Death;RIX;1;;86
+Ajani's Chosen;C18;1;;61
+Cliffhaven Vampire;OGW;1;;153
+Enter the God-Eternals;WAR;1;;196
+In Garruk's Wake;ZNC;1;;45
+Kardur,Doomscourge;KHM;1;Foil;324
+Kingpin's Pet;PLIST;1;;215
+Molimo,Maro-Sorcerer;10E;1;;280
+Protean Thaumaturge;THB;1;Foil;60
+Thriving Moor;JMP;1;;37
+Valiant Knight;M19;4;;42
+Archpriest of Iona;ZNR;1;;316
+Barrin,Tolarian Archmage;M21;1;;45
+Bloodchief's Thirst;ZNR;5;;94
+Colossal Majesty;M19;1;;173
+Command Tower;ZNC;2;;124
+Consuming Aberration;ZNC;1;;89
+Crawling Barrens;ZNR;1;;262
+Danitha Capashen,Paragon;DOM;1;;12
+Doom Foretold;ELD;1;;187
+Earthshaker Khenra;HOU;1;;90
+Efficient Construction;AER;1;;33
+Electrickery;GK1;1;;29
+Emeria Angel;ZNC;1;;15
+Emeria Shepherd;ZNC;1;;16
+Empyrean Eagle;M20;1;;208
+Enigma Thief;ZNC;1;;4
+Evolution Sage;ZNC;1;;65
+Fathom Fleet Captain;XLN;2;;106
+Gravebreaker Lamia;THB;1;;98
+Grow from the Ashes;DOM;2;;164
+Gryff's Boon;SOI;1;;20
+Harald,King of Skemfar;KHM;1;Foil;323
+Immersturm Predator;KHM;1;;214
+Kiora,Behemoth Beckoner;WAR;1;;232
+Linden,the Steadfast Queen;ELD;1;;20
+Mizzium Mortars;RTR;1;;101
+Molten Rain;MB1;1;;1016
+Nimble Trapfinder;ZNR;1;Foil;72
+Ogre Slumlord;ZNC;1;;50
+Oracle of Nectars;MB1;1;;1529
+Paradise Druid;WAR;1;;171
+Planebound Accomplice;MH1;1;;140
+Preordain;CMR;1;;84
+Protean Raider;RIX;2;;167
+Replicating Ring;KHM;4;;244
+Sea Gate Wreckage;OGW;1;;177
+Shatterskull Charger;ZNR;1;;353
+Shatterskull Charger;ZNR;1;Foil;159
+Shielded Aether Thief;AER;1;Foil;44
+Sigrid,God-Favored;KHM;1;;301
+Simic Growth Chamber;GK2;4;;131
+Skemfar Avenger;KHM;1;;109
+Soul Shatter;ZNR;1;;127
+Surtland Elementalist;KHM;2;;375
+Szadek,Lord of Secrets;GK1;1;;20
+Szat's Will;CMR;1;Foil;152
+Tectonic Giant;THB;1;;158
+Venerated Loxodon;GRN;1;;30
+Victimize;CMR;1;Foil;157
+Warped Landscape;SOI;2;;280
+Absorb Identity;KHM;1;;383
+Ashes of the Abhorrent;XLN;1;;2
+Averna,the Chaos Bloom;CMR;1;;269
+Bishop of Rebirth;XLN;1;;5
+Bloodline Pretender;KHM;1;Foil;235
+Broken Bond;DOM;1;;157
+Falkenrath Aristocrat;2XM;1;;195
+Fervent Champion;ELD;1;;124
+Guildmages' Forum;GRN;4;;250
+Magistrate's Scepter;M19;1;;238
+Nomad Outpost;C20;2;;294
+Oakhame Adversary;ELD;1;;167
+Oath of Gideon;OGW;1;;30
+Opal Palace;CMR;1;Foil;352
+Ravenform;KHM;1;Foil;72
+Scour All Possibilities;MH1;1;Foil;67
+Scrapyard Recombiner;MH1;1;;227
+Skyclave Shade;ZNR;1;;125
+Stromkirk Captain;DKA;1;;143
+Temple of the False God;MB1;2;;1691
+Thought Distortion;M20;1;Foil;117
+Wizard's Retort;DOM;1;;75
+Zagras,Thief of Heartbeats;ZNR;1;;241
+Zara,Renegade Recruiter;CMR;1;;294
+Aetherize;ZNC;1;;23
+Aethersphere Harvester;AER;1;;142
+Akiri,Fearless Voyager;ZNR;1;;220
+Djeru,With Eyes Open;HOU;1;;10
+Font of Agonies;RNA;1;;74
+Iron Myr;FMB1;1;Foil;102
+Krosan Verge;C19;2;;257
+Pia's Revolution;AER;1;;91
+Skewer the Critics;RNA;2;;115
+Skyclave Shade;ZNR;1;;298
+Sram's Expertise;AER;1;;24
+The Birth of Meletis;THB;1;;5
+Arguel's Blood Fast // Temple of Aclazotz;XLN;1;;90
+Chart a Course;XLN;1;;48
+Favorable Winds;XLN;2;;56
+Goring Ceratops;XLN;1;;13
+Grakmaw,Skyclave Ravager;ZNR;2;;223
+Linvala,Shield of Sea Gate;ZNR;1;;226
+Mobilized District;WAR;1;;249
+Spitting Image;C16;1;;236
+The Wanderer;WAR;1;;37
+Crashing Drawbridge;ELD;1;Foil;217
+Dead Man's Chest;RIX;1;;66
+Drana's Emissary;BFZ;1;;210
+Fynn,the Fangbearer;KHM;1;;170
+Gaea's Revenge;ORI;1;;177
+Harrow;MB1;1;;1235
+High Priest of Penance;GTC;1;;171
+Izzet Cluestone;DGM;1;Foil;141
+Kari Zev's Expertise;AER;1;;88
+Precognition Field;DOM;1;;61
+Rogue's Passage;ZNC;1;;138
+Sanctuary Blade;C20;1;;69
+Channeler Initiate;AKH;1;;160
+Crippling Fear;KHM;1;;82
+Lutri,the Spellchaser;IKO;1;;227
+Pteramander;RNA;2;;47
+Ready // Willing;DGM;1;;132
+Silversmote Ghoul;M21;1;;122
+Sunblast Angel;C20;1;;102
+Thraben Inspector;SOI;3;;44
+Weathered Runestone;KHM;1;;247
+Zendikar's Roil;ZNC;1;;88
+Zulaport Cutthroat;ZNC;1;;57
+Blighted Woodland;BFZ;1;;233
+Corrupted Grafstone;SOI;1;;253
+Deeproot Champion;XLN;1;;185
+Gonti,Lord of Luxury;ZNC;1;;44
+Rally the Ranks;KHM;1;;20
+Calamity Bearer;KHM;1;;125
+Dragonkin Berserker;KHM;2;;131
+Haunted Cloak;SOI;1;;257
+Hover Barrier;RTR;1;;40
+Ingenious Infiltrator;MH1;1;;204
+Kemba,Kha Regent;2XM;1;;19
+Manic Scribe;SOI;1;;73
+Metamorphic Alteration;M19;1;;60
+Rimewood Falls;KHM;1;;266
+Verdant Force;C15;1;;207
+Blood for Bones;M20;1;;89
+Darksteel Garrison;MB1;1;;1571
+Esika's Chariot;KHM;1;;169
+Firemind Vessel;WAR;2;;237
+Hour of Revelation;ZNC;1;;17
+Keruga,the Macrosage;IKO;1;;225
+Nissa's Renewal;BFZ;1;;180
+Thought Scour;IMA;3;;76
+Whisper,Blood Liturgist;DOM;1;;111
+Aegar,the Freezing Flame;KHM;1;Foil;321
+Circuitous Route;ZNC;1;;62
+Fell Flagship;XLN;1;;238
+Kari Zev,Skyship Raider;AER;1;;87
+Lazotep Plating;WAR;1;;59
+Rampaging Baloths;ZNC;1;;77
+Ash Barrens;2XM;1;;310
+Bounty of the Luxa;AKH;2;;196
+Davriel,Rogue Shadowmage;WAR;3;;83
+Discovery // Dispersal;GRN;2;;223
+Ever After;SOI;1;;109
+Grim Draugr;KHM;1;Foil;96
+Hurricane;MB1;1;;1241
+Jiang Yanggu,Wildcrafter;WAR;1;;164
+Jungle Shrine;C16;1;;304
+Lava Dart;JUD;1;;94
+Mask of Immolation;M20;1;Foil;151
+Narfi,Betrayer King;KHM;1;;329
+Obelisk Spider;HOU;1;;141
+Overwhelming Denial;OGW;1;;61
+Swathcutter Giant;GRN;1;Foil;202
+Volatile Fjord;KHM;1;;273
+Wayward Guide-Beast;ZNR;2;;176
+Angrath's Rampage;WAR;1;;185
+Arterial Flow;RIX;1;;62
+Brushfire Elemental;ZNR;2;Foil;311
+Frostpyre Arcanist;KHM;1;Foil;58
+Glass of the Guildpact;RNA;1;;233
+Harmonize;ZNC;1;;68
+Heirloom Blade;C20;1;;242
+Highland Forest;KHM;1;;261
+Inscription of Insight;ZNR;1;;61
+Jhoira's Familiar;DOM;2;;220
+Kabira Takedown // Kabira Plateau;ZNR;1;Foil;19
+Mayhem Devil;WAR;1;;204
+Myriad Landscape;ZNC;2;;135
+Oona's Blackguard;ZNC;1;;51
+Response // Resurgence;GRN;1;;229
+Savage Gorger;M20;2;;291
+Solar Blaze;WAR;1;;216
+Wily Goblin;XLN;1;;174
+Ashiok's Forerunner;THB;2;;277
+Cragganwick Cremator;MB1;1;;892
+Orah,Skyclave Hierophant;ZNR;2;;233
+Regrowth;MH1;1;;175
+Simic Locket;RNA;1;Foil;240
+Soul Diviner;WAR;1;;218
+Vicious Conquistador;XLN;1;;128
+Angelsong;MB1;1;;22
+Bazaar Trademage;MH1;1;;41
+Binding the Old Gods;KHM;2;;206
+Cast Down;DOM;1;;81
+Falkenrath Noble;MM3;1;;70
+Gleaming Overseer;WAR;1;;198
+Inspiring Call;ZNC;1;;70
+Koll,the Forgemaster;KHM;2;;325
+Niambi,Faithful Healer;DOM;2;;272
+Plaguecrafter;GRN;1;;82
+Witch's Oven;ELD;1;;237
+Angrath's Fury;RIX;2;;204
+Battle at the Bridge;AER;1;;53
+Bounty Agent;GRN;1;;2
+Emergence Zone;WAR;1;;245
+Fateful Showdown;KLD;1;;114
+High Alert;RNA;1;;182
+Kitesail Freebooter;XLN;2;;110
+Manglehorn;AKH;1;;175
+Mystic Monastery;C20;1;;293
+Orzhov Basilica;GK2;4;;49
+Relic Seeker;CMR;1;;382
+Sanguine Sacrament;XLN;2;;33
+Scytheclaw;ZNC;1;;118
+Silundi Vision // Silundi Isle;ZNR;2;;80
+Syr Konrad,the Grim;ZNC;1;;56
+Abandoned Sarcophagus;HOU;1;;158
+Abundance;ZNC;1;;58
+Agonizing Remorse;THB;1;;83
+Ajani's Aid;AER;2;;188
+Akroma's Vengeance;C20;1;;74
+Alpine Meadow;KHM;3;;248
+Arboreal Grazer;WAR;3;;149
+Arni Slays the Troll;KHM;1;Foil;201
+Augury Raven;KHM;1;Foil;44
+Bioessence Hydra;WAR;1;;186
+Blight Herder;BFZ;1;;2
+Bloodcrazed Paladin;XLN;1;;93
+Burning Anger;M15;1;;133
+Call for Unity;AER;1;;9
+Cartel Aristocrat;GTC;1;;150
+Doomgape;MB1;1;;1521
+Dreadship Reef;MB1;1;;1664
+Dreamcaller Siren;XLN;1;;54
+Elderfang Disciple;KHM;1;Foil;93
+Fearless Pup;KHM;1;Foil;136
+Fleetwheel Cruiser;KLD;1;;214
+Footfall Crater;IKO;1;;118
+Forerunner of the Legion;RIX;1;;9
+Frost Bite;KHM;1;Foil;138
+Gideon's Battle Cry;WAR;2;;267
+Golgari Rot Farm;GK1;4;;74
+Gruul Turf;GK2;4;;104
+Icebreaker Kraken;KHM;1;;63
+Induced Amnesia;RIX;1;;40
+Invisible Stalker;ZNC;1;;27
+Ixalan's Binding;XLN;1;;17
+Jungle Shrine;C19;1;;255
+Jwari Disruption // Jwari Ruins;ZNR;1;;64
+Living Twister;ZNC;1;;93
+Mage-Ring Network;UMA;5;;246
+Massacre Girl;WAR;1;;99
+Masterful Replication;M20;1;;65
+Mirrodin's Core;FMB1;1;Foil;119
+Necromantic Selection;ZNC;1;;48
+Nymris,Oona's Trickster;CMR;1;;288
+Oketra's Last Mercy;HOU;1;;18
+Old-Growth Dryads;XLN;1;;199
+Path to the World Tree;KHM;1;Foil;186
+Pirate's Pillage;RIX;1;;109
+Release the Gremlins;AER;1;;96
+Relic Robber;ZNR;1;;153
+Role Reversal;WAR;1;;214
+Rubblehulk;C16;1;;219
+Rune of Mortality;KHM;1;Foil;108
+Runeforge Champion;KHM;1;;26
+Sage's Reverie;C18;1;;72
+Silvergill Adept;RIX;1;;53
+Song-Mad Treachery // Song-Mad Ruins;ZNR;1;Foil;165
+Spectral Sailor;M20;1;;76
+Stolen Identity;ZNC;1;;37
+Tangled Florahedron // Tangled Vale;ZNR;1;;211
+The Bears of Littjara;KHM;2;;205
+The Eldest Reborn;DOM;3;;90
+The First Iroan Games;THB;1;;170
+Tyrant's Scorn;WAR;1;;225
+Vraska,Swarm's Eminence;WAR;3;;236
+Warrant // Warden;RNA;1;;230
+Wavebreak Hippocamp;THB;1;;80
+Wizard's Lightning;DOM;1;;152
+Aid from the Cowl;AER;1;;105
+Akoum Hellkite;BFZ;1;;139
+Behemoth Sledge;ARB;1;;65
+Benevolent Blessing;CMR;1;Foil;13
+Blood Operative;GRN;1;;63
+Confirm Suspicions;SOI;1;;53
+Corpse Knight;M20;2;;206
+Dimir Aqueduct;ZNC;1;;126
+Dogged Pursuit;KHM;1;Foil;85
+Gift of Paradise;M20;1;Foil;173
+Glittering Frost;KHM;1;Foil;171
+Hamza,Guardian of Arashin;CMR;1;Foil;278
+Harrow;ZNC;1;;69
+Icebind Pillar;KHM;1;Foil;62
+Kaya's Ghostform;WAR;3;;94
+Miara,Thorn of the Glade;CMR;1;Foil;133
+Mizzium Tank;WAR;1;;138
+Nissa's Encouragement;HOU;2;;203
+Open the Omenpaths;KHM;1;Foil;143
+Scourge of Fleets;ZNC;1;;35
+Secret Salvage;AER;1;;71
+Sphinx of Uthuun;M13;1;;69
+Spikefield Hazard // Spikefield Cave;ZNR;2;;166
+Together Forever;ZNC;1;;22
+Arlinn,Voice of the Pack;WAR;2;;150
+Bloodthirsty Blade;C19;1;;53
+Boros Garrison;GK1;4;;98
+Chandra,Novice Pyromancer;M20;1;;128
+Evra,Halcyon Witness;MB1;1;;97
+Fierce Empath;MB1;1;;1212
+Forceful Denial;CMR;1;Foil;69
+Foundry Inspector;CMR;1;Foil;310
+Goblin Ringleader;M20;1;;143
+Insatiable Hemophage;IKO;1;;290
+Jaya,Venerated Firemage;WAR;1;;135
+Judge's Familiar;RTR;1;;218
+Light of Promise;M21;1;;25
+Rakdos Carnarium;GK2;4;;77
+Reckless Crew;KHM;1;;146
+Sailor of Means;XLN;1;Foil;73
+Samut,Tyrant Smasher;WAR;3;;235
+Seal Away;DOM;3;;31
+Snowfield Sinkhole;KHM;1;;269
+Trait Doctoring;DGM;1;;18
+Vindictive Vampire;RNA;2;;90
+Curse of Vitality;C17;1;;3
+Dovin,Hand of Control;WAR;3;;229
+Ephemerate;MH1;1;;7
+Gladewalker Ritualist;KHM;1;;392
+Grasping Current;XLN;2;;282
+Grisly Salvage;RTR;1;;165
+Hatchery Spider;GRN;1;;132
+Inscription of Ruin;ZNR;2;;108
+Mist-Cloaked Herald;RIX;5;;43
+Reason // Believe;HOU;1;;154
+Repeating Barrage;XLN;1;;156
+Rogue Refiner;AER;1;;135
+Roiling Regrowth;ZNR;2;;201
+Sacred Cat;AKH;1;;27
+Sheltering Light;XLN;1;;35
+Silent Dart;GRN;1;Foil;241
+Starnheim Courser;KHM;1;Foil;32
+Sylvan Advocate;ZNC;1;;84
+Thwart the Grave;ZNR;1;Foil;130
+Treasury Thrull;GK2;1;;46
+Tymaret,the Murder King;THS;1;;207
+Vega,the Watcher;KHM;1;;332
+Aegar,the Freezing Flame;KHM;2;;321
+Ancient Stirrings;2XM;1;;151
+Evermind;SOK;1;;37
+Gate to the Afterlife;AKH;1;;228
+Imoti,Celebrant of Bounty;CMR;1;Foil;280
+Kasmina,Enigmatic Mentor;WAR;1;;56
+Kaya,Bane of the Dead;WAR;2;;231
+Merfolk Branchwalker;XLN;1;;197
+Mindwrack Harpy;THB;4;;276
+Nahiri,Storm of Stone;WAR;2;;233
+Silumgar's Command;ZNC;1;;99
+Slimefoot,the Stowaway;DOM;1;;205
+Spinal Embrace;ZNC;1;;101
+The Mending of Dominaria;ZNC;1;;74
+Atzocan Seer;RIX;1;;153
+Aurora Phoenix;CMR;1;;161
+Celestial Archon;C15;1;;64
+Charcoal Diamond;CMR;1;;303
+Cragplate Baloth;ZNR;1;;183
+Cranial Plating;2XM;1;;245
+Cry of the Carnarium;RNA;2;;70
+Cunning Nightbonder;IKO;1;;219
+Daring Archaeologist;DOM;1;;13
+Devils' Playground;SOI;1;;151
+Forerunner of the Coalition;RIX;2;;72
+Form of the Dinosaur;RIX;1;;103
+Frenzied Saddlebrute;CMR;1;Foil;180
+Funeral Longboat;KHM;1;Foil;238
+Hermit of the Natterknolls // Lone Wolf of the Natterknolls;SOI;1;;209
+Horizon Scholar;CMR;1;Foil;73
+Hour of Glory;HOU;2;;65
+Jungle Shrine;ZNC;1;;132
+Midnight Entourage;AER;1;;66
+Molten Slagheap;CMA;1;;260
+Mortify;RNA;1;;192
+Needle Spires;ZNC;1;;137
+Needletooth Raptor;RIX;1;;107
+Netherborn Phalanx;GK1;1;;6
+Nimble Trapfinder;ZNR;2;;72
+Oathsworn Vampire;RIX;2;;80
+Path of Peace;A25;1;Foil;29
+Perilous Myr;CMR;1;Foil;330
+Planar Outburst;ZNC;1;;19
+Radiant,Serra Archangel;CMR;1;Foil;40
+Read the Bones;ORI;1;;114
+Seer's Sundial;ZNC;1;;119
+Shepherd of the Flock // Usher to Safety;ELD;1;;278
+Solemn Recruit;AER;1;;22
+Soul Manipulation;MB1;1;;1488
+Springbloom Druid;MH1;1;;181
+Springbloom Druid;ZNC;1;;83
+Syndicate Trafficker;KLD;1;;101
+Tenth District Legionnaire;WAR;1;;222
+Terramorphic Expanse;ZNC;1;;142
+Thrashing Brontodon;RIX;1;;148
+Thresher Lizard;AKH;1;Foil;150
+Trophy Mage;AER;2;;48
+Turn into a Pumpkin;ELD;1;Foil;69
+Undercity Plague;GTC;1;;83
+Waking the Trolls;KHM;1;;234
+Whims of the Fates;BNG;1;;115
+Wild-Field Scarecrow;SOI;1;;269
+Zahid,Djinn of the Lamp;DOM;1;;76
+Alena,Kessig Trapper;CMR;1;Foil;160
+Bloodfell Caves;IKO;1;Foil;243
+Bonehoard;ZNC;1;;108
+Commander's Sphere;ZNC;1;;109
+Fungal Reaches;TSP;1;;273
+Gisa's Bidding;SOI;1;;114
+Izzet Boilerworks;GK1;4;;47
+Kessig Forgemaster // Flameheart Werewolf;SOI;1;;169
+Khalni Ambush // Khalni Territory;ZNR;1;;192
+Liliana's Triumph;WAR;1;;98
+Lookout's Dispersal;XLN;1;;62
+Mana Leak;IMA;1;;66
+Nighthowler;ZNC;1;;49
+Nightveil Predator;GRN;1;;191
+Rakish Heir;C17;1;;140
+Shadowmage Infiltrator;A25;1;;217
+Shimmering Grotto;IMA;1;Foil;248
+Shiny Impetus;C20;1;;55
+Staggering Insight;THB;2;;228
+Thopter Engineer;2XM;2;Foil;147
+Trail of Evidence;SOI;1;;93
+Zombify;A25;1;;116
+Commune with Dinosaurs;XLN;2;;181
+Coralhelm Chronicler;ZNR;1;;54
+Demon's Disciple;ZNR;1;;97
+Fated Return;ZNC;1;;42
+Gelectrode;MB1;1;;1428
+Ghost of Ramirez DePietro;CMR;1;Foil;71
+Krosan Wayfarer;JUD;1;;123
+Llanowar Elves;DOM;1;;168
+Mistwalker;KHM;1;Foil;68
+Pious Evangel // Wayward Disciple;SOI;1;;34
+Rally of Wings;WAR;2;;27
+Riverwise Augur;RIX;1;;48
+Rule of Law;M20;1;;35
+Slither Blade;AKH;1;;71
+Spell Pierce;XLN;2;;81
+Sphinx of the Guildpact;2XM;1;Foil;290
+Trepanation Blade;IMA;2;;231
+Vastwood Surge;ZNR;3;;217
+Acquisitions Expert;ZNR;1;Foil;89
+Blighted Woodland;ZNC;1;;121
+Brinelin,the Moon Kraken;CMR;1;Foil;60
+Destructive Revelry;THS;1;;192
+Drill Bit;RNA;1;;73
+Elite Guardmage;WAR;1;;195
+Far Wanderings;ZNC;1;;66
+Flickerwisp;2XM;1;;16
+Harrier Naga;HOU;1;Foil;118
+Holy Mantle;GTC;1;;17
+Kazuul's Fury // Kazuul's Cliffs;ZNR;1;;146
+Kefnet's Monument;AKH;2;;231
+Mana Geode;WAR;4;;241
+Negate;ZNR;1;Foil;71
+Ravenform;KHM;1;;72
+Retreat to Hagra;BFZ;1;;121
+Skyclave Pick-Axe;ZNR;1;Foil;204
+Slippery Scoundrel;RIX;1;;55
+Soaring Thought-Thief;ZNR;2;;236
+Spurnmage Advocate;JUD;1;;27
+Storm Fleet Sprinter;RIX;1;;172
+Wings of the Cosmos;KHM;1;Foil;39
+Zameck Guildmage;GTC;1;;209
+Zoetic Cavern;A25;1;;249
+Ajani's Presence;JOU;1;;2
+Artificer's Assistant;MB1;1;;291
+Auratouched Mage;RAV;1;;1
+Azorius Chancery;GK2;4;;25
+Burglar Rat;GRN;2;;64
+Captain Vargus Wrath;CMR;1;Foil;273
+Cerulean Drake;M20;1;;53
+Changeling Outcast;ZNC;1;;40
+Consign // Oblivion;HOU;1;;149
+Crawling Sensation;SOI;1;;199
+Deadeye Quartermaster;XLN;1;;50
+Dimir Charm;GK1;1;;11
+Dimir Keyrune;GTC;1;;228
+Fact or Fiction;ZNC;1;;25
+Flood of Recollection;RIX;1;;38
+Hashep Oasis;HOU;1;;177
+Kardur,Doomscourge;KHM;1;;324
+Leyline Prowler;WAR;1;;202
+Merfolk Skydiver;WAR;1;;205
+Neglected Heirloom // Ashmouth Blade;SOI;1;;260
+Nimbus Swimmer;GTC;1;;181
+O-Naginata;2XM;1;;278
+Price of Fame;GRN;1;;83
+Pyrite Spellbomb;2XM;1;Foil;283
+Raptor Hatchling;XLN;1;;155
+Relic Amulet;ZNR;1;Foil;247
+Savage Stomp;XLN;1;;205
+Selesnya Sanctuary;GK1;4;;125
+Sequestered Stash;KLD;1;;248
+Sinister Sabotage;GRN;1;;54
+Skirk Prospector;DOM;2;;144
+Skymarcher Aspirant;RIX;1;;21
+Survivors' Encampment;HOU;1;;184
+Swimmer in Nightmares;THB;3;;275
+Waker of the Wilds;ZNC;1;;86
+Walk the Plank;XLN;1;;130
+Wayfaring Temple;MB1;1;;1509
+Abzan Falconer;IMA;1;;3
+Abzan Guide;MB1;1;;1384
+Accumulated Knowledge;A25;1;;40
+Acidic Slime;ZNC;1;;59
+Ahn-Crop Champion;AKH;1;;194
+Ahn-Crop Crasher;MB1;1;;833
+Aid the Fallen;MB1;1;;560
+Ajani's Comrade;AER;3;;187
+Ajani's Pridemate;WAR;4;;4
+Akoum Warrior // Akoum Teeth;ZNR;2;;134
+Alena,Kessig Trapper;CMR;1;;160
+Amaranthine Wall;DOM;1;;210
+Ambassador Oak;MB1;1;;1117
+Amorphous Axe;CMR;1;Foil;295
+Amphin Pathmage;MB1;1;;286
+Angel of Renewal;MB1;2;;20
+Angelic Armaments;CMR;1;Foil;296
+Angelic Exaltation;RNA;2;;2
+Angler Drake;AKH;2;;41
+Angrath's Ambusher;RIX;3;;202
+Anurid Swarmsnapper;JUD;1;;105
+Anvilwrought Raptor;M20;1;Foil;221
+Appeal // Authority;HOU;2;;152
+Aquatic Incursion;RIX;2;;32
+Arboretum Elemental;GRN;1;;122
+Arcane Encyclopedia;M19;1;;227
+Archway Angel;RNA;1;;3
+Armorcraft Judge;KLD;3;;144
+Attended Healer;ZNR;2;;6
+Atzocan Archer;XLN;1;;176
+Augur of Bolas;WAR;2;;41
+Auspicious Starrix;IKO;1;;144
+Avid Reclaimer;HOU;3;;201
+Axgard Armory;KHM;1;;250
+Baffling End;RIX;2;;1
+Baleful Ammit;AKH;1;;79
+Baloth Null;MB1;1;;1396
+Banishing Light;ZNC;1;;11
+Barkhide Troll;M20;1;;165
+Barrier Breach;IKO;1;;145
+Base Camp;ZNR;1;;257
+Basilica Bell-Haunt;RNA;2;;156
+Battle Mastery;DTK;1;;7
+Battle Mastery;MB1;1;;34
+Battle Screech;MH1;1;;4
+Beacon Bolt;GRN;1;;154
+Beanstalk Giant // Fertile Footsteps;ZNC;1;;61
+Belle of the Brawl;ELD;1;;78
+Belligerent Brontodon;XLN;1;;218
+Bellowing Aegisaur;XLN;1;;4
+Berg Strider;KHM;1;Foil;47
+Beyeen Veil // Beyeen Coast;ZNR;3;;46
+Biogenic Upgrade;RNA;1;;123
+Bishop of the Bloodstained;XLN;1;;91
+Biting Rain;SOI;1;;102
+Blackbloom Rogue // Blackbloom Bog;ZNR;1;;91
+Blanchwood Armor;M19;1;;169
+Blazing Hope;RIX;1;;3
+Blightbeetle;M20;1;;87
+Blinding Flare;JOU;1;;91
+Blinding Souleater;MB1;1;;1549
+Blink of an Eye;DOM;1;;46
+Blood Divination;M19;1;;86
+Blood Host;JMP;1;;208
+Bloodbond Vampire;BFZ;1;;104
+Bloodline Pretender;KHM;2;;235
+Bloodmad Vampire;SOI;1;;146
+Bloodsoaked Altar;M20;1;;90
+Board the Weatherlight;DOM;2;;8
+Bolt Bend;WAR;2;;115
+Bond of Flourishing;WAR;1;;155
+Bond of Insight;WAR;3;;43
+Bond of Revival;WAR;1;;80
+Boros Garrison;ZNC;1;;122
+Boros Guildgate;C19;1;;234
+Brambleweft Behemoth;HOU;4;;202
+Brawl-Bash Ogre;M19;1;;213
+Briarblade Adept;CMR;1;Foil;111
+Briarknit Kami;SOK;1;;124
+Broken Wings;KHM;1;Foil;164
+Broken Wings;ZNR;1;Foil;181
+Brushfire Elemental;ZNR;2;;221
+Brushfire Elemental;ZNR;1;;311
+Cacophodon;RIX;1;;123
+Call of the Nightwing;GK1;1;;8
+Canopy Baloth;ZNR;1;Foil;182
+Captain Vargus Wrath;CMR;1;;273
+Careless Celebrant;THB;1;;129
+Carrier Thrall;BFZ;1;;106
+Cathodion;MB1;1;;1557
+Center Soul;MB1;1;;51
+Challenger Troll;WAR;2;;157
+Champion of the Flame;DOM;5;;116
+Chandra's Defeat;HOU;1;;86
+Chandra's Spitfire;M20;1;;132
+Chandra's Triumph;WAR;2;;121
+Chaplain's Blessing;SOI;3;;10
+Charging Monstrosaur;XLN;1;;138
+Charging Tuskodon;RIX;2;;97
+Cherished Hatchling;RIX;1;;124
+Chilling Trap;ZNR;1;Foil;50
+Cinder Barrens;RIX;4;;205
+Cleansing Wildfire;ZNR;1;;137
+Clear the Stage;RNA;2;;68
+Cleric of Life's Bond;ZNR;1;;222
+Cliffhaven Kitesail;ZNR;1;Foil;243
+Cloudkin Seer;M20;2;;54
+Cloudpiercer;IKO;1;;291
+Codex Shredder;CMR;1;Foil;304
+Concerted Defense;ZNR;2;;52
+Conclave Cavalier;GRN;1;;161
+Conclave Guildmage;GRN;1;;162
+Conclave Tribunal;GRN;1;;6
+Condemn;ZNC;1;;12
+Contentious Plan;WAR;3;;46
+Costly Plunder;XLN;2;;96
+Countervailing Winds;HOU;2;;32
+Crackdown Construct;AER;2;;148
+Crash Through;M19;1;;133
+Crash Through;HOU;3;;88
+Creeping Trailblazer;M20;1;;207
+Crested Herdcaller;RIX;1;;126
+Crush Contraband;ZNC;1;;13
+Cryptic Caves;ZNC;1;;125
+Cryptic Serpent;AKH;1;;48
+Cult of the Waxing Moon;SOI;1;;201
+Daredevil Dragster;AER;2;;149
+Daring Buccaneer;RIX;1;;98
+Deadeye Brawler;RIX;1;;155
+Deadeye Harpooner;AER;2;;15
+Deadeye Plunderers;XLN;1;;220
+Deathknell Berserker;KHM;1;Foil;83
+Defiant Greatmaw;AKH;1;;163
+Defiant Salvager;2XM;1;Foil;83
+Desert of the Fervent;HOU;1;;170
+Desert of the Indomitable;HOU;1;;172
+Desperate Lunge;WAR;4;;266
+Dhund Operative;CMR;1;Foil;119
+Diamond Knight;M20;2;;224
+Dimir Guildgate;ZNC;1;;127
+Dimir Keyrune;ZNC;1;;110
+Dimir Spybug;GRN;1;;166
+Dinosaur Stampede;XLN;1;;140
+Dinrova Horror;GK1;1;;14
+Dire Fleet Captain;XLN;2;;221
+Dire Fleet Neckbreaker;RIX;2;;156
+Disfigure;M20;1;;95
+Dispel;BFZ;1;;76
+District Guide;GRN;1;;128
+Dive Down;XLN;2;;53
+Doomskar Oracle;KHM;2;Foil;10
+Draconic Disciple;M19;1;;215
+Drana's Silencer;ZNR;1;Foil;99
+Drannith Stinger;IKO;1;;113
+Dreadmalkin;WAR;1;;87
+Dreadwurm;ZNR;1;Foil;100
+Dreadwurm;ZNR;1;Foil;297
+Dreamshaper Shaman;THB;1;;130
+Dreamtail Heron;IKO;1;;284
+Dusk Legion Dreadnought;XLN;1;;236
+Dusk Legion Zealot;RIX;3;;70
+Duskborne Skymarcher;XLN;1;;9
+Edifice of Authority;AKH;1;;226
+Eldrazi Devastator;BFZ;1;;7
+Elfhame Druid;DOM;2;;159
+Emrakul's Influence;EMN;1;;157
+Enraged Giant;AER;1;;80
+Epitaph Golem;SOI;2;;254
+Escape Protocol;IKO;1;;48
+Eternal Skylord;WAR;1;;49
+Eternal Taskmaster;WAR;1;;90
+Evolving Wilds;ZNC;1;;129
+Expedition Diviner;ZNR;1;Foil;57
+Expedition Skulker;ZNR;1;Foil;101
+Expel from Orazca;RIX;1;;37
+Exquisite Huntmaster;CMR;1;Foil;122
+Extract from Darkness;ZNC;1;;90
+Eyeblight Massacre;ORI;1;;96
+Eyes Everywhere;RNA;1;;38
+Face of Divinity;MH1;1;;8
+Fall from Favor;CMR;2;;68
+Fanatical Firebrand;RIX;4;;101
+Farsight Adept;ZNR;1;Foil;14
+Fearless Fledgling;ZNR;1;;15
+Fearless Fledgling;ZNR;1;;291
+Feral Abomination;M20;1;Foil;101
+Fiery Cannonade;XLN;1;;143
+Fiery Impulse;ORI;1;;145
+Fiery Temper;SOI;1;;156
+Filigree Familiar;CMR;1;Foil;308
+Fireblade Charger;ZNR;1;;139
+Firebolt;MH1;1;;122
+Firja,Judge of Valor;KHM;1;;209
+Fissure Wizard;ZNR;1;Foil;140
+Flame Spill;IKO;1;;117
+Fledgling Mawcor;MB1;1;;379
+Flitterstep Eidolon;BNG;1;;40
+Flower // Flourish;GRN;1;;226
+Fluxcharger;DGM;1;;71
+Font of Fertility;JOU;1;;123
+Forbidding Spirit;RNA;1;;9
+Forced Adaptation;GTC;1;;120
+Forerunner of the Heralds;RIX;1;;129
+Forgotten Cave;MH1;1;;239
+Forsaken Sanctuary;RIX;1;;187
+Fortune's Favor;EMN;1;;61
+Fountain of Ichor;MH1;1;;223
+Frogtosser Banneret;ZNC;1;;43
+Furious Reprisal;KLD;1;;115
+Furious Rise;THB;1;;136
+Galloping Lizrog;RNA;1;;175
+Gates of Istfell;KHM;1;;256
+Geistblast;SOI;1;;160
+Ghirapur Guide;KLD;2;;156
+Ghitu Lavarunner;DOM;2;;127
+Ghitu War Cry;MB1;1;;948
+Giant Ox;KHM;1;Foil;11
+Gideon's Defeat;HOU;1;;13
+Gift of Paradise;M19;1;;184
+Glimmerbell;IKO;1;Foil;53
+Glimpse the Cosmos;KHM;2;;60
+Gods Willing;M20;1;;19
+Gods Willing;MB1;1;;125
+Gonti's Machinations;AER;2;;63
+Grateful Apparition;WAR;1;;17
+Graverobber Spider;BNG;1;;122
+Grove Rumbler;BFZ;1;;211
+Grumgully,the Generous;ELD;1;;192
+Grunn,the Lonely King;DOM;1;;165
+Gruul Turf;ZNC;1;;131
+Haazda Marshal;GRN;2;;13
+Harald,King of Skemfar;KHM;1;;212
+Harald,King of Skemfar;KHM;2;;323
+Hard Cover;M20;1;;63
+Haunted Fengraf;C18;1;;254
+Hazardous Conditions;KLD;1;;182
+Heir of Falkenrath // Heir to the Night;SOI;2;;116
+Heirloom Blade;ZNC;1;;113
+Hellkite Whelp;GRN;1;;106
+Hieroglyphic Illumination;AKH;3;;57
+Highland Lake;RIX;1;;189
+Highland Lake;SOI;1;;277
+Honored Crop-Captain;AKH;1;;200
+Hope Against Hope;SOI;1;;22
+Huatli's Raptor;WAR;1;;200
+Humble Defector;CMR;1;;184
+Ichor Wellspring;2XM;1;;261
+Impassioned Orator;RNA;3;;12
+In Bolas's Clutches;DOM;4;;54
+Incubation // Incongruity;RNA;1;;226
+Indatha Crystal;IKO;2;;235
+Inga Rune-Eyes;KHM;1;;64
+Inordinate Rage;ZNR;1;Foil;144
+Inspiring Roar;AER;4;;186
+Inspiring Roar;CMR;1;Foil;23
+Inspiring Unicorn;GRN;2;;16
+Inspiring Veteran;ELD;4;;194
+Interplanar Beacon;WAR;2;;247
+Interpret the Signs;CMR;1;Foil;75
+Into the Roil;ZNR;1;Foil;62
+Invade the City;WAR;1;;201
+Invasive Surgery;SOI;1;;68
+Inventor's Apprentice;KLD;1;;120
+Invert // Invent;GRN;1;;228
+Invoke the Divine;KHM;1;Foil;16
+Ipnu Rivulet;HOU;1;;180
+Iridescent Hornbeetle;ZNR;3;;187
+Ironroot Warlord;M20;1;;209
+Irregular Cohort;MH1;1;;15
+Jace's Sentinel;XLN;3;;283
+Join Shields;GRN;1;;181
+Junktroller;RNA;1;;235
+Jwar Isle Refuge;ZNC;1;;133
+Kabira Takedown // Kabira Plateau;ZNR;1;;19
+Kazandu Stomper;ZNR;1;Foil;191
+Keeper of Fables;ZNC;1;;71
+Ketria Crystal;IKO;1;;236
+Khalni Heart Expedition;ZNC;1;;72
+Kitesail Corsair;CMR;1;Foil;76
+Klothys's Design;THB;1;;176
+Knight of the Stampede;RIX;2;;138
+Koll,the Forgemaster;KHM;3;;220
+Koma's Faithful;KHM;1;Foil;102
+Kor Blademaster;ZNR;1;;21
+Kor Cartographer;ZNC;1;;18
+Kumena's Speaker;XLN;2;;196
+Kwende,Pride of Femeref;DOM;1;;25
+Lagonna-Band Trailblazer;JOU;1;;14
+Lava Dart;MH1;1;;134
+Leafkin Druid;M20;4;;178
+Ledev Champion;GRN;1;;186
+Leonin Vanguard;M19;1;;22
+Lightning Stormkin;M20;2;;213
+Lightning Strike;M19;1;;152
+Lightning Strike;XLN;2;;149
+Liliana's Defeat;HOU;2;;68
+Limits of Solidarity;AKH;1;;140
+Littjara Mirrorlake;KHM;1;;264
+Living Tempest;ZNR;3;Foil;65
+Lone Missionary;MB1;1;;163
+Lucky Clover;ELD;1;;226
+Lullmage's Domination;ZNR;1;;66
+Luminous Bonds;RIX;1;Foil;12
+Magma Jet;THS;1;;128
+Maja,Bretagard Protector;KHM;1;;222
+Majestic Auricorn;IKO;1;;281
+Make a Stand;M19;1;;26
+Makeshift Munitions;CMR;1;Foil;191
+Makindi Ox;ZNR;1;Foil;293
+Makindi Stampede // Makindi Mesas;ZNR;1;;26
+Marang River Prowler;ZNC;2;;29
+Marauding Blight-Priest;ZNR;4;;112
+Marauding Blight-Priest;ZNR;1;Foil;112
+Marsh Flitter;ZNC;1;;46
+Maulfist Doorbuster;KLD;1;;123
+Meandering River;DOM;4;;274
+Meandering River;OGW;1;;173
+Merchant Raiders;CMR;1;;81
+Merciless Javelineer;AKH;1;;202
+Merfolk Looter;MB1;1;;426
+Merfolk Windrobber;ZNR;2;;70
+Metallic Rebuke;AER;1;;39
+Metalspinner's Puzzleknot;2XM;1;Foil;273
+Meteoric Mace;CMR;1;;192
+Might of the Masses;GRN;1;;137
+Military Intelligence;ZNC;1;;31
+Militia Bugler;M19;1;;29
+Mind Carver;ZNR;1;;113
+Minion's Return;THB;1;;104
+Ministrant of Obligation;RNA;1;;16
+Mists of Littjara;KHM;1;Foil;67
+Moritte of the Frost;KHM;2;;223
+Mortuary Mire;C18;1;;266
+Mortuary Mire;C19;1;;260
+Murasa Rootgrazer;ZNR;4;;229
+Murasa Sproutling;ZNR;2;;196
+Murder;CMR;1;Foil;134
+Murder;A25;1;;98
+Murder;MB1;1;;717
+Murder;ZNC;1;;47
+Narfi,Betrayer King;KHM;1;;224
+Narnam Renegade;AER;3;;117
+Natural State;OGW;2;;136
+Nature's Spiral;DOM;1;;175
+Nature's Way;KLD;1;;162
+Naya Charm;ZNC;1;;95
+Naya Panorama;ZNC;1;;136
+Necropanther;IKO;1;;196
+Nightmare's Thirst;M19;1;;111
+Nightveil Sprite;ZNC;1;;32
+Niko Defies Destiny;KHM;2;;226
+Nimana Skitter-Sneak;ZNR;1;Foil;116
+Nissa's Zendikon;ZNR;1;Foil;197
+Nocturnal Feeder;JMP;1;;16
+Noggle Bandit;FMB1;1;Foil;96
+Not Forgotten;SOI;1;;30
+Numa,Joraga Chieftain;CMR;1;;246
+Nylea's Huntmaster;THB;1;Foil;187
+Oketra's Attendant;AKH;1;;22
+On Serra's Wings;DOM;2;;28
+Onward // Victory;AKH;1;;218
+Open into Wonder;ZNC;1;;34
+Opt;DOM;1;;60
+Opt;XLN;1;;65
+Orazca Relic;RIX;2;;181
+Orzhov Guildgate;WAR;5;;269
+Orzhov Keyrune;GTC;1;;233
+Orzhov Racketeers;RNA;2;;80
+Overcome;HOU;1;;125
+Overgrowth Elemental;M20;1;;187
+Pack Guardian;SOI;1;;221
+Pale Rider of Trostad;SOI;1;;128
+Parasitic Impetus;C20;1;;46
+Pelakka Predation // Pelakka Caverns;ZNR;2;;120
+Pentad Prism;2XM;1;;281
+Phyrexian Rager;CMR;1;Foil;142
+Pieces of the Puzzle;SOI;1;;78
+Pilfering Imp;GRN;1;;81
+Pitiless Pontiff;RNA;1;;194
+Pledge of Unity;WAR;2;;210
+Pollywog Symbiote;IKO;1;;63
+Port of Karfell;KHM;1;;265
+Pounce;XLN;1;;200
+Predatory Impetus;C20;1;;62
+Price of Betrayal;WAR;1;;102
+Price of Fame;ZNC;1;;52
+Pride of Conquerors;RIX;1;;17
+Primal Empathy;IKO;1;;200
+Prison Realm;WAR;1;;26
+Prowling Felidar;ZNR;3;Foil;34
+Prying Blade;XLN;2;;244
+Psychic Impetus;C20;1;;37
+Quarry Beetle;HOU;1;;127
+Quest for the Gravelord;MB1;1;;741
+Raging Swordtooth;XLN;2;;226
+Rakdos Keyrune;RTR;1;;232
+Rakdos Locket;RNA;3;;237
+Ral's Outburst;WAR;1;;212
+Rally to Battle;RNA;1;;18
+Rancid Rats;SOI;1;;130
+Rapacious Dragon;M20;1;;153
+Raugrin Crystal;IKO;1;;238
+Raven Wings;KHM;1;Foil;243
+Ravenous Harpy;M19;1;;115
+Ravenous Lindwurm;KHM;1;Foil;187
+Reaper of Flight Moonsilver;SOI;2;;36
+Reckless Wurm;MB1;1;;1036
+Redcap Melee;ELD;1;;135
+Regal Leosaur;IKO;2;;202
+Relentless Raptor;RIX;1;;169
+Relic Amulet;ZNR;1;;247
+Relic Axe;ZNR;1;;248
+Relic Golem;ZNR;2;;249
+Renegade Map;AER;5;;173
+Renowned Weaponsmith;M20;1;;72
+Resplendent Griffin;RIX;2;;170
+Restoration Gearsmith;KLD;1;;185
+Retreat to Kazandu;ZNC;1;;78
+Riddlesmith;2XM;1;;65
+Ridgescale Tusker;AER;1;;121
+Rigging Runner;XLN;2;;157
+River Hoopoe;HOU;3;;143
+Rockslide Sorcerer;ZNR;1;;154
+Rolling Thunder;BFZ;1;;154
+Rona,Disciple of Gix;DOM;1;;203
+Roost of Drakes;ZNR;3;;74
+Rootborn Defenses;MB1;1;;214
+Rotwidow Pack;MH1;1;;212
+Rumbling Ruin;RNA;1;;112
+Rune of Might;KHM;2;;191
+Rune of Mortality;KHM;2;;108
+Rune of Sustenance;KHM;1;;25
+Runeclaw Bear;MB1;1;;1320
+Saddled Rimestag;MH1;1;;177
+Sadistic Skymarcher;RIX;2;;85
+Sage of Mysteries;THB;1;;62
+Saltcrusted Steppe;C17;1;;273
+Salvager of Ruin;M20;1;;237
+Saproling Migration;DOM;2;;178
+Satyr Wayfinder;ZNC;1;;81
+Savai Crystal;IKO;1;;239
+Saving Grace;HOU;1;;21
+Scale the Heights;ZNR;1;Foil;202
+Scavenged Blade;ZNR;1;Foil;157
+Scorch Rider;ZNR;1;Foil;158
+Scoured Barrens;M20;1;;251
+Scrabbling Claws;RNA;1;;238
+Scuttlemutt;M20;1;;238
+Scuttling Sliver;MH1;1;;68
+See Red;RIX;2;;112
+Seer's Lantern;CMR;1;Foil;338
+Segovian Angel;MH1;1;;25
+Selesnya Sanctuary;ZNC;1;;140
+Sengir Vampire;MB1;1;;766
+Sentinel Totem;XLN;1;;245
+Seraph of the Suns;AKH;1;;28
+Serra Angel;DOM;1;;33
+Serrated Scorpion;IKO;1;;99
+Servo Schematic;AER;2;;176
+Setessan Petitioner;THB;1;;199
+Settle the Score;DOM;1;;103
+Shake the Foundations;RIX;1;;113
+Shanna,Sisay's Legacy;DOM;1;;204
+Shapers of Nature;XLN;3;;228
+Shepherd of Heroes;ZNR;2;Foil;38
+Shield Mare;M19;1;;37
+Shielded Aether Thief;AER;1;;44
+Siege Modification;AER;1;;99
+Sifter Wurm;HOU;1;;135
+Sigil of Valor;ORI;2;;239
+Sin Collector;DGM;1;;103
+Sixth Sense;AKH;1;;187
+Skatewing Spy;RNA;1;;52
+Skin Invasion // Skin Shedder;SOI;1;;182
+Skull Collector;SOK;1;;90
+Sky Terror;XLN;1;;229
+Sky Tether;RNA;1;;21
+Skyclave Geopede;ZNR;1;;301
+Skyclave Pick-Axe;ZNR;1;;204
+Skyclave Pick-Axe;ZNR;1;;309
+Skyknight Vanguard;M20;5;;218
+Skyship Plunderer;AER;1;;46
+Slaying Fire;ELD;1;;143
+Slice in Twain;XLN;2;;207
+Slither Blade;ZNC;1;;36
+Smash to Smithereens;ORI;1;;163
+Smelt-Ward Minotaur;GRN;1;;116
+Smoldering Spires;E01;1;;96
+Sorcerer's Broom;MB1;1;;1634
+Sorcerer's Wand;DOM;1;;231
+Soul Manipulation;ZNC;1;;100
+Soul Tithe;RTR;1;;23
+Soul's Might;CMR;1;Foil;257
+Sovereign's Bite;M19;1;;120
+Spark of Creativity;KLD;1;;131
+Spire Patrol;AER;1;;136
+Spirit Cairn;JUD;1;;26
+Spitfire Lagac;ZNR;1;Foil;167
+Spoils of Adventure;ZNR;1;;237
+Spore Frog;MH1;1;;180
+Sporemound;ZNC;2;;82
+Spring // Mind;AKH;2;;219
+Squad Captain;CMR;1;Foil;51
+Stab Wound;MB1;1;;780
+Stinkdrinker Bandit;ZNC;1;;55
+Stir the Sands;AKH;1;;110
+Storm Fleet Spy;XLN;1;;84
+Storm Fleet Swashbuckler;RIX;1;;117
+Strategic Planning;HOU;1;;47
+Strength of Solidarity;ZNR;1;Foil;206
+Strength of the Pack;RIX;2;;145
+Submerged Boneyard;M19;1;;257
+Submerged Boneyard;ZNC;1;;141
+Sunblade Angel;WAR;2;;31
+Supreme Will;HOU;1;;49
+Svella,Ice Shaper;KHM;1;;230
+Swab Goblin;RIX;4;;203
+Swift Warden;RIX;1;;146
+Sylvan Reclamation;ZNC;1;;104
+Synchronized Strike;AKH;1;;190
+Syncopate;GK1;1;;3
+Syndicate Guildmage;RNA;3;;211
+Syr Faren,the Hengehammer;ELD;1;;177
+Tajuru Blightblade;ZNR;2;Foil;208
+Taunting Arbormage;ZNR;1;Foil;212
+Tazeem Raptor;ZNR;1;Foil;43
+Teferi's Sentinel;DOM;3;;273
+Teferi's Time Twist;WAR;1;;72
+Telling Time;GK1;1;;4
+Temporal Machinations;DOM;4;;271
+Tezzeret's Touch;AER;1;;138
+The Trickster-God's Heist;KHM;1;;232
+Thirst for Knowledge;CMR;1;Foil;103
+Thought Distortion;M20;1;;117
+Thoughtbound Phantasm;GRN;1;;55
+Thraben Gargoyle // Stonewing Antagonizer;SOI;1;;266
+Thrill of Possibility;THB;1;;159
+Throatseeker;MH1;1;;110
+Thundering Rebuke;ZNR;2;;170
+Thundering Spineback;XLN;1;;210
+Tiana,Ship's Caretaker;DOM;1;;208
+Tithe Drinker;DGM;1;;109
+Tranquil Thicket;MH1;1;;248
+Treacherous Terrain;ZNC;1;;105
+Treasure Mage;2XM;1;;73
+Trespasser's Curse;AKH;1;;112
+Trial of Knowledge;AKH;1;;73
+Triton Shorestalker;ZNC;1;;38
+Truefire Captain;GRN;1;;209
+Trumpeting Gnarr;IKO;1;;213
+Turntimber Ascetic;ZNR;2;Foil;214
+Tuskguard Captain;ZNC;1;;85
+Tymaret,Chosen from Death;THB;1;;263
+Ugin's Conjurant;WAR;1;;3
+Ulamog's Nullifier;BFZ;2;;207
+Ulrich's Kindred;SOI;2;;187
+Ulvenwald Mysteries;SOI;2;;236
+Umara Mystic;ZNR;2;;238
+Umara Wizard // Umara Skyfalls;ZNR;1;;86
+Underhanded Designs;KLD;1;;104
+Unflinching Courage;MB1;1;;1502
+Universal Solvent;CMR;1;Foil;347
+Urgoros,the Empty One;DOM;1;;109
+Urza's Rage;MH1;1;;151
+Usher of the Fallen;KHM;2;;35
+Valduk,Keeper of the Flame;DOM;4;;148
+Valor in Akros;ORI;1;;39
+Vastwood Fortification // Vastwood Thicket;ZNR;1;;216
+Vega,the Watcher;KHM;2;;233
+Vesperlark;MH1;1;;35
+Vicious Rumors;GRN;1;;89
+Vineshaper Mystic;XLN;3;;214
+Vizier of the Anointed;HOU;1;;55
+Void Grafter;OGW;1;;150
+Warden of Geometries;OGW;1;;11
+Warden of the Chained;THB;1;;230
+Warhorn Blast;KHM;1;Foil;38
+Warped Physique;GK1;1;;21
+Whirler Rogue;ZNC;1;;39
+Whirlwind Denial;THB;1;;81
+Wight of Precinct Six;IMA;1;;114
+Wildgrowth Walker;XLN;1;;216
+Wildheart Invoker;CMR;1;Foil;263
+Wilt;IKO;2;;176
+Winged Words;M20;4;;80
+Witch's Cauldron;M21;1;;129
+Witch's Cottage;ELD;1;;249
+Wolfrider's Saddle;M20;2;;204
+Wolfwillow Haven;THB;4;;205
+Woodland Champion;M20;2;;205
+Woodland Stream;RIX;1;;191
+Worldsoul Colossus;GRN;1;;215
+Yavimaya Elder;ZNC;1;;87
+Zagoth Crystal;IKO;1;;242
+Zealous Strike;MB1;1;;280
+Zof Consumption // Zof Bloodbog;ZNR;1;;132
+Acquisitions Expert;ZNR;1;;89
+Adverse Conditions;BFZ;1;;54
+Airdrop Aeronauts;AER;2;;5
+Ajani's Sunstriker;M13;1;;2
+Arcane Teachings;JUD;1;;78
+Archweaver;RTR;1;;114
+Arni Slays the Troll;KHM;3;;201
+Azorius Cluestone;DGM;1;;136
+Baloth Null;OGW;1;;152
+Balustrade Spy;IMA;1;;80
+Bane Alley Broker;GTC;1;;145
+Basilica Screecher;GTC;1;;58
+Bladeback Sliver;MH1;1;;119
+Blast of Genius;DGM;1;;55
+Bleeding Edge;WAR;2;;78
+Blizzard Brawl;KHM;1;;162
+Bloodshot Trainee;2XM;1;;119
+Blossoming Sands;M20;1;;243
+Bolrac-Clan Crusher;RNA;1;;159
+Bond of Discipline;WAR;1;;6
+Bonded Horncrest;XLN;1;;133
+Brimstone Volley;2XM;1;;120
+Brood Keeper;M15;1;;132
+Canyon Jerboa;ZNR;2;;7
+Captain's Call;CMR;1;Foil;15
+Cinderclasm;ZNR;2;;136
+Clan Guildmage;RNA;1;;162
+Cleaving Sliver;MH1;1;;121
+Clockwork Servant;ELD;1;;216
+Cloudfin Raptor;GTC;2;;32
+Cobblebrute;MB1;2;;890
+Combo Attack;MB1;1;;1165
+Crocodile of the Crossing;AKH;1;;162
+Dawn Evangel;THB;1;;8
+Declare Dominance;M19;1;;175
+Deem Worthy;AKH;1;;127
+Defy Gravity;JUD;1;;38
+Desert's Hold;HOU;3;;8
+Devourer of Memory;THB;2;;213
+Devouring Hellion;WAR;2;;124
+Dimir Guildmage;GK1;2;;13
+Dimir Locket;ZNC;1;;111
+Dismal Backwater;M20;2;;245
+Diviner's Lockbox;M20;1;;225
+Dreadbringer Lampads;MB1;1;;634
+Earsplitting Rats;JUD;1;;65
+Easy Prey;IKO;1;;87
+Eel Umbra;MB1;1;;361
+Elven Bow;KHM;1;;166
+Engineered Might;KLD;1;;181
+Enraged Ceratok;RNA;1;;125
+Enthralling Hold;M21;1;;49
+Erratic Explosion;MB1;1;;917
+Evolving Wilds;RIX;1;;186
+Farm // Market;HOU;2;;148
+Fateful End;THB;1;;133
+Fencing Ace;M20;1;;16
+Fire Prophecy;IKO;1;;116
+Fleeting Memories;SOI;1;;62
+Foul-Tongue Invocation;IMA;1;;91
+Gateway Plaza;WAR;2;;246
+Gideon's Triumph;WAR;1;;15
+Glaive of the Guildpact;GRN;1;;236
+Gleam of Resistance;MB1;1;;122
+Glimpse of Freedom;THB;2;;50
+Glorifier of Dusk;XLN;1;;12
+Goblin Electromancer;GRN;1;;174
+Goblin Motivator;MB1;1;;957
+Golem Artisan;CMR;1;;311
+Golem-Skin Gauntlets;2XM;2;;259
+Grasp of the Hieromancer;MB1;1;;127
+Gravedigger;AKH;1;;93
+Hapless Researcher;JUD;1;;42
+Havengul Vampire;AVR;1;;139
+Heartfire;WAR;5;;131
+Heroes of the Revel;THB;1;;138
+Immobilizer Eldrazi;OGW;1;;97
+Impending Doom;THB;1;;139
+Inevitable End;THB;1;;102
+Intangible Virtue;CMR;1;;24
+Jace's Triumph;WAR;1;;55
+Joraga Auxiliary;OGW;1;;154
+Juggernaut;DOM;2;;222
+Jungle Creeper;RIX;1;;161
+Kabira Outrider;ZNR;1;Foil;18
+Kaya's Onslaught;KHM;1;;18
+Kiln Fiend;IMA;1;;137
+Kitsune Dawnblade;SOK;1;;16
+Kor Bladewhirl;BFZ;1;;34
+Labyrinth Guardian;AKH;1;;60
+Lagonna-Band Storyteller;THB;1;;27
+Lifecraft Awakening;AER;1;;112
+Lifecrafter's Gift;AER;1;;114
+Lullmage's Familiar;ZNR;2;;227
+Mad Prophet;SOI;1;;171
+Mad Ratter;ELD;1;;130
+Mask of Immolation;M20;1;;151
+Maulfist Revolutionary;AER;1;;115
+Mausoleum Turnkey;RAV;1;;94
+Memorial to War;DOM;1;;246
+Mephitic Vapors;MB1;1;;709
+Miming Slime;GTC;1;;126
+Monstrous Onslaught;CMR;1;;244
+Morkrut Necropod;SOI;1;;125
+Moroii;GK1;1;;18
+Mysterious Pathlighter;ELD;1;;22
+Negate;RIX;2;;44
+Oakhame Ranger // Bring Back;ELD;1;;212
+Orzhov Locket;RNA;1;;236
+Outland Boar;AER;1;;132
+Paranoid Parish-Blade;SOI;1;;33
+Plated Crusher;BFZ;1;;183
+Prophetic Prism;KLD;1;;229
+Protection of the Hekma;AKH;1;;23
+Reaver Ambush;RIX;1;;83
+Reckless Racer;AER;1;;95
+Reclusive Artificer;MB1;1;;1472
+Refocus;MB1;1;;465
+Relic Vial;ZNR;3;;250
+Renegade Tactics;KLD;1;;127
+Retreat to Emeria;ZNC;1;;20
+Return from Extinction;MH1;1;;104
+Return to Nature;WAR;2;;175
+Ribbons of Night;GK1;2;;7
+Rile;XLN;2;;158
+Rugged Highlands;M20;1;;250
+Ruin in Their Wake;OGW;1;;122
+Rust Scarab;GTC;1;;130
+Sage of the Falls;ELD;1;;63
+Salvage Scuttler;AER;1;;43
+Sapphire Drake;GTC;1;;47
+Savvy Hunter;ELD;1;;200
+Scaretiller;ZNC;1;;117
+Scion of the Swarm;ZNR;1;;121
+Scorch Spitter;M20;4;;159
+Scourge of the Nobilis;EVE;1;;146
+Secrets of the Golden City;RIX;3;;52
+Seed Guardian;OGW;1;;143
+Selesnya Guildgate;ZNC;1;;139
+Serra Angel;M13;1;;31
+Shadowstorm Vizier;AKH;1;;206
+Shatter Assumptions;MH1;1;;106
+Silent Dart;GRN;1;;241
+Silverstrike;SOI;1;;37
+Sinuous Striker;HOU;1;;45
+Skaab Goliath;ORI;1;;74
+Skemfar Elderhall;KHM;1;;268
+Skyway Sniper;M21;1;;206
+Smelt-Ward Ignus;RNA;1;;116
+Soul Sear;M21;1;;160
+Spike Jester;DGM;1;;106
+Spire Mangler;RNA;1;;86
+Stave Off;MB1;1;;246
+Storm Fleet Arsonist;XLN;1;;162
+Storm the Citadel;WAR;1;;178
+Street Riot;GRN;1;;117
+Subtle Strike;ZNR;1;Foil;128
+Surreal Memoir;IMA;1;;148
+Sweatworks Brawler;MB1;1;;1076
+Swirling Torrent;RNA;1;;56
+Tempest Caller;XLN;2;;86
+Tenacious Hunter;HOU;1;;136
+Terrain Elemental;MB1;1;;1351
+Thorn Elemental;DOM;2;;185
+Thornwood Falls;M20;1;;258
+Threnody Singer;THB;1;;75
+Thwart the Grave;ZNR;1;;130
+Toil // Trouble;DGM;1;;133
+Triton Fortune Hunter;THS;1;;69
+Undercity Necrolisk;GRN;1;;87
+Undercity Troll;ORI;1;;202
+Vampire Envoy;MB1;1;;810
+Vessel of Volatility;SOI;2;;189
+Veteran Motorist;KLD;1;;188
+Vine Gecko;ZNR;2;;219
+Void Beckoner;IKO;1;;104
+Volcanic Dragon;M19;1;;167
+Warlord's Fury;DOM;1;;151
+Weaponize the Monsters;IKO;1;;140
+Weaver of Currents;AKH;2;;209
+Winds of Rebuke;AKH;2;;76
+Zagoth Mamba;IKO;1;;106
+Abzan Falconer;ZNC;1;;9
+Angelic Gift;MB1;1;;17
+Avian Oddity;IKO;2;;42
+Azorius Locket;RNA;1;;231
+Behold the Multiverse;KHM;3;;46
+Bellows Lizard;MB1;1;;853
+Bloodfell Caves;M20;1;;242
+Bog Naughty;ELD;1;;80
+Bond of Passion;WAR;1;;116
+Borrowed Hostility;EMN;1;;121
+Built to Smash;KLD;1;;108
+Burning Prophet;WAR;3;;117
+Centaur Courser;MB1;1;;1158
+Consign to Dust;JOU;1;;119
+Crush the Weak;KHM;2;;128
+Death's Approach;JMP;1;;222
+Eldrazi Skyspawner;BFZ;1;;58
+Evolving Wilds;AKH;2;;242
+Exuberant Wolfbear;IKO;2;;151
+Faerie Vandal;ZNC;1;;26
+Fertilid;IKO;1;;152
+Final Payment;RNA;2;;171
+Foundry Hornet;AER;1;;59
+Frogify;ELD;1;;47
+Gargoyle Sentinel;M19;1;;236
+Gnottvold Slumbermound;KHM;1;;258
+Gold-Forged Sentinel;ORI;1;;226
+Goma Fada Vanguard;ZNR;1;;141
+Graf Mole;SOI;1;;207
+Grim Captain's Call;XLN;1;;108
+Grim Initiate;WAR;3;;130
+Harvester Troll;OGW;1;;133
+Haunting Hymn;IMA;1;;93
+Healer of the Glade;M20;2;;176
+Hellraiser Goblin;GTC;1;;95
+Hero of the Winds;THB;1;;23
+Hierophant's Chalice;XLN;2;;240
+Imperious Oligarch;RNA;2;;184
+Ironclad Revolutionary;AER;1;;65
+Ivy Elemental;IKO;1;;161
+Joust;ELD;1;;129
+Kazandu Nectarpot;ZNR;1;;306
+Keensight Mentor;IKO;1;;18
+Kraul Swarm;GRN;1;;73
+Life Goes On;HOU;1;;121
+Lightning Axe;2XM;2;;135
+Lingering Phantom;DOM;1;;99
+Lithoform Blight;ZNR;2;;109
+Littjara Glade-Warden;KHM;1;;182
+Malefic Scythe;M21;1;;112
+Masked Vandal;KHM;3;;184
+Master Thief;ZNC;1;;30
+Might of the Masses;M20;1;;182
+Mournwillow;EMN;1;;187
+Murderer's Axe;SOI;1;;259
+Negate;M20;4;;69
+Nightmarish End;JOU;1;;76
+Orcish Vandal;DOM;2;;137
+Ordeal of Purphoros;THS;1;;131
+Ornitharch;BNG;1;;23
+Palace Sentinels;CMR;1;;36
+Path to the World Tree;KHM;1;;186
+Pharika's Spawn;THB;2;;112
+Powerstone Shard;DOM;2;;227
+Pyromancer's Assault;OGW;1;;115
+Rakdos Cluestone;DGM;1;;143
+Rise from the Grave;ZNC;1;;53
+Rune of Flight;KHM;2;;75
+Sanctum Spirit;DOM;1;;30
+Sand Strangler;HOU;2;;107
+Scab-Clan Giant;DGM;1;;101
+Shadow Stinger;ZNR;2;;123
+Shepherd of the Cosmos;KHM;1;;28
+Skyclave Shadowcat;ZNR;5;;126
+Skyclave Squid;ZNR;1;;296
+Snapping Drake;MB1;1;;499
+Spectral Steel;KHM;2;;30
+Spirit of the Aldergard;KHM;2;;195
+Tranquil Expanse;AER;4;;189
+Waker of Waves;M21;1;;84
+Walker of the Grove;UMA;1;;191
+Weldfast Engineer;AER;1;;139
+Woodland Champion;2XM;1;;188
+Woodland Stream;HOU;4;;204
+Yarok's Wavecrasher;M20;1;;81
+Adventurous Impulse;DOM;1;;153
+Armorcraft Judge;ZNC;2;;60
+Basalt Ravager;KHM;3;;122
+Benevolent Blessing;CMR;1;;13
+Bloodbond Vampire;JMP;1;;209
+Boreal Outrider;KHM;1;;163
+Bretagard Stronghold;KHM;2;;253
+Cathartic Reunion;IKO;1;;110
+Cogwork Assembler;2XM;1;;242
+Crimson Muckwader;M13;1;;127
+Cyclops Electromancer;WAR;1;;122
+Dark Nourishment;XLN;1;;97
+Dark Revenant;RTR;1;;61
+Deft Dismissal;AER;1;;17
+Desperate Sentry;MB1;1;;74
+Divine Gambit;KHM;2;;8
+Elvish Rejuvenator;ZNC;1;;63
+Endless Obedience;ZNC;1;;41
+Faerie Miscreant;M20;1;;58
+Fall of the Hammer;MB1;1;;921
+Frilled Deathspitter;RIX;5;;104
+Gift of Orzhova;MM3;1;;209
+Grotesque Mutation;MB1;1;;681
+Icebind Pillar;KHM;3;;62
+Kinjalli's Caller;XLN;2;;18
+Lazotep Reaver;WAR;2;;96
+Merchant of the Vale // Haggle;ELD;2;;131
+Merfolk Falconer;ZNR;1;;69
+Nivix Cyclops;DGM;1;;87
+Open the Gates;RNA;1;;133
+Paired Tactician;ZNR;2;;31
+Promised Kannushi;SOK;1;;141
+Ranger's Guile;MB1;1;;1305
+Risen Sanctuary;RTR;1;;190
+Runed Crown;KHM;1;;245
+Sandstone Oracle;ZNC;2;;116
+Spitfire Lagac;ZNR;1;;302
+Struggle // Survive;ZNC;1;;102
+Sure-Footed Infiltrator;ZNR;3;;83
+Thrill of Possibility;ELD;1;;146
+Tide Skimmer;M21;1;;79
+Undercity Troll;IMA;2;;188
+Undying Rage;CMR;1;Foil;205
+Veteran Adventurer;ZNR;1;;218
+Village Rites;KHM;1;;117
+Virulent Swipe;MB1;1;;815
+Voltaic Servant;DOM;1;;236
+Air Elemental;XLN;3;;45
+Altar of the Pantheon;THB;2;;231
+Arena Athlete;THS;2;;113
+Battershield Warrior;KHM;2;;2
+Boarding Party;CMR;1;;163
+Boros Locket;GRN;1;;231
+Cartouche of Strength;AKH;2;;158
+Castaway's Despair;XLN;4;;281
+Child of Night;JMP;1;;218
+Curtain of Light;SOK;1;;6
+Desert of the Glorified;HOU;1;;171
+Diabolic Edict;MH1;1;;87
+Dismal Backwater;ZNC;1;;128
+Elaborate Firecannon;XLN;1;;237
+Elite Scaleguard;ZNC;1;;14
+Entourage of Trest;CMR;1;;224
+Epicure of Blood;M19;2;;95
+Essence Symbiote;IKO;1;;149
+Eternal Thirst;JMP;2;;229
+Evolving Wilds;IKO;3;;247
+Fragmentize;KLD;1;;14
+Frost Augur;KHM;1;;56
+Gateway Plaza;RNA;1;;247
+Grotag Night-Runner;ZNR;1;;143
+Gruul Guildgate;DGM;1;;150
+Haze of Pollen;AKH;1;;171
+Idyllic Grange;ELD;1;;246
+Impulsive Pilferer;CMR;1;;185
+Insatiable Harpy;THS;1;;92
+Journey to Oblivion;ZNR;1;;17
+Karametra's Blessing;THB;1;;26
+Maelstrom Colossus;CMR;1;;322
+Mark of the Vampire;MB1;1;;707
+Martyr of Dusk;RIX;4;;14
+Merfolk of the Depths;GTC;1;;221
+Migratory Greathorn;IKO;1;;165
+Notion Rain;GRN;2;;193
+Phantom Ninja;MH1;1;;62
+Rakdos Guildgate;RTR;2;;244
+Ravager's Mace;ZNR;2;;235
+Repeal;IMA;1;;70
+Rune of Speed;KHM;1;;148
+Saruli Caretaker;RNA;1;;139
+Senseless Rage;SOI;2;;180
+Shimmer of Possibility;RNA;1;;51
+Spiraling Embers;SOK;1;;116
+Vow of Flight;CMR;1;;105
+Woodland Stream;XLN;4;;284
+Adventure Awaits;ZNR;2;;177
+Aether Chaser;AER;2;;76
+Agonizing Syphon;JMP;1;;199
+Aid the Fallen;WAR;1;;76
+Akoum Hellhound;ZNR;2;;133
+Akoum Hellhound;ZNR;3;;299
+Alert Heedbonder;IKO;2;;218
+Allied Assault;ZNR;1;;1
+Alpine Watchdog;M21;1;;2
+Amorphous Axe;CMR;1;;295
+Anointer of Valor;CMR;1;;8
+Anointer Priest;AKH;1;;3
+Anticipate;IKO;1;;40
+Anticognition;ZNR;1;;45
+Avalanche Caller;KHM;1;;45
+Avarax;MB1;1;;845
+Aven Eternal;WAR;2;;42
+Azorius Guildgate;RNA;3;;243
+Azra Smokeshaper;MH1;1;;79
+Azure Fleet Admiral;CMR;1;;58
+Barbarian Bully;JUD;1;;79
+Battle-Rattle Shaman;M21;1;;130
+Beneath the Sands;HOU;3;;111
+Blazing Volley;AKH;1;;119
+Blazing Volley;IKO;2;;107
+Bloom Hulk;WAR;1;;154
+Blossoming Sands;M21;1;;244
+Blossoming Sands;IKO;1;;244
+Bone Saw;OGW;1;;161
+Boros Guildgate;ZNC;1;;123
+Brazen Wolves;EMN;1;;122
+Burst of Strength;GTC;1;;115
+Cancel;M19;1;;48
+Canopy Baloth;ZNR;3;;304
+Canopy Stalker;M21;1;;175
+Capture Sphere;MB1;1;;308
+Cartouche of Ambition;AKH;1;;83
+Chandra's Embercat;M20;2;;129
+Charmed Stray;WAR;6;;8
+Child of Night;MB1;1;;598
+Codespell Cleric;KHM;5;;7
+Courage in Crisis;WAR;4;;158
+Cradle of the Accursed;AKH;1;;241
+Darksteel Axe;2XM;1;;247
+Deep Freeze;MB1;1;;346
+Defiant Strike;WAR;4;;9
+Deliberate;ZNR;3;;56
+Demonic Vigor;DOM;1;;85
+Desert of the True;HOU;1;;174
+Disdainful Stroke;GRN;1;;37
+Dissenter's Deliverance;AKH;2;;164
+Dragon Egg;CMR;1;;173
+Dragon's Eye Sentry;MB1;1;;85
+Dreadwurm;ZNR;1;;297
+Duress;M20;1;;97
+Embodiment of Insight;ZNC;1;;64
+Enduring Sliver;MH1;1;;6
+Enduring Victory;MB1;1;;93
+Enlightened Ascetic;ORI;1;;12
+Essence Scatter;IKO;2;;49
+Expedition Raptor;MB1;1;;100
+Eyeblight Massacre;CMR;1;;125
+Eyeless Watcher;BFZ;1;;166
+Fall of the Hammer;BNG;1;;93
+Fall of the Impostor;KHM;1;;208
+Felidar Cub;BFZ;1;;25
+Fertilid;ZNC;1;;67
+Field Creeper;EMN;1;;195
+Fin-Clade Fugitives;CMR;1;;227
+First-Sphere Gargantua;MH1;2;;91
+Flayer Husk;2XM;1;;256
+Flicker of Fate;THB;3;;16
+Folk Medicine;JUD;1;;115
+Forceful Denial;CMR;1;;69
+Fortified Rampart;BFZ;1;;27
+Frogify;2XM;1;;52
+Frost Bite;KHM;1;;138
+Frost Lynx;IKO;1;;51
+Frostpyre Arcanist;KHM;1;;58
+Fury Charm;IMA;1;;130
+Garrison Cat;IKO;2;;14
+Gearseeker Serpent;KLD;1;;48
+Giant's Amulet;KHM;1;;59
+Gideon's Sacrifice;WAR;2;;14
+Gift of Paradise;AKH;1;;167
+Gingerbread Cabin;ELD;1;;245
+Gleaming Barrier;RIX;2;;178
+Go for Blood;IKO;1;;122
+Graf Rats;EMN;1;;91
+Ground Assault;ZNC;1;;91
+Gruul Guildgate;RNA;1;;249
+Gruul Guildgate;RNA;1;;250
+Gruul Guildgate;ZNC;1;;130
+Gruul Locket;RNA;3;;234
+Horror of the Broken Lands;AKH;1;;95
+Ill-Gotten Inheritance;RNA;4;;77
+Impostor of the Sixth Pride;MH1;1;;14
+Inner Calm,Outer Strength;SOK;1;;133
+Invoke the Divine;DOM;1;;22
+Izzet Locket;GRN;1;;238
+Jeskai Sage;MB1;1;;410
+Jungle Hollow;IKO;1;;249
+Justiciar's Portal;RNA;1;;13
+Kalastria Healer;BFZ;1;;114
+Kalastria Nightwatch;MB1;1;;696
+Kasmina's Transmutation;WAR;4;;57
+Keep Safe;IKO;1;;56
+Kitesail Cleric;ZNR;1;;20
+Kor Celebrant;ZNR;3;;22
+Kozilek's Pathfinder;OGW;1;;5
+Krosan Tusker;MH1;2;;169
+Lampad of Death's Vigil;THB;1;;103
+Larger Than Life;KLD;1;;160
+Last Gasp;GK1;1;;5
+Latchkey Faerie;ZNC;1;;28
+Lawmage's Binding;RNA;2;;190
+Liberated Dwarf;JUD;1;;95
+Lifecrafter's Gift;CMR;1;;240
+Liliana's Steward;M21;1;;300
+Loam Dryad;SOI;1;;216
+Makindi Ox;ZNR;2;;293
+Man-o'-War;MH1;1;;55
+Manalith;HOU;3;;164
+March of the Drowned;XLN;2;;112
+Mardu Warshrieker;MB1;1;;1008
+Mark of Mutiny;IMA;1;;139
+Mausoleum Harpy;RIX;1;;78
+Maximize Velocity;GRN;1;;111
+Memory Leak;IKO;1;;95
+Mind Rake;MH1;2;;96
+Mobile Garrison;AER;1;;165
+Moment of Craving;RIX;5;;79
+Moss-Pit Skeleton;ZNR;2;;228
+Navigator's Compass;DOM;1;;225
+Negate;AER;1;;40
+Negate;ZNR;2;;71
+Ninja of the New Moon;MH1;1;;99
+Nyxborn Shieldmate;BNG;1;;21
+Of One Mind;IKO;1;;60
+Omen of the Dead;THB;2;;110
+Omen of the Hunt;THB;1;;192
+Ornamental Courage;KLD;1;;164
+Orzhov Guildgate;RNA;4;;253
+Overgrown Armasaur;RIX;3;;141
+Pack's Favor;MB1;1;;1288
+Pharika's Libation;THB;1;;111
+Pollenbright Druid;WAR;3;;173
+Pondering Mage;MH1;1;;63
+Prohibit;MH1;1;;64
+Provoke the Trolls;KHM;1;;144
+Prowling Caracal;MB1;2;;203
+Pyrite Spellbomb;2XM;2;;283
+Quench;RNA;2;;48
+Rakdos Guildgate;RNA;1;;255
+Ravenous Lindwurm;KHM;4;;187
+Reckless Charge;MH1;1;;144
+Resolute Strike;ZNR;4;;35
+Return to Nature;THB;1;;197
+Return Upon the Tide;KHM;1;;106
+Revitalize;KHM;4;;23
+Rootless Yew;KHM;1;;189
+Ruin Processor;BFZ;1;;12
+Rush of Vitality;KLD;1;;99
+Salvager of Secrets;M19;1;;70
+Scale the Heights;ZNR;2;;202
+Scion Summoner;OGW;1;;123
+Selesnya Locket;GRN;1;;240
+Shatterskull Minotaur;ZNR;1;;160
+Shelter;MH1;1;;28
+Shimmerdrift Vale;KHM;2;;267
+Shinen of Fear's Chill;SOK;1;;88
+Shinen of Flight's Wings;SOK;1;;57
+Shock;AER;1;;98
+Siege Striker;M21;1;;37
+Simic Cluestone;DGM;1;;145
+Simic Locket;RNA;2;;240
+Skittering Surveyor;DOM;3;;230
+Skull Rend;RTR;1;;195
+Skyclave Geopede;ZNR;1;;163
+Skyclave Plunder;ZNR;1;;81
+Skyline Cascade;BFZ;1;;246
+Snakeskin Veil;KHM;2;;194
+Snubhorn Sentry;RIX;4;;23
+Solitary Hunter // One of the Pack;SOI;1;;229
+Spare Supplies;ZNR;2;;254
+Spark Harvest;WAR;3;;105
+Springmantle Cleric;ZNR;2;;205
+Stone Quarry;M19;1;;256
+Strength of Solidarity;ZNR;4;;206
+String of Disappearances;MH1;1;;72
+Strip Bare;SHM;1;;24
+Supernatural Stamina;2XM;1;;108
+Syncopate;DOM;1;;67
+Territorial Hammerskull;XLN;1;;41
+Territorial Scythecat;ZNR;3;;310
+The Prismatic Piper;CMR;1;;1
+Thirst for Meaning;THB;2;;74
+Thornwood Falls;IKO;1;;256
+Thundering Sparkmage;ZNR;1;;171
+Torii Watchward;SOK;1;;30
+Tormenting Voice;SOI;1;;186
+Tormenting Voice;ZNR;2;;172
+Tragic Lesson;HOU;2;;51
+Tranquil Cove;IKO;1;;257
+Traveler's Amulet;HOU;1;;167
+Traveler's Amulet;RIX;3;;184
+Treacherous Werewolf;JUD;1;;76
+Unbridled Growth;AER;2;;126
+Unknown Shores;THB;2;;249
+Vampiric Fury;ISD;1;;167
+Wake of Vultures;MB1;1;;818
+Watcher in the Web;SOI;2;;239
+Waxing Moon;EMN;1;;177
+Welkin Tern;MB1;1;;544
+Wicker Witch;SOI;1;;268
+Wild Wanderer;KLD;2;;173
+Witching Well;ELD;2;;74
+Wrangle;AER;1;;101
+Zulaport Duelist;ZNR;2;;88
+Academy Journeymage;DOM;1;;41
+Act of Treason;RNA;2;;91
+Adamant Will;DOM;1;;2
+Adventurous Impulse;IKO;2;;142
+Anticipate;M20;1;;45
+Ardenvale Tactician // Dizzying Swoop;ELD;1;;5
+Aviary Mechanic;KLD;1;;6
+Bind the Monster;KHM;3;;48
+Bishop's Soldier;XLN;2;;6
+Bone Splinters;M20;1;;92
+Broken Wings;ZNR;2;;181
+Built to Last;KLD;1;;7
+Burning-Tree Vandal;RNA;1;;94
+Call the Cavalry;DOM;1;;9
+Callous Dismissal;WAR;2;;44
+Cartouche of Zeal;AKH;2;;124
+Consulate Skygate;KLD;1;;202
+Convicted Killer // Branded Howler;SOI;2;;149
+Crimson Fleet Commodore;CMR;1;;171
+Crystacean;IKO;3;;46
+Dead Weight;SOI;1;;106
+Deep Freeze;DOM;1;;50
+Demolish;KLD;1;;113
+Depart the Realm;KHM;1;;53
+Depths of Desire;XLN;2;;52
+Doomed Dissenter;AKH;1;;87
+Doomed Dissenter;M19;1;;93
+Dread Rider;KHM;1;;89
+Duress;M21;1;;96
+Eidolon of Philosophy;THB;1;;48
+Elvish Aberration;2XM;2;;165
+Epicure of Blood;M20;3;;99
+Essence Scatter;AKH;1;;52
+Faerie Duelist;RNA;2;;39
+Feral Invocation;M20;1;;170
+Fork in the Road;SOI;1;;205
+Fortuitous Find;KLD;1;;81
+Foundry Assembler;AER;1;;151
+Frenzied Raider;KHM;2;;137
+Frostveil Ambush;IKO;1;;52
+Fungal Infection;DOM;1;;94
+Gallant Cavalry;M19;2;;12
+Garruk's Gorehorn;M21;1;;306
+Giant Growth;WAR;3;;162
+Gilded Light;MH1;1;;12
+Gluttonous Slug;MH1;1;;93
+God-Pharaoh's Faithful;HOU;2;;14
+Goldvein Pick;KHM;1;;239
+Gorging Vulture;M20;1;;102
+Greenwood Sentinel;M20;1;;174
+Gruesome Fate;RIX;4;;75
+Guild Globe;WAR;6;;239
+Herald of the Dreadhorde;WAR;5;;93
+Hijack;XLN;2;;148
+Humbler of Mortals;JOU;1;;127
+Igneous Elemental;MH1;1;;133
+Implement of Combustion;AER;2;;155
+Infuriate;M20;3;;145
+Into the Fray;SOK;1;;106
+Into the Roil;ZNR;1;;62
+Irontread Crusher;AER;1;;161
+Jade Bearer;RIX;4;;134
+Jungleborn Pioneer;RIX;3;;137
+Kabira Outrider;ZNR;3;;18
+Last Gasp;JMP;1;;247
+Live Fast;KLD;2;;87
+Looming Spires;BFZ;1;;238
+Lunarch Mantle;A25;1;;24
+Magma Spray;AKH;3;;141
+Magma Spray;JOU;1;;103
+Mark of the Vampire;UMA;3;;105
+Maze Rusher;DGM;1;;33
+Metalspinner's Puzzleknot;KLD;1;;221
+Might of the Masses;ORI;1;;188
+Mists of Littjara;KHM;3;;67
+Moment of Triumph;RIX;1;;15
+Naga Vitalist;AKH;1;;176
+Nantuko Tracer;JUD;1;;125
+Natural Connection;BFZ;1;;179
+Nature's Chant;MH1;1;;210
+New Horizons;WAR;4;;168
+Nimana Skydancer;ZNR;2;;117
+Noxious Groodion;RNA;1;;78
+Ob Nixilis's Cruelty;WAR;5;;101
+Olivia's Dragoon;EMN;1;;100
+Open the Omenpaths;KHM;2;;143
+Pacifism;A25;1;;28
+Painted Bluffs;AKH;2;;246
+Pilfered Plans;DGM;1;;90
+Pirate's Cutlass;CMR;1;;333
+Plague Wight;RNA;1;;82
+Pressure Point;ZNR;3;;33
+Prowling Felidar;ZNR;2;;34
+Queen's Commission;XLN;1;;29
+Rabid Bite;SOI;1;;223
+Rafter Demon;RNA;1;;196
+Rakdos Roustabout;RNA;2;;198
+Rampaging Hippo;HOU;1;;128
+Raven Wings;KHM;3;;243
+Raving Oni-Slave;SOK;1;;86
+Reclaim the Wastes;ZNR;3;;200
+Revoke Existence;THB;2;;34
+Ritual of Rejuvenation;XLN;2;;32
+Root Out;SOI;1;;224
+Run Amok;KHM;2;;147
+Run Ashore;KHM;1;;74
+Sage's Row Savant;RNA;1;;49
+Salvage Drone;BFZ;1;;65
+Samut's Sprint;WAR;1;;142
+Sandstone Bridge;BFZ;1;;243
+Sauroform Hybrid;RNA;1;;140
+Savage Smash;RNA;2;;203
+Scavenging Harpy;THB;1;;114
+Scouring Sands;BNG;1;;110
+Seize the Spoils;KHM;2;;149
+Selesnya Guildgate;GRN;1;;256
+Shamble Back;SOI;2;;134
+Shambleshark;GTC;1;;193
+Shepherd of Heroes;ZNR;4;;38
+Shivan Fire;DOM;1;;142
+Shredded Sails;IKO;3;;136
+Sky Skiff;KLD;1;;233
+Skyclave Sentinel;ZNR;1;;253
+Sludge Crawler;BFZ;1;;98
+Soulstinger;AKH;1;;108
+Sparring Construct;DOM;3;;232
+Spellweaver Eternal;HOU;2;;46
+Spinehorn Minotaur;MH1;1;;147
+Splendid Agony;AKH;1;;109
+Squire's Devotion;RIX;3;;25
+Startling Development;IKO;1;;68
+Stensia Banquet;EMN;1;;144
+Stirring Address;MH1;2;;32
+Stonework Packbeast;ZNR;1;;255
+Storm Strike;RNA;1;;119
+Story Seeker;KHM;3;;34
+Stream of Thought;MH1;1;;71
+Sure Strike;BFZ;1;;157
+Tajuru Blightblade;ZNR;4;;208
+Tamiyo's Epiphany;WAR;2;;71
+Thicket Crasher;M20;1;;196
+Thornbow Archer;ORI;1;;121
+Torment of Venom;HOU;1;;79
+Tormenting Voice;M19;2;;164
+Transcendent Envoy;THB;2;;40
+Tuskeri Firewalker;KHM;2;;157
+Twilight Panther;RNA;2;;28
+Twin-Silk Spider;MH1;1;;188
+Unknown Shores;OGW;1;;181
+Unsummon;HOU;4;;54
+Utility Knife;ZNR;4;;256
+Vessel of Paramnesia;SOI;2;;95
+Volatile Claws;MH1;2;;154
+Vulshok Gauntlets;2XM;1;;305
+Wall of Runes;WAR;4;;75
+Wanderer's Strike;WAR;4;;38
+Whisper Squad;IKO;1;;105
+Wind-Scarred Crag;IKO;1;;258
+Windcaller Aven;MH1;1;;77
+Wings of the Cosmos;KHM;3;;39
+Wojek Halberdiers;GTC;1;;208
+Woodweaver's Puzzleknot;KLD;2;;240
+Yavimaya Sapherd;DOM;1;;189
+Act of Treason;M20;3;;124
+Aegis Automaton;AER;2;;141
+Amorphous Axe;MH1;1;;219
+Ancestral Blade;2XM;1;;3
+Ancient Brontodon;XLN;2;;175
+Angelic Gift;M20;1;;5
+Arachnoform;KHM;4;;159
+Argivian Restoration;2XM;1;;42
+Asphyxiate;BNG;1;;60
+Augury Raven;KHM;1;;44
+Auramancer;ORI;1;;5
+Axebane Beast;RNA;2;;121
+Baleful Eidolon;THS;1;;78
+Battering Krasis;DGM;1;;41
+Blade Juggler;RNA;1;;63
+Blessing of Belzenlok;DOM;1;;77
+Blinding Fog;XLN;2;;177
+Blisterspit Gremlin;IKO;1;;108
+Bombard;RIX;3;;93
+Boot Nipper;IKO;2;;76
+Boros Mastiff;DGM;1;;1
+Buccaneer's Bravado;RIX;4;;96
+Bushmeat Poacher;IKO;1;;77
+Byway Courier;SOI;1;;196
+Cancel;XLN;1;;47
+Captain's Call;M13;1;;9
+Celestial Flare;ORI;1;;8
+Chandra's Fury;ORI;1;;136
+Chandra's Pyrohelix;WAR;2;;120
+Chillbringer;RNA;3;;33
+Choking Restraints;EMN;1;;16
+Choking Tethers;MH1;2;;44
+Chorus of the Tides;BNG;1;;33
+Cinder Storm;A25;1;;126
+Cinderheart Giant;KHM;1;;126
+Cliffhaven Kitesail;ZNR;4;;243
+Clip Wings;SOI;1;;197
+Cobbled Wings;XLN;1;;233
+Colossal Dreadmaw;M19;1;;172
+Colossal Dreadmaw;RIX;2;;125
+Conclave Naturalists;2XM;1;;160
+Concordia Pegasus;RNA;1;;7
+Confront the Unknown;SOI;1;;198
+Consign to the Pit;RNA;1;;69
+Convolute;IKO;1;;45
+Coordinated Assault;IMA;1;;121
+Corridor Monitor;ELD;2;;41
+Crash Through;M21;1;;140
+Crowned Ceratok;IMA;1;;158
+Cultist's Staff;EMN;1;;194
+Curio Vendor;KLD;1;;42
+Daggerback Basilisk;M19;1;;174
+Dead Weight;GRN;2;;67
+Dead Weight;IKO;1;;83
+Deathbloom Thallid;DOM;1;;84
+Deathcult Rogue;GTC;2;;218
+Debtors' Transport;RNA;2;;72
+Deface;RNA;1;;98
+Demon Bolt;KHM;1;;129
+Dimir Guildgate;GRN;7;;246
+Disenchant;M20;3;;14
+Disenchant;ZNR;1;;10
+Disperse;M19;1;;50
+Dogged Pursuit;KHM;1;;85
+Doomskar Oracle;KHM;3;;10
+Draugr Recruiter;KHM;2;;87
+Dreadwurm;ZNR;2;;100
+Driver of the Dead;2XM;1;;90
+Drown in Filth;DGM;1;;67
+Druid of the Cowl;AER;2;;106
+Dual Shot;SOI;2;;153
+Dwarven Reinforcements;KHM;2;;134
+Elderleaf Mentor;KHM;2;;165
+Elvish Doomsayer;CMR;1;;120
+Elvish Fury;MH1;1;;162
+Ember-Eye Wolf;SOI;1;;154
+Executioner's Swing;GTC;2;;161
+Expedition Skulker;ZNR;3;;101
+Exultant Cultist;EMN;1;;59
+Farfinder;IKO;1;;2
+Fathom Fleet Cutthroat;M20;2;;100
+Feast of Dreams;JOU;1;;69
+Feed the Serpent;KHM;1;;95
+Felhide Brawler;BNG;1;;70
+Feral Maaka;RNA;1;;100
+Festering Newt;IMA;1;;90
+Field Research;ZNR;1;;58
+Fling;AKH;2;;132
+Forbidden Friendship;IKO;2;;119
+Forever Young;ELD;1;;89
+Fourth Bridge Prowler;AER;1;;60
+Frostpeak Yeti;KHM;3;;57
+Funeral Longboat;KHM;1;;238
+Ghor-Clan Wrecker;RNA;1;;103
+Ghostform;M19;1;;58
+Ghostly Wings;SOI;1;;66
+Gift of Growth;DOM;1;;163
+Glaze Fiend;2XM;1;;95
+Glittering Frost;KHM;4;;171
+Gnottvold Recluse;KHM;4;;172
+Goblin Trailblazer;RIX;5;;105
+Gods' Hall Guardian;KHM;4;;13
+Grasping Scoundrel;RIX;6;;74
+Grasping Thrull;RNA;2;;177
+Grave Birthing;BFZ;1;;93
+Gravel-Hide Goblin;RNA;2;;105
+Gravitic Punch;GRN;1;;105
+Greater Sandwurm;IKO;2;;157
+Griffin Dreamfinder;BNG;1;;16
+Griffin Protector;A25;1;;17
+Haazda Officer;RNA;1;;10
+Hagra Constrictor;ZNR;1;;105
+Hammerhand;IMA;1;;132
+Hands of Binding;GTC;1;;37
+Headless Specter;MH1;1;;95
+Honey Mammoth;IKO;1;;158
+Honor the God-Pharaoh;WAR;1;;132
+Howlpack Wolf;SOI;1;;164
+Hyrax Tower Scout;THB;2;;173
+Igneous Cur;M21;1;;153
+Immersturm Raider;KHM;2;;141
+Implement of Ferocity;AER;1;;157
+Inaction Injunction;RTR;2;;41
+Infuriate;THB;1;;141
+Inordinate Rage;ZNR;4;;144
+Intrepid Provisioner;SOI;2;;213
+Iron Verdict;KHM;2;;17
+Ironwright's Cleansing;EMN;1;;32
+Jaya's Greeting;WAR;3;;136
+Just the Wind;SOI;1;;71
+Karfell Kennel-Master;KHM;1;;101
+Kazandu Nectarpot;ZNR;1;;190
+Kessig Dire Swine;SOI;2;;214
+King Harald's Revenge;KHM;1;;180
+Kitesail Corsair;RIX;2;;41
+Knight of Sorrows;RNA;3;;14
+Koma's Faithful;KHM;3;;102
+Kozilek's Sentinel;BFZ;1;;129
+Law-Rune Enforcer;WAR;3;;20
+Legion Conquistador;RIX;5;;11
+Lethal Sting;HOU;1;;67
+Lifecraft Cavalry;AER;5;;113
+Makeshift Munitions;CMR;1;;191
+Makindi Ox;ZNR;2;;25
+Martyr for the Cause;WAR;2;;23
+Master Skald;KHM;1;;19
+Maze Abomination;DGM;1;;26
+Merciless Resolve;SOI;1;;123
+Mesa Unicorn;DOM;2;;27
+Might Beyond Reason;SOI;2;;217
+Militant Inquisitor;SOI;3;;26
+Mire's Grasp;THB;3;;106
+Moldgraf Scavenger;SOI;2;;218
+Morgue Burst;DGM;1;;86
+Murasa Behemoth;MH1;2;;172
+Mysterious Egg;IKO;1;;3
+Nagging Thoughts;SOI;1;;74
+Nahiri's Binding;ZNR;2;;29
+Naturalize;RIX;5;;139
+Niblis of Dusk;SOI;1;;76
+Nimbus Naiad;THS;2;;56
+No Escape;WAR;2;;63
+Octoprophet;M20;1;;70
+Omen of the Forge;THB;1;;145
+Omenspeaker;M19;1;;64
+Paladin of the Bloodstained;XLN;1;;25
+Pharika's Disciple;ORI;1;;194
+Pheres-Band Tromper;BNG;1;;134
+Pit Fight;GTC;1;;223
+Plummet;A25;1;;183
+Practiced Tactics;ZNR;3;;32
+Predator's Rapport;GTC;2;;129
+Prey's Vengeance;IMA;1;;182
+Priest of the Haunted Edge;KHM;2;;104
+Prophetic Prism;CMR;1;;334
+Pyre Hound;SOI;1;;174
+Pyroceratops;IKO;2;;130
+Raise the Draugr;KHM;2;;105
+Rampaging Cyclops;DOM;1;;139
+Rampaging Rendhorn;RNA;1;;135
+Raptor Companion;RIX;2;;19
+Rhizome Lurcher;GRN;1;;196
+Rhox Oracle;M19;2;;198
+Riptide Turtle;THB;1;;61
+Roil Eruption;ZNR;1;;155
+Rottenheart Ghoul;SOI;2;;132
+Rubble Reading;RNA;1;;110
+Rubble Slinger;RNA;1;;217
+Ruin Rat;HOU;2;;75
+Rumbling Rockslide;IKO;2;;134
+Rummaging Goblin;XLN;1;;160
+Sagittars' Volley;RNA;3;;138
+Sailor of Means;RIX;3;;49
+Salivating Gremlins;KLD;2;;129
+Sarulf's Packmate;KHM;5;;192
+Scorchmark;RNA;1;;113
+Sculptor of Winter;KHM;4;;193
+Scuttlegator;RNA;1;;218
+Seagraf Skaab;SOI;1;;84
+Select for Inspection;KLD;1;;63
+Selesnya Guildgate;GRN;1;;255
+Senate Courier;RNA;1;;50
+Setessan Training;THB;1;;201
+Shackles of Treachery;KHM;2;;150
+Shell Shield;ZNR;1;;79
+Short Sword;DOM;2;;229
+Silburlind Snapper;SOI;1;;85
+Silent Observer;SOI;1;;86
+Skola Grovedancer;THB;1;;202
+Slimebind;RNA;2;;54
+Solid Footing;IKO;1;;31
+Soul-Strike Technique;MH1;1;;30
+Soulmender;M20;2;;37
+Spellgorger Weird;WAR;4;;145
+Spitfire Lagac;ZNR;1;;167
+Stalwart Valkyrie;KHM;2;;31
+Steeple Creeper;RNA;2;;142
+Stitched Mangler;SOI;1;;89
+Stoic Builder;SOI;1;;231
+Stromkirk Mentor;SOI;1;;137
+Structural Distortion;SOI;2;;185
+Struggle for Skemfar;KHM;2;;196
+Summary Judgment;RNA;2;;24
+Sun-Collared Raptor;RIX;1;;118
+Survival Cache;IMA;1;;34
+Swaggering Corsair;RIX;5;;119
+Sworn Guardian;RIX;2;;58
+Sylvan Brushstrider;RNA;2;;144
+Syndicate Messenger;RNA;1;;25
+Tajuru Snarecaster;ZNR;2;;210
+Tajuru Stalwart;BFZ;1;;194
+Tenth District Veteran;RNA;1;;26
+Territorial Boar;RNA;1;;145
+Territorial Scythecat;ZNR;2;;213
+Thirsting Shade;RNA;3;;87
+Thornado;MH1;1;;184
+Thrash of Raptors;XLN;2;;168
+Thriving Ibex;KLD;1;;31
+Thriving Rats;KLD;1;;102
+Thunder Drake;WAR;4;;73
+Tilonalli's Crown;RIX;5;;120
+Toll of the Invasion;WAR;3;;108
+Torch Gauntlet;KLD;1;;237
+Tormentor's Helm;KHM;1;;155
+Trapped in the Tower;ELD;2;;33
+Turntimber Ascetic;ZNR;3;;214
+Twins of Maurer Estate;SOI;2;;142
+Undercity Scavenger;RNA;2;;88
+Undercity's Embrace;RNA;2;;89
+Undersea Invader;KHM;1;;78
+Vampire Envoy;OGW;1;;92
+Vampire Noble;SOI;1;;143
+Vault Robber;KHM;2;;158
+Verdant Haven;GTC;1;;138
+Vessel of Ephemera;SOI;1;;48
+Vessel of Malignity;SOI;2;;144
+Vestige of Emrakul;BFZ;1;;136
+Vicious Offering;DOM;1;;110
+Violent Impact;AKH;2;;154
+Vivien's Grizzly;WAR;3;;182
+Voracious Typhon;THB;1;;203
+Warhorn Blast;KHM;3;;38
+Watchful Giant;RNA;1;;30
+Waterknot;RIX;3;;61
+Weigh Down;KHM;1;;118
+Wild Celebrants;CMR;1;;212
+Withercrown;KHM;2;;119
+Workshop Assistant;CMR;1;;348
+Wrecking Beast;RNA;1;;150
+Zhur-Taa Swine;GTC;1;;210
+Act of Heroism;HOU;2;;1
+Aegis Turtle;IKO;1;;39
+Aerial Maneuver;GTC;1;;1
+Aeromunculus;RNA;1;;152
+Aether Herder;AER;3;;102
+Aether Swooper;AER;2;;26
+Aetherstream Leopard;AER;3;;103
+Aggressive Urge;RIX;4;;122
+Aim High;SOI;1;;193
+Ambitious Aetherborn;KLD;1;;72
+Ambuscade;HOU;4;;110
+Ancient Crab;AKH;3;;40
+Applied Biomancy;RNA;2;;153
+Ardent Electromancer;ZNR;2;;135
+Arlinn's Wolf;WAR;4;;151
+Artificer's Epiphany;ORI;1;;45
+Audacious Thief;M20;4;;84
+Augmenting Automaton;AER;1;;143
+Aven Wind Mage;M19;2;;45
+Baloth Gorger;DOM;2;;156
+Band Together;WAR;4;;153
+Bastion Inventor;AER;2;;30
+Bastion Mastodon;KLD;1;;197
+Battalion Foot Soldier;M20;2;;7
+Battle-Rattle Shaman;2XM;1;;116
+Battlefield Promotion;WAR;4;;5
+Battlefield Raptor;KHM;3;;3
+Beckon Apparition;GTC;1;;212
+Benalish Honor Guard;DOM;1;;5
+Berg Strider;KHM;2;;47
+Bitterbow Sharpshooters;HOU;2;;112
+Bladebrand;CMR;2;;110
+Blitz Leech;IKO;3;;74
+Blood Beckoning;ZNR;1;;92
+Blood Burglar;M20;1;;88
+Blood Curdle;IKO;1;;75
+Bloodlust Inciter;AKH;1;;120
+Bloodstone Goblin;DOM;1;;115
+Blur of Blades;HOU;1;;84
+Boggart Brute;M19;1;;131
+Bone to Ash;M20;3;;48
+Boneclad Necromancer;M20;1;;93
+Boreal Elemental;M20;4;;49
+Bound in Gold;KHM;1;;5
+Brazen Freebooter;CMR;1;;164
+Brazen Freebooter;RIX;1;;95
+Broken Wings;KHM;4;;164
+Caligo Skin-Witch;DOM;2;;80
+Capture Sphere;IKO;1;;44
+Catalog;SOI;1;;51
+Caught in the Brights;AER;1;;10
+Centaur Healer;RTR;1;;148
+Charge;DOM;1;;10
+Civic Stalwart;RNA;1;;6
+Cold-Water Snapper;DOM;3;;48
+Contaminated Ground;GTC;2;;59
+Contract Killing;XLN;2;;95
+Conviction;AER;1;;12
+Convolute;M20;2;;55
+Coordinated Charge;IKO;1;;6
+Corpse Churn;OGW;1;;83
+Corrosive Ooze;DOM;3;;158
+Countless Gears Renegade;AER;2;;13
+Court Street Denizen;CMR;1;;17
+Crashing Tide;RIX;2;;34
+Craven Hulk;KHM;2;;127
+Cremate;RTR;1;;59
+Daring Skyjek;GTC;1;;9
+Dark Bargain;IKO;1;;82
+Dark Favor;M13;1;;86
+Dauntless Aven;HOU;2;;7
+Dauntless Cathar;SOI;3;;11
+Dauntless Survivor;ZNR;3;;184
+Dawning Angel;M20;1;;11
+Defiant Salvager;AER;1;;56
+Demonic Gifts;KHM;4;;84
+Deny Existence;SOI;2;;55
+Destructive Digger;M20;1;;134
+Drownyard Explorers;SOI;1;;56
+Dub;M21;1;;16
+Dusk Charger;RIX;3;;69
+Duskwielder;KHM;1;;91
+Eager Construct;KLD;1;;209
+Eagle of the Watch;JOU;1;;9
+Elderfang Disciple;KHM;1;;93
+Elite Instructor;THB;3;;49
+Embraal Gear-Smasher;AER;1;;79
+Encampment Keeper;XLN;1;;11
+Erratic Visionary;WAR;1;;48
+Ethereal Guidance;SOI;1;;18
+Excoriate;BNG;1;;10
+Expose Evil;SOI;1;;19
+Failed Inspection;KLD;1;;47
+Farbog Revenant;SOI;1;;110
+Fathom Fleet Boarder;RIX;5;;71
+Final Flare;THB;3;;134
+Firecannon Blast;XLN;2;;145
+Flummoxed Cyclops;THB;1;;135
+Flycatcher Giraffid;IKO;1;;153
+Foreboding Fruit;ELD;1;;88
+Fortress Crab;M20;1;;60
+Foundry Screecher;KLD;1;;82
+Frenzied Raptor;IKO;1;;120
+Frontline Devastator;HOU;3;;93
+Fully Grown;IKO;1;;154
+Funeral Rites;THB;2;;97
+Garenbrig Paladin;ELD;1;;157
+Ghastly Gloomhunter;ZNR;4;;103
+Giltgrove Stalker;RIX;6;;131
+Glaring Aegis;M20;2;;18
+Glimmerbell;IKO;2;;53
+Goblin Assault Team;WAR;2;;129
+Goldmaw Champion;KHM;2;;14
+Golgari Guildgate;GRN;1;;248
+Golgari Guildgate;GRN;2;;249
+Gravity Negator;OGW;1;;45
+Grazing Whiptail;XLN;2;;190
+Greenwood Sentinel;M19;1;;187
+Griffin Sentinel;M20;3;;21
+Grim Physician;THB;1;;100
+Grizzled Outrider;KHM;1;;173
+Grotag Bug-Catcher;ZNR;3;;142
+Growth Cycle;M20;1;;175
+Guardians of Koilos;DOM;1;;216
+Guardians of Meletis;THS;1;;217
+Guildscorn Ward;GTC;1;;15
+Gust of Wind;IKO;2;;54
+Guul Draz Mucklord;ZNR;2;;104
+Hagi Mob;KHM;2;;140
+Hampering Snare;IKO;2;;55
+Havoc Devils;M19;1;;146
+Healing Grace;DOM;2;;20
+Heightened Reflexes;IKO;1;;123
+Hero of the Games;THB;1;;137
+Hero of the Pride;THB;1;;22
+Hinterland Drake;AER;1;;34
+Homarid Explorer;DOM;1;;53
+Honed Khopesh;AKH;1;;230
+Hubris;JOU;1;;41
+Hulking Devil;SOI;2;;165
+Hunt the Weak;RIX;4;;133
+Hydroform;GTC;1;;172
+Implement of Examination;AER;1;;156
+Implement of Improvement;AER;1;;158
+Implement of Malice;AER;2;;159
+Imposing Vantasaur;IKO;1;;17
+Initiate's Companion;AKH;2;;174
+Inquisitor's Ox;SOI;2;;24
+Invoke the Divine;KHM;2;;16
+Iona's Judgment;IMA;1;;25
+Iroas's Blessing;THB;2;;142
+Iron Bully;2XM;1;;262
+Isolation Zone;OGW;2;;22
+Jaspera Sentinel;KHM;3;;178
+Joraga Visionary;ZNR;3;;188
+Keldon Raider;M20;2;;146
+Kiora's Dambreaker;WAR;1;;58
+Knight of the Tusk;M19;1;;18
+Kor Castigator;BFZ;1;;35
+Kor Scythemaster;OGW;1;;23
+Lamplighter of Selhoff;SOI;2;;72
+Macabre Waltz;SOI;2;;121
+Malakir Blood-Priest;ZNR;2;;110
+Mammoth Growth;KHM;4;;183
+Maned Serval;IKO;2;;23
+Maw of Kozilek;OGW;1;;99
+Maze Glider;DGM;1;;13
+Maze Sentinel;DGM;2;;4
+Messenger's Speed;THS;1;;129
+Metropolis Sprite;M20;2;;66
+Mindstatic;DGM;1;;14
+Mogis's Favor;THB;1;;107
+Mugging;GTC;1;;102
+Mutiny;RIX;2;;106
+Nightsquad Commando;IKO;2;;98
+Nyx Infusion;JOU;1;;77
+Oblivion's Hunger;ZNR;1;;119
+Orazca Frillback;RIX;1;;140
+Orazca Raptor;RIX;3;;108
+Outflank;ELD;1;;23
+Pack Mastiff;M20;4;;152
+Parasitic Strix;2XM;1;;60
+Pegasus Courser;M19;1;;32
+Plummet;RIX;1;;143
+Portent of Betrayal;THB;2;;149
+Pouncing Cheetah;AKH;4;;179
+Prey Upon;AER;2;;120
+Prickly Marmoset;IKO;1;;129
+Prismite;M20;2;;235
+Prizefighter Construct;AER;1;;172
+Propeller Pioneer;KLD;1;;24
+Proven Combatant;HOU;2;;42
+Rabid Bite;M20;2;;190
+Rage-Scarred Berserker;THB;1;;113
+Raiders' Karve;KHM;4;;242
+Rank Officer;MH1;1;;102
+Reclaiming Vines;BFZ;1;;185
+Recover;RIX;1;;84
+Reduce to Ashes;SOI;2;;176
+Relentless Advance;WAR;2;;64
+Relic Runner;DOM;4;;62
+Renegade's Getaway;AER;3;;69
+Reservoir Walker;AER;3;;174
+Resourceful Return;AER;2;;70
+Returned Phalanx;A25;1;;106
+Riparian Tiger;KLD;1;;167
+Ripscale Predator;M20;1;;157
+Risen Riptide;ZNR;1;;73
+Rising Populace;WAR;5;;29
+Root Snare;M19;1;;199
+Roots of Wisdom;KHM;1;;190
+Rosethorn Acolyte // Seasonal Ritual;ELD;3;;174
+Sage's Row Denizen;M20;1;;73
+Sanguine Glorifier;RIX;1;;20
+Sanitarium Skeleton;SOI;2;;133
+Satyr Hedonist;THS;1;;174
+Satyr's Cunning;THB;2;;152
+Scavenged Blade;ZNR;3;;157
+Screeching Skaab;ORI;1;;70
+Sea Gate Colossus;ZNR;1;;251
+Senate Griffin;RNA;1;;219
+Setessan Griffin;THS;1;;30
+Severed Strands;GRN;2;;85
+Shattering Blow;GTC;2;;225
+Shatterskull Recruit;BFZ;1;;155
+Shipwreck Moray;AER;1;;45
+Shoulder to Shoulder;OGW;1;;34
+Sift;2XM;1;;69
+Sigiled Skink;JOU;1;;111
+Signpost Scarecrow;ELD;2;;231
+Silverback Shaman;M20;1;;195
+Sinister Possession;DGM;1;;29
+Skirk Commando;A25;1;;150
+Skymarch Bloodletter;M19;1;;119
+Sleep Paralysis;M20;2;;75
+Sleeper Dart;IKO;1;;240
+Smashing Success;KHM;2;;151
+Sneaking Guide;ZNR;2;;164
+Sorin's Thirst;WAR;5;;104
+Soul of the Rapids;RIX;2;;56
+Sparktongue Dragon;M19;1;;159
+Spined Megalodon;M21;1;;72
+Spireside Infiltrator;KLD;1;;133
+Springjaw Trap;IKO;1;;241
+Starfall;JOU;1;;114
+Starlit Mantle;THB;1;;67
+Starnheim Courser;KHM;4;;32
+Steady Aim;WAR;2;;177
+Stealth Mission;WAR;5;;70
+Strength of Arms;2XM;1;;33
+Strength of Arms;SOI;1;;40
+Student of Ojutai;IMA;1;;33
+Sun-Crested Pterodon;RIX;3;;27
+Sweatworks Brawler;AER;1;;100
+Swift Response;M21;2;;40
+Swordwise Centaur;BNG;1;;142
+Synchronized Spellcraft;ZNR;1;;168
+Syndicate Enforcer;GTC;1;;80
+Tajuru Pathwarden;OGW;1;;145
+Tasseled Dromedary;KLD;1;;30
+Temple Thief;THB;1;;116
+Terrus Wurm;RTR;1;;80
+Thieving Otter;IKO;1;;69
+Throttle;SOI;1;;138
+Thwart the Enemy;IKO;1;;173
+Tidy Conclusion;KLD;1;;103
+Timberpack Wolf;M13;1;;194
+Tome Raider;ELD;2;;68
+Totally Lost;A25;1;;74
+Towering-Wave Mystic;THB;5;;77
+Tragic Poet;DOM;2;;37
+Trusty Packbeast;M19;1;;41
+Ubul Sar Gatekeepers;DGM;1;;30
+Underworld Charger;THB;4;;120
+Universal Solvent;AER;1;;178
+Unknown Shores;XLN;1;;259
+Unknown Shores;THS;2;;229
+Unquenchable Thirst;HOU;2;;53
+Valakut Predator;BFZ;1;;160
+Valor of the Worthy;KHM;2;;37
+Vizkopa Vampire;RNA;2;;220
+Volcanic Upheaval;BFZ;1;;161
+Voldaren Duelist;SOI;1;;191
+Voracious Vampire;RIX;2;;91
+Vraska's Finisher;WAR;1;;112
+Wall of Mist;M19;1;;83
+Watertrap Weaver;XLN;3;;87
+Welder Automaton;AER;1;;183
+Wildsize;IMA;1;;191
+Wingfold Pteron;IKO;1;;71
+Wings of Hubris;THB;2;;241
+Without Weakness;HOU;1;;81
+Wretched Camel;HOU;1;;82
+Yeva's Forcemage;ORI;1;;208
+Yoked Ox;M20;4;;41
+Zephyr Charge;M20;1;;82
+Abstruse Interference;OGW;1;;40
+Academy Drake;DOM;1;;40
+Aerial Predation;IMA;2;;154
+Aether Inspector;AER;1;;3
+Aether Poisoner;AER;2;;51
+Agonizing Syphon;M20;3;;83
+Ahn-Crop Invader;WAR;2;;113
+Ashiok's Skulker;WAR;2;;40
+Aspect of Manticore;THB;1;;127
+Audacious Infiltrator;AER;4;;7
+Aven Initiate;AKH;1;;43
+Aven of Enduring Hope;HOU;2;;5
+Aven Reedstalker;HOU;3;;30
+Avenging Arrow;RTR;1;;4
+Axgard Braggart;KHM;2;;1
+Axgard Cavalry;KHM;1;;121
+Barrier of Bones;GRN;3;;61
+Basilica Guards;GTC;1;;5
+Bastion Enforcer;AER;1;;8
+Batterhorn;RTR;2;;87
+Battle-Rattle Shaman;IMA;1;;117
+Befuddle;DOM;4;;45
+Benthic Giant;THS;1;;41
+Bloodbriar;2XM;1;;154
+Blossom Dryad;XLN;1;;178
+Bone Pit Brute;M21;1;;132
+Boulder Salvo;OGW;1;;102
+Breakneck Berserker;KHM;2;;124
+Brightwood Tracker;M20;1;;166
+Bristling Boar;M19;1;;170
+Brute Strength;AKH;1;;122
+Cabal Evangel;DOM;2;;78
+Cabal Paladin;DOM;2;;79
+Canal Monitor;RIX;4;;63
+Canyon Minotaur;M13;1;;122
+Captivating Unicorn;THB;1;;6
+Carrion Imp;RNA;2;;66
+Carrion Screecher;HOU;2;;61
+Cascade Seer;ZNR;2;;48
+Cavern Lampad;THS;1;;81
+Centaur Courser;M13;1;;164
+Chandra's Revolution;AER;2;;77
+Chilling Trap;ZNR;2;;50
+Chorus of Might;RTR;1;;119
+Cleansing Ray;RIX;3;;4
+Cleric of the Forward Order;ORI;1;;10
+Clinging Anemones;GTC;1;;31
+Colossal Dreadmaw;XLN;1;;180
+Compulsory Rest;AKH;1;;9
+Consulate Turret;AER;3;;147
+Consuming Sinkhole;OGW;1;;94
+Corpse Blockade;GTC;1;;60
+Crow of Dark Tidings;CMR;1;;115
+Crystal Slipper;ELD;2;;119
+Daring Demolition;AER;2;;55
+Dawnfeather Eagle;AER;3;;14
+Daybreak Chaplain;M19;1;;10
+Daybreak Chimera;THB;1;;10
+Deadeye Rig-Hauler;RIX;2;;36
+Deathknell Berserker;KHM;2;;83
+Defend the Hearth;THS;1;;156
+Defiant Khenra;HOU;2;;89
+Demolish;WAR;4;;123
+Demystify;XLN;2;;8
+Destructive Tampering;AER;2;;78
+Deviant Glee;RTR;1;;65
+Dinosaur Hunter;RIX;5;;67
+Dire Fleet Hoarder;XLN;3;;102
+Discordant Piper;THB;1;;88
+Dispersal Technician;AER;1;;32
+Divination;DOM;3;;52
+Divine Verdict;RIX;4;;5
+Durkwood Baloth;IMA;1;;160
+Dutiful Thrull;GTC;3;;11
+Embereth Paladin;ELD;2;;121
+Expedition Healer;ZNR;2;;13
+Explosive Apparatus;M19;2;;233
+Fathom Fleet Cutthroat;XLN;1;;107
+Fathom Fleet Firebrand;XLN;4;;142
+Fearless Pup;KHM;4;;136
+Fen Hauler;AER;1;;58
+Feral Abomination;DOM;1;;92
+Feral Prowler;HOU;2;;115
+Ferocious Tigorilla;IKO;1;;115
+Filigree Crawler;AER;1;;150
+Final Death;THB;2;;95
+Fire Shrine Keeper;XLN;1;;144
+Frenzied Rage;DOM;1;;124
+Frilled Sandwalla;HOU;1;;116
+Frilled Sea Serpent;M20;1;;61
+Furious Resistance;GTC;1;;93
+Gearsmith Prodigy;M19;1;;57
+Ghitu Chronicler;DOM;2;;125
+Ghitu Journeymage;DOM;1;;126
+Ghostly Sentinel;BFZ;1;;28
+Giant Mantis;BFZ;1;;173
+Giant Ox;KHM;3;;11
+Giant Scorpion;M13;1;;94
+Giant's Skewer;ELD;2;;91
+Goblin Freerunner;OGW;1;;111
+Goblin Smuggler;M20;2;;144
+Granitic Titan;HOU;1;;95
+Grisly Survivor;HOU;1;;64
+Guardian Gladewalker;KHM;3;;174
+Hardy Veteran;RIX;2;;132
+Headstrong Brute;XLN;5;;147
+Heat Ray;IMA;1;;133
+Helica Glider;IKO;2;;15
+Henge Walker;ELD;1;;221
+Highland Game;M19;1;;188
+Hired Torturer;DGM;1;;25
+Horizon Seeker;KHM;3;;175
+Horror of the Dim;GTC;1;;68
+Hunt the Weak;KLD;1;;158
+Hyena Pack;AKH;1;;139
+Hypothesizzle;GRN;1;;178
+Ice Over;AER;1;;35
+Icehide Troll;KHM;5;;176
+Impale;RIX;4;;76
+Infectious Horror;M19;3;;101
+Inspire Awe;THB;2;;175
+Inspired Charge;KLD;1;;20
+Inspiring Captain;M20;1;;25
+Invading Manticore;WAR;6;;134
+Ixalli's Diviner;XLN;1;;192
+Jade Guardian;XLN;3;;194
+Jadecraft Artisan;RIX;1;;135
+Jousting Dummy;ELD;1;;224
+Keldon Overseer;DOM;1;;134
+Keldon Warcaller;DOM;2;;136
+Keymaster Rogue;GTC;1;;39
+Kozilek's Translator;OGW;1;;74
+Kronch Wrangler;WAR;1;;166
+Lathnu Sailback;AER;2;;89
+Lava Serpent;IKO;1;;124
+Lead by Example;OGW;1;;134
+Leave in the Dust;AER;3;;37
+Legion's Judgment;XLN;3;;21
+Leyline Phantom;GTC;1;;41
+Lightning Javelin;ORI;1;;153
+Llanowar Envoy;DOM;1;;169
+Loam Larva;OGW;1;;135
+Loathsome Chimera;THB;1;;177
+Lurching Rotbeast;HOU;1;;69
+Luxa River Shrine;AKH;1;;232
+Magmatic Chasm;SOI;1;;172
+Makindi Aeronaut;OGW;1;;27
+Mammoth Spider;DOM;1;;171
+Maraleaf Rider;ELD;1;;166
+Marauder's Axe;M19;1;;240
+Mesa Lynx;ZNR;2;;28
+Might of Murasa;ZNR;1;;194
+Mighty Leap;M19;1;;28
+Moaning Wall;HOU;2;;72
+Moat Piranhas;M20;2;;67
+Mutual Destruction;IKO;1;;96
+Natural Obsolescence;AER;4;;118
+Nest Robber;XLN;1;;152
+Netcaster Spider;M20;1;;184
+New Horizons;XLN;2;;198
+Oasis Ritualist;HOU;2;;124
+Onakke Ogre;M19;1;;153
+Oreskos Swiftclaw;M19;2;;31
+Perimeter Sergeant;IKO;1;;27
+Pharika's Cure;THS;2;;100
+Pilfering Hawk;KHM;2;;71
+Pirate's Prize;XLN;3;;68
+Prey Upon;GRN;4;;143
+Queen of Ice // Rage of Winter;ELD;2;;61
+Rabid Bite;ZNR;2;;199
+Rabid Bloodsucker;ORI;1;;113
+Rage of Purphoros;THS;1;;137
+Razortip Whip;GTC;2;;235
+Reaper of Night // Harvest Fear;ELD;3;;102
+Relentless Pursuit;THB;1;;195
+Relic Runner;2XM;1;;63
+Riot Gear;GTC;1;;236
+Riot Piker;DGM;1;;37
+Rise Again;M21;1;;119
+River Heralds' Boon;XLN;5;;204
+River Serpent;AKH;1;;66
+Sanguine Indulgence;M21;1;;121
+Sanitarium Skeleton;M20;2;;112
+Savai Sabertooth;IKO;2;;29
+Scab-Clan Charger;GTC;1;;131
+Sea Legs;RIX;2;;50
+Shadow Slice;GTC;1;;77
+Shatter;RIX;2;;114
+Shielded Passage;GTC;1;;24
+Shipwreck Looter;XLN;2;;76
+Silkweaver Elite;AER;2;;125
+Silverflame Ritual;ELD;1;;30
+Silverflame Squire // On Alert;ELD;1;;31
+Skinbrand Goblin;2XM;1;;144
+Skyblade of the Legion;XLN;3;;37
+Skyclave Squid;ZNR;2;;82
+Slaughter Drone;OGW;1;;79
+Slaughterhorn;GTC;1;;134
+Smite the Monstrous;BFZ;1;;49
+Smite the Monstrous;ZNR;3;;42
+Snare Tactician;IKO;4;;30
+Solitary Camel;HOU;3;;23
+Sorcerer of the Fang;M20;1;;114
+Soul Salvage;M20;1;;116
+Spark Reaper;WAR;5;;106
+Spelleater Wolverine;IKO;1;;137
+Spellkeeper Weird;WAR;1;;69
+Stalking Drone;OGW;1;;124
+Stampeding Horncrest;RIX;1;;116
+Steadfast Sentinel;HOU;1;;24
+Stinging Shot;AKH;1;;189
+Storm Sculptor;XLN;2;;85
+Strider Harness;RIX;3;;183
+Sudden Spinnerets;IKO;1;;171
+Sun Sentinel;RIX;3;;26
+Survivors' Bond;IKO;2;;172
+Sustainer of the Realm;IMA;1;;35
+Sweep Away;OGW;1;;64
+Sworn Companions;GRN;1;;27
+Take into Custody;AER;3;;47
+Tazeem Roilmage;ZNR;5;;84
+Thundering Ceratok;WAR;3;;179
+Towering Thunderfist;GTC;2;;109
+Triton Waverider;THB;1;;78
+Triumphant Surge;THB;1;;41
+True Love's Kiss;ELD;2;;34
+Trufflesnout;M21;2;;212
+Turn to Slag;M21;1;;168
+Turret Ogre;WAR;3;;148
+Two-Headed Cerberus;THS;1;;146
+Umara Entangler;OGW;1;;65
+Undead Servant;M20;1;;118
+Urban Utopia;GRN;2;;146
+Vassal Soul;RTR;1;;224
+Veteran's Sidearm;ORI;1;;242
+Voidwielder;RTR;1;;56
+Vorstclaw;M20;4;;201
+Wall of Vines;M19;1;;210
+Wasteland Scorpion;AKH;1;;116
+Wave-Wing Elemental;BFZ;1;;88
+Wavecrash Triton;THS;1;;74
+Wayward Giant;KLD;1;;139
+Wind Drake;KLD;1;;70
+Wind Drake;M13;1;;80
+Wolfkin Bond;M20;3;;203
+Act of Treason;GTC;1;;85
+Aerial Guide;HOU;2;;29
+Aesthir Glider;DOM;5;;209
+Alley Strangler;AER;2;;52†
+Angel of the Dawn;CMR;1;;6
+Angelheart Protector;ZNR;3;;3
+Angelic Gift;CMR;1;;7
+Anvilwrought Raptor;M20;1;;221
+Armored Transport;GTC;1;;226
+Axebane Stag;RTR;1;;116
+Barging Sergeant;GRN;2;;92
+Blade Instructor;GRN;2;;1
+Blessed Light;DOM;1;;7
+Blight Keeper;XLN;2;;92
+Blindblast;WAR;1;;114
+Blood Price;ZNR;2;;93
+Blow Your House Down;ELD;2;;114
+Bulwark Giant;WAR;3;;7
+Candlelight Vigil;GRN;4;;3
+Canopy Baloth;ZNR;3;;182
+Centaur Courser;M20;5;;168
+Centaur Peacemaker;GRN;3;;158
+Charity Extractor;WAR;4;;81
+Checkpoint Officer;IKO;2;;5
+Claustrophobia;IMA;1;;45
+Claustrophobia;ORI;1;;50
+Cleric of Chill Depths;ZNR;3;;51
+Cliffhaven Sell-Sword;ZNR;3;;8
+Collar the Culprit;GRN;1;;5
+Crash the Ramparts;XLN;1;;182
+Cruel Finality;AER;1;;54
+Crush Dissent;WAR;3;;47
+Crushing Canopy;GRN;1;;126
+Crushing Canopy;XLN;3;;183
+Cunning Geysermage;ZNR;3;;55
+Cursed Minotaur;AKH;1;;85
+D'Avenant Trapper;DOM;1;;11
+Dark Inquiry;RIX;1;;65
+Darkblade Agent;GRN;1;;164
+Dauntless Unity;ZNR;1;;9
+Davriel's Shadowfugue;WAR;3;;84
+Daybreak Chaplain;M20;4;;12
+Daysquad Marshal;IKO;1;;8
+Deadeye Tormentor;XLN;1;;98
+Deadly Alliance;ZNR;5;;96
+Decommission;AER;1;;16
+Deeproot Warrior;XLN;4;;186
+Demolish;XLN;1;;139
+Dimir Informant;GRN;2;;36
+Dire Fleet Interloper;XLN;2;;103
+Direct Current;GRN;1;;96
+Disposal Mummy;HOU;2;;9
+Djeru's Renunciation;HOU;1;;11
+Douser of Lights;GRN;1;;70
+Drana's Silencer;ZNR;4;;99
+Dreadful Apathy;THB;1;;11
+Drowsing Tyrannodon;M21;1;;178
+Drudge Beetle;RTR;2;;122
+Dual Shot;XLN;3;;141
+Dune Beetle;AKH;1;;89
+Duskmantle Operative;WAR;2;;88
+Enforcer Griffin;WAR;3;;11
+Erstwhile Trooper;GRN;1;;169
+Eviscerate;DOM;1;;91
+Excavation Elephant;DOM;1;;17
+Expedition Champion;ZNR;2;;138
+Expedition Diviner;ZNR;3;;57
+Exultant Skymarcher;RIX;3;;7
+Eyeblight Assassin;ORI;1;;95
+Fan Bearer;AKH;1;;12
+Farsight Adept;ZNR;4;;14
+Fervent Strike;DOM;1;;117
+Fiery Intervention;DOM;1;;118
+Fire Elemental;M20;1;;138
+Fire Elemental;DOM;2;;120
+Fire Urchin;GRN;1;;101
+Fissure Wizard;ZNR;2;;140
+Forced Landing;WAR;4;;161
+Frenzied Raptor;XLN;1;;146
+Fresh-Faced Recruit;GRN;3;;216
+Frost Breath;M21;1;;51
+Frost Lynx;M20;3;;62
+Garrison Sergeant;GRN;1;;172
+Giant Spider;AKH;1;;166
+Gideon's Reproach;DOM;4;;19
+Gift of Strength;HOU;2;;117
+Gilded Cerodon;HOU;1;;94
+Gilded Sentinel;XLN;3;;239
+Gloom Sower;M21;1;;100
+Goblin Assailant;WAR;3;;128
+Goblin Locksmith;GRN;2;;104
+Graven Abomination;HOU;1;;162
+Griffin Protector;M20;4;;20
+Harrier Naga;HOU;1;;118
+Headwater Sentries;XLN;2;;58
+Highborn Vampire;ZNR;2;;107
+Hitchclaw Recluse;GRN;2;;133
+Hooded Brawler;AKH;1;;173
+Illusory Wrappings;AKH;1;;58
+Impeccable Timing;AKH;2;;18
+In Oketra's Name;AKH;1;;19
+Inspired Charge;BFZ;1;;32
+Inspired Charge;M20;1;;24
+Inspiring Captain;SOI;1;;25
+Intrusive Packbeast;GRN;1;;17
+Iron Bully;WAR;3;;240
+Ironclad Krovod;WAR;2;;19
+Ixalli's Keeper;XLN;1;;193
+Jungle Delver;XLN;3;;195
+Karfell Harbinger;KHM;4;;65
+Kazandu Stomper;ZNR;3;;191
+Keldon Raider;DOM;2;;135
+Khenra Scrapper;HOU;2;;100
+Kindled Fury;HOU;1;;101
+Knight of New Benalia;DOM;4;;24
+Knight of the Keep;ELD;1;;19
+Kraul Foragers;GRN;1;;135
+Kraul Stinger;WAR;3;;165
+Lash of the Whip;THS;1;;94
+Lash of Thorns;ELD;2;;92
+Last Breath;THS;1;;22
+Leapfrog;GRN;1;;42
+Ledev Guardian;GRN;2;;18
+Living Tempest;ZNR;4;;65
+Locthwain Gargoyle;ELD;1;;225
+Loxodon Restorer;GRN;4;;20
+Loxodon Sergeant;WAR;2;;21
+Luminous Bonds;M19;1;;25
+Luminous Bonds;RIX;2;;12
+Maalfeld Twins;CMR;1;;132
+Makeshift Battalion;M21;1;;26
+Makeshift Battalion;WAR;3;;22
+Malevolent Noble;ELD;1;;95
+Mammoth Spider;M20;2;;181
+Manticore of the Gauntlet;AKH;1;;142
+Marauder's Axe;M20;1;;231
+Marauding Boneslasher;HOU;2;;70
+March of the Returned;THS;1;;96
+Masked Blackguard;M21;1;;113
+Memory Theft;ELD;1;;96
+Mephitic Vapors;GRN;1;;76
+Mighty Leap;AKH;1;;20
+Mind Rot;M20;1;;108
+Mistford River Turtle;ELD;1;;56
+Mistwalker;KHM;1;;68
+Molder Beast;CMR;1;;243
+Molten Blast;ZNR;3;;149
+Moonglove Extract;IMA;1;;222
+Moonlit Scavengers;ELD;1;;57
+Moorland Inquisitor;M20;1;;31
+Mosscoat Goriak;IKO;1;;167
+Mummy Paramount;HOU;1;;16
+Muse Drake;GRN;2;;46
+Naga Eternal;WAR;3;;60
+Nahiri's Stoneblades;WAR;3;;139
+Nantuko Shaman;IMA;2;;176
+Nef-Crop Entangler;AKH;1;;144
+Night Market Guard;AER;3;;166
+Nimana Skitter-Sneak;ZNR;3;;116
+Nissa's Zendikon;ZNR;2;;197
+Nyxborn Colossus;THB;1;;191
+Oashra Cultivator;AKH;1;;177
+Ogre Errant;ELD;2;;132
+Oketra's Avenger;HOU;1;;17
+One With the Wind;XLN;1;;64
+Open Fire;HOU;3;;105
+Ornery Dilophosaur;M21;1;;194
+Ornery Kudu;AKH;1;;178
+Outmuscle;ELD;2;;170
+Pack's Favor;GRN;2;;139
+Painful Lesson;AKH;3;;102
+Parhelion Patrol;GRN;1;;22
+Phantom Monster;IMA;2;;69
+Pierce the Sky;DOM;2;;176
+Pious Interdiction;XLN;2;;26
+Pirate's Cutlass;XLN;1;;242
+Piston-Fist Cyclops;GRN;1;;217
+Pitiless Gorgon;GRN;1;;218
+Plummet;M20;1;;188
+Plummet;IKO;1;;169
+Portcullis Vine;GRN;1;;142
+Pouncing Lynx;WAR;6;;25
+Precise Strike;AER;1;;92
+Primordial Wurm;DOM;1;;177
+Primordial Wurm;WAR;1;;174
+Prismite;WAR;2;;242
+Prosperous Pirates;CMR;1;;85
+Pterodon Knight;XLN;2;;28
+Pursue Glory;AKH;1;;147
+Pyroclastic Hellion;ZNR;2;;152
+Queen's Bay Soldier;XLN;1;;115
+Raging Kronch;WAR;2;;141
+Raptor Companion;XLN;1;;31
+Read the Tides;M21;1;;62
+Reave Soul;ELD;2;;103
+Redcap Raiders;ELD;1;;136
+Rescue;DOM;1;;63
+Righteous Blow;GRN;1;;23
+River Darter;RIX;3;;47
+Roaming Ghostlight;M21;1;;65
+Rookie Mistake;M21;1;;66
+Rosemane Centaur;GRN;2;;197
+Rosethorn Halberd;ELD;2;;175
+Rotfeaster Maggot;IMA;1;;105
+Rubblebelt Boar;GRN;2;;114
+Saheeli's Silverwing;WAR;3;;243
+Sailor of Means;CMR;1;;88
+Sanctum Gargoyle;2XM;2;;29
+Sandblast;HOU;1;;20
+Sarkhan's Catharsis;WAR;2;;144
+Scalding Cauldron;ELD;1;;229
+Scorch Rider;ZNR;1;;158
+Scrounger of Souls;HOU;2;;76
+Sea Gate Banneret;ZNR;3;;36
+Seafloor Stalker;ZNR;5;;78
+Seer of the Last Tomorrow;HOU;1;;44
+Seismic Shift;DOM;1;;141
+Sergeant-at-Arms;DOM;1;;32
+Shaper Apprentice;XLN;4;;75
+Shining Aerosaur;XLN;1;;36
+Shriekdiver;WAR;6;;103
+Sidewinder Naga;HOU;1;;134
+Siege Wurm;GRN;1;;144
+Silent Dart;M21;1;;237
+Skittering Heartstopper;XLN;4;;122
+Sky Theater Strix;WAR;1;;67
+Skyline Scout;GRN;1;;25
+Skymarch Bloodletter;XLN;3;;124
+Sleep of the Dead;THB;4;;66
+Snapping Drake;M19;1;;75
+Snarespinner;WAR;2;;176
+Sonic Assault;GRN;1;;199
+Soul Salvage;DOM;3;;104
+Soul's Might;CMR;1;;257
+Sparkmage's Gambit;OGW;1;;117
+Sparring Mummy;AKH;3;;29
+Spire Winder;RIX;3;;57
+Spontaneous Flight;IKO;1;;33
+Spreading Rot;XLN;2;;125
+Staunch Shieldmate;M21;2;;39
+Staunch Throneguard;CMR;1;;344
+Steelgaze Griffin;ELD;1;;65
+Stone Golem;M20;2;;240
+Storm Fleet Pyromancer;XLN;3;;163
+Stronghold Confessor;DOM;1;;105
+Subtle Strike;ZNR;1;;128
+Sumala Woodshaper;GRN;3;;200
+Sunmane Pegasus;THB;1;;38
+Sunrise Seeker;XLN;1;;40
+Supply Caravan;AKH;1;;30
+Sure Strike;XLN;4;;166
+Tah-Crop Elite;AKH;1;;31
+Tah-Crop Skirmisher;AKH;2;;72
+Take Heart;GRN;1;;28
+Tazeem Raptor;ZNR;2;;43
+Tectonic Rift;M20;5;;161
+Teeterpeak Ambusher;ZNR;4;;169
+Teyo's Lightshield;WAR;2;;33
+Thorned Moloch;HOU;1;;108
+Those Who Serve;AKH;1;;32
+Tilonalli's Knight;XLN;1;;169
+Tishana's Wayfinder;XLN;2;;211
+Titanic Growth;M19;1;;205
+Tithebearer Giant;WAR;2;;107
+Tome Anima;M21;1;;81
+Topple the Statue;WAR;5;;35
+Totally Lost;WAR;3;;74
+Trumpet Blast;M19;1;;165
+Trusted Pegasus;WAR;5;;36
+Turret Ogre;M21;1;;169
+Unburden;AKH;1;;114
+Uncomfortable Chill;M19;1;;82
+Unexplained Disappearance;GRN;2;;56
+Unexplained Vision;ELD;1;;70
+Unfriendly Fire;XLN;1;;172
+Universal Solvent;CMR;1;;347
+Unlikely Aid;IKO;2;;103
+Unlikely Aid;WAR;2;;109
+Unwavering Initiate;AKH;1;;36
+Valorous Steed;M21;1;;42
+Vampire Opportunist;WAR;3;;110
+Vampire Revenant;RIX;1;;89
+Vampire's Zeal;XLN;1;;43
+Vanquish the Weak;ZNR;2;;131
+Vedalken Mesmerist;GRN;1;;57
+Verdant Automaton;AER;2;;180
+Vernadi Shieldmate;GRN;2;;219
+Vial of Dragonfire;M20;3;;241
+Wall of Mist;GRN;2;;58
+War Screecher;WAR;2;;39
+Wardscale Crocodile;WAR;1;;183
+Wary Okapi;GRN;2;;149
+Watercourser;M13;1;;78
+Weapon Rack;ELD;1;;236
+Wild Ceratok;GRN;2;;150
+Wind Strider;XLN;2;;88
+Wishcoin Crab;M21;1;;86
+Wishcoin Crab;GRN;1;;60
+Wolf's Quarry;ELD;1;;184
+Ichthyomorphosis;THB;1;;51
+Squad Captain;CMR;1;;51
+Arena Trickster;THB;1;;126
+Adarkar Valkyrie;PLIST;1;;302
+Read the Runes;PLIST;1;;314
+Yore-Tiller Nephilim;PLIST;1;;339
